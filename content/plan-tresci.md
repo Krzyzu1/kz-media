@@ -30,7 +30,7 @@ Zasada: hook ma zatrzymać kciuk w pierwszej sekundzie. Konkret zamiast ogólnik
 
 ## Bank tematów
 ### Poradniki
-- [ ] Ile kosztuje strona i od czego zależy cena
+- [x] Ile kosztuje strona i od czego zależy cena (tydz. 2026-10-12)
 - [ ] Klient nie czyta. Skanuje. Jak pisać teksty na stronę
 - [ ] 5 rzeczy, które sprawdzasz, zanim Google pokaże Twoją firmę (Profil Firmy w Google)
 - [ ] Sekcja „O nas”, którą ktoś w końcu przeczyta
@@ -38,7 +38,7 @@ Zasada: hook ma zatrzymać kciuk w pierwszej sekundzie. Konkret zamiast ogólnik
 - [ ] Jak przygotować zdjęcia na stronę telefonem
 - [ ] Lokalny biznes w Płońsku: 3 rzeczy, które robią różnicę w Google
 ### Błędy i mity
-- [ ] Formularz z 10 polami? Właśnie zgubiłeś klienta
+- [x] Formularz z 10 polami? Właśnie zgubiłeś klienta (tydz. 2026-10-12)
 - [ ] Przycisk „Kontakt” to za mało
 - [ ] Zdjęcia ze stocka zabijają zaufanie
 - [ ] Strona za 500 zł. Co dokładnie kupujesz?
@@ -46,18 +46,18 @@ Zasada: hook ma zatrzymać kciuk w pierwszej sekundzie. Konkret zamiast ogólnik
 - [ ] Hosting za grosze: różnica, której nie widać od razu
 - [ ] Wolna strona: każda sekunda czekania to klient, który wraca do Google
 ### Przed i po / audyt
-- [ ] Nagłówek, który w 3 sekundy mówi, co robisz
+- [x] Nagłówek, który w 3 sekundy mówi, co robisz (tydz. 2026-10-12)
 - [ ] Post-audyt: wrzuć link w komentarzu, powiem, co poprawić
 - [ ] Ta sama strona na telefonie: przed i po
 ### Kulisy i AI
-- [ ] Jak AI zmienia robienie stron (i czego nie zastąpi)
+- [x] Jak AI zmienia robienie stron (i czego nie zastąpi) (tydz. 2026-10-12)
 - [ ] Mój stack: narzędzia, na których robię strony
 - [ ] Dzień z życia jednoosobowego studia
 - [ ] Strona od zera: jak wygląda proces krok po kroku
 - [ ] Dlaczego biorę 50% z góry
 ### Dowód i oferta
 - [ ] Case Murii: jedna marka, dwa światy (głębiej)
-- [ ] Case KADA: domy pod klucz, co zrobiłem i dlaczego
+- [x] Case KADA: domy pod klucz, co zrobiłem i dlaczego (tydz. 2026-10-12)
 - [ ] Strona dla dewelopera: co musi mieć
 - [ ] Strona dla architekta: portfolio, które sprzedaje
 - [ ] Opieka nad stroną: za co płacisz co miesiąc
@@ -66,13 +66,20 @@ Zasada: hook ma zatrzymać kciuk w pierwszej sekundzie. Konkret zamiast ogólnik
 - [ ] Nie potrzebujesz bloga (na start)
 - [ ] Branding to nie logo
 - [ ] Strona to nie wizytówka. To handlowiec, który pracuje 24/7
-- [ ] Najdroższa strona to ta, która nie dzwoni
+- [x] Najdroższa strona to ta, która nie dzwoni (tydz. 2026-10-12)
 ### Pytania
 - [ ] Co Cię najbardziej wkurza na stronach firm?
-- [ ] Strona czy Instagram: co daje Ci więcej klientów?
+- [x] Strona czy Instagram: co daje Ci więcej klientów? (tydz. 2026-10-12)
 - [ ] Jaką stronę ostatnio zapamiętałeś i dlaczego?
 - [ ] Gdybyś miał jutro nową stronę, co byś na niej zmienił?
 
 ## Opublikowane
 | Data | Temat | Format |
 |---|---|---|
+| 2026-10-12 18:00 | Ile kosztuje strona? | karuzela 6 |
+| 2026-10-13 10:00 | Formularz na 10 pól? | karuzela 4 |
+| 2026-10-14 10:00 | Nagłówek, który mówi, co robisz | karuzela 4 |
+| 2026-10-15 10:00 | Robię strony z AI. Ale nie tak, jak myślisz | karuzela 4 |
+| 2026-10-16 10:00 | Realizacja KADA | karuzela 4 |
+| 2026-10-17 10:00 | Najdroższa strona to ta, która nie dzwoni | post |
+| 2026-10-18 10:00 | Strona czy Instagram? | post (pytanie) |
