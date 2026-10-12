@@ -64,7 +64,7 @@ def slide(s, n, N):
             o.append(portrait(s['portrait']))
         if s.get('icon'):
             o.append(icon(s['icon'], s.get('iconcss', 'right:70px;top:420px;width:420px')))
-        o.append('<div class="star" style="left:470px;top:190px"></div>')
+        o.append('<div class="star" style="left:470px;top:190px"></div>' if s.get('portrait') else '<div class="star" style="right:110px;top:300px"></div>')
         o.append(f'<div class=pad style="top:{s.get("top",250)}px"><div class=eb>{s["eyebrow"]}</div>'
                  f'<h1 style="font-size:{s.get("size",122)}px;margin-top:40px">{g(s["h"])}</h1>'
                  f'<p class=b style="margin-top:34px;width:{s.get("subw",480)}px">{g(s.get("sub",""))}</p></div>')
