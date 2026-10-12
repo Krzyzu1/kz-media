@@ -9,7 +9,7 @@ Wszystkie PNG z przezroczystym tłem, 1792x2240 (portrety) lub 2k (obiekty). Pob
 | p_mysli | ręka przy brodzie, zamyślony, pytania i dylematy | https://d8j0ntlcm91z4.cloudfront.net/user_3FWzvcvRGVAXn9M6g4SysHxgxs3/hf_20261010_191354_83d01b55-ac23-4986-85b8-c5a4d40196bc.png |
 | p_kciuk_bok | kciuk wskazuje w lewo (na tekst), "zobacz to" | https://d8j0ntlcm91z4.cloudfront.net/user_3FWzvcvRGVAXn9M6g4SysHxgxs3/hf_20261010_191355_c997d2ac-c9ec-4e76-b8c2-1e98c97600aa.png |
 | p_wskazuje | palec na widza, CTA "Ty" | https://d8j0ntlcm91z4.cloudfront.net/user_3FWzvcvRGVAXn9M6g4SysHxgxs3/hf_20261010_191309_1bd6b89d-77b9-40ad-afa7-88358e70d6b2.png |
-| p_dwa | dwa palce, listy "2 rzeczy" lub "druga sprawa" | https://d8j0ntlcm91z4.cloudfront.net/user_3FWzvcvRGVAXn9M6g4SysHxgxs3/hf_20261010_191309_4ab61638-cff7-4e27-a10a-cc9a5700aed9.png |
+| p_dwa | TRZY palce (nie dwa), listy "3 rzeczy" | https://d8j0ntlcm91z4.cloudfront.net/user_3FWzvcvRGVAXn9M6g4SysHxgxs3/hf_20261010_191309_4ab61638-cff7-4e27-a10a-cc9a5700aed9.png |
 | p_wzruszenie | otwarte dłonie, sceptycyzm, mity i błędy | https://d8j0ntlcm91z4.cloudfront.net/user_3FWzvcvRGVAXn9M6g4SysHxgxs3/hf_20261010_191310_bd1837bf-8aaa-4b98-b7f2-98d8d80cabbc.png |
 | p_kciuk | kciuk w górę, dobre praktyki, podsumowania | https://d8j0ntlcm91z4.cloudfront.net/user_3FWzvcvRGVAXn9M6g4SysHxgxs3/hf_20261010_191309_31cb0f43-3e35-47fd-a9a1-a663cd393de9.png |
 | p_stop | dłoń "stop", ostrzeżenia, błędy | https://d8j0ntlcm91z4.cloudfront.net/user_3FWzvcvRGVAXn9M6g4SysHxgxs3/hf_20261010_191440_bb76ab57-9e4b-41bb-99f2-9ec9114fecb3.png |
