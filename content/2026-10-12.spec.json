@@ -1,0 +1,40 @@
+[
+ {"id":"pon","slides":[
+  {"type":"cover","eyebrow":"Poradnik · Ceny","h":"Ile<br>kosztuje<br><g>strona?</g>","sub":"I dlaczego dwie oferty na to samo różnią się o kilka tysięcy.","portrait":"p_palec.png"},
+  {"type":"point","eyebrow":"Punkt 01 z 3","num":"01","h":"Zakres<br><g>prac</g>","body":"Landing to jedna strona. Firmowa to kilka podstron, realizacje i blog. Każda podstrona to projekt, teksty i testy.","pill":"Policz, ile podstron potrzebujesz","pillIcon":"lista","icon":"laptop"},
+  {"type":"point","eyebrow":"Punkt 02 z 3","num":"02","h":"Teksty<br>i <g>zdjęcia</g>","body":"Gotowe treści od Ciebie albo pisane od zera. Własne zdjęcia albo sesja. To potrafi zmienić wycenę bardziej niż sam wygląd.","pill":"Sprawdź, co masz już gotowe","pillIcon":"aparat","icon":"aparat"},
+  {"type":"point","eyebrow":"Punkt 03 z 3","num":"03","h":"Technologia<br>i <g>edycja</g>","body":"Strona statyczna jest szybka i tania w utrzymaniu. WordPress, gdy chcesz sam dodawać wpisy i oferty. Sklep to płatności, koszyk i więcej testów.","pill":"Zdecyduj, co chcesz zmieniać sam","pillIcon":"kod","icon":"kod"},
+  {"type":"prices","eyebrow":"Widełki","h":"Ile to<br><g>kosztuje?</g>","rows":[["Landing / one-page","od 3000 zł"],["Strona firmowa","od 5000 zł"],["Sklep internetowy","od 8000 zł"],["Opieka nad stroną","od 150 zł / mies."]],"note":"Ostateczna kwota zależy od trzech punktów z poprzednich slajdów. Każda wycena jest indywidualna.","icon":"metka"},
+  {"type":"cta","eyebrow":"Wycena","h":"Chcesz<br>konkretną<br><g>wycenę?</g>","body":"Napisz, czym się zajmujesz i co strona ma robić. Odpiszę z widełkami, bez zobowiązań.","btn":"Napisz „WYCENA” w DM"}
+ ]},
+ {"id":"wt","slides":[
+  {"type":"cover","eyebrow":"Błąd · Kontakt","h":"Formularz<br>na <g>10 pól?</g>","size":118,"sub":"Każde dodatkowe pole to kolejny powód, żeby zamknąć kartę.","portrait":"p_stop.png"},
+  {"type":"point","eyebrow":"Punkt 01 z 2","num":"01","h":"Pytaj<br>o <g>minimum</g>","body":"Imię, telefon albo mail i krótka wiadomość. Resztę ustalisz w rozmowie. Klient ma do Ciebie napisać, a nie wypełniać ankietę.","pill":"Usuń każde pole, bez którego dasz radę","pillIcon":"lista","icon":"lista"},
+  {"type":"point","eyebrow":"Punkt 02 z 2","num":"02","h":"Daj<br><g>wybór</g>","body":"Nie każdy lubi pisać. Obok formularza daj numer telefonu i mail, które da się kliknąć. Na telefonie przycisk „Zadzwoń” robi robotę.","pill":"Sprawdź swój kontakt na telefonie","pillIcon":"telefon","icon":"telefon"},
+  {"type":"cta","eyebrow":"Mini-audyt","h":"Sprawdzę<br>Twój<br><g>formularz</g>","body":"Wyślij link do swojej strony w wiadomości. Powiem, co bym uprościł.","btn":"Napisz „FORMULARZ” w DM"}
+ ]},
+ {"id":"sr","slides":[
+  {"type":"cover","eyebrow":"Przed i po · Nagłówek","h":"Nagłówek,<br>który mówi,<br><g>co robisz</g>","size":110,"sub":"Na przykładzie firmy hydraulicznej. Ta sama zasada działa w każdej branży.","subw":520,"icon":"lupa","iconcss":"right:40px;top:470px;width:470px;transform:rotate(-8deg)"},
+  {"type":"compare","eyebrow":"Przed","variant":"before","label":"PRZYKŁAD · PRZED","card":{"h":"Witamy na naszej stronie!","p":"Jesteśmy firmą z wieloletnim doświadczeniem i pasją do tego, co robimy.","btn":"Więcej"},"notes":[["ostrzezenie","Nie wiadomo, co robisz"],["pinezka","Nie wiadomo, gdzie działasz"],["klepsydra","Nie wiadomo, co zrobić dalej"]]},
+  {"type":"compare","eyebrow":"Po","variant":"after","label":"PRZYKŁAD · PO","card":{"h":"Hydraulik w Płońsku. <g>Przyjadę jeszcze dziś.</g>","p":"Awarie, przyłącza, łazienki. Zadzwoń i powiedz, co się dzieje.","btn":"Zadzwoń teraz"},"notes":[["tarcza-ok","Co: hydraulik"],["pinezka","Gdzie: Płońsk"],["telefon","Krok: jeden przycisk"]]},
+  {"type":"formula","eyebrow":"Wzór","h":"Wzór na<br><g>nagłówek</g>","parts":[["tarcza","Co robisz"],["pinezka","Dla kogo albo gdzie"],["gwiazda","Dlaczego Ty"]],"pill":"Wrzuć swój nagłówek w komentarz, poprawię"}
+ ]},
+ {"id":"czw","slides":[
+  {"type":"cover","eyebrow":"Kulisy · AI","h":"Robię strony<br>z <g>AI</g>.<br>Ale nie tak,<br>jak myślisz.","size":100,"sub":"Co naprawdę przyspiesza, a czego nie odda żadne narzędzie.","portrait":"p_laptop.png"},
+  {"type":"point","eyebrow":"Punkt 01 z 2","num":"01","h":"Co<br><g>przyspiesza</g>","body":"Szkice układów, warianty tekstów, kod i poprawki idą dużo szybciej. Mniej klikania, więcej czasu na myślenie o Twoim kliencie.","pill":"Szybciej nie znaczy byle jak","pillIcon":"rakieta","icon":"rakieta"},
+  {"type":"point","eyebrow":"Punkt 02 z 2","num":"02","h":"Czego<br><g>nie zastąpi</g>","body":"Zrozumienia Twojej firmy i klienta. Decyzji, co ma być na górze strony. Sprawdzenia, czy wszystko działa na telefonie. To nadal robię ja.","pill":"Strategia zostaje po ludzkiej stronie","pillIcon":"zarowka","icon":"zarowka"},
+  {"type":"cta","eyebrow":"Proces","h":"Chcesz<br>zobaczyć,<br><g>jak pracuję?</g>","body":"Napisz, z jakiej branży jesteś. Pokażę proces krok po kroku na podobnym przykładzie.","btn":"Napisz „PROCES” w DM"}
+ ]},
+ {"id":"pt","slides":[
+  {"type":"device","eyebrow":"Realizacja · KADA","h":"Strona dla firmy,<br>która buduje<br><g>domy od A do Z</g>","size":88,"sub":"Domy pod klucz na działce klienta. Strona ma prowadzić prosto do rozmowy.","image":"laptop_kada.png"},
+  {"type":"list","eyebrow":"Co tu działa","h":"5 rzeczy,<br>które <g>sprzedają</g>","size":96,"icon":"puchar","items":[["tarcza-ok","Nagłówek: co, dla kogo i gdzie"],["kalendarz","Jeden główny krok: bezpłatna konsultacja"],["lista","Zakres do wyboru: od stanu surowego po klucz"],["dymek","FAQ odpowiada, zanim klient zadzwoni"],["telefon","Na telefonie przycisk „Zadzwoń” zawsze pod ręką"]]},
+  {"type":"phone","eyebrow":"Na telefonie","h":"Większość<br>wejść to<br><g>telefon</g>","size":84,"sub":"Dlatego najpierw projektuję widok mobilny, a dopiero potem komputer.","shot":"kada_mobile.png"},
+  {"type":"cta","eyebrow":"Twoja kolej","h":"Twoja firma<br><g>następna?</g>","body":"Napisz, czym się zajmujesz. Powiem, jak zbudowałbym stronę pod Twoich klientów.","btn":"Napisz „STRONA” w DM"}
+ ]},
+ {"id":"sob","slides":[
+  {"type":"single","eyebrow":"Opinia","h":"Najdroższa<br>strona to ta,<br>która <g>nie</g><br><g>dzwoni</g>.","size":100,"sub":"Tania strona bez klientów kosztuje więcej niż droga, która ich przynosi.","subw":520,"portrait":"p_wzruszenie.png","icon":"telefon","iconcss":"right:60px;top:110px;width:180px;transform:rotate(12deg)","foot":"Zgadzasz się?"}
+ ]},
+ {"id":"nd","slides":[
+  {"type":"single","eyebrow":"Pytanie na niedzielę","h":"Strona<br>czy<br><g>Instagram</g>?","size":120,"sub":"Co daje Ci więcej klientów?","subw":500,"portrait":"p_dwa.png","chips":[["laptop","A · Strona"],["aparat","B · Instagram"]],"foot":"Napisz A albo B"}
+ ]}
+]
