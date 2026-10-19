@@ -1,0 +1,74 @@
+[
+ {"id": "pon", "slides": [
+  {"type": "cover", "eyebrow": "Poradnik · Teksty", "h": "Klient<br>nie czyta.<br><g>Skanuje.</g>", "size": 118,
+   "sub": "4 zasady pisania tekstów na stronę, które przetrwają szybkie przewijanie.", "subw": 440, "portrait": "p_rece.png"},
+  {"type": "point", "eyebrow": "Zasada 01 z 4", "num": "01", "h": "Najważniejsze<br>na <g>górze</g>",
+   "body": "Co robisz, dla kogo i jak się z Tobą skontaktować. Historia firmy może poczekać niżej. Kto przewija w pośpiechu, widzi głównie początek.",
+   "pill": "Przenieś ofertę nad historię firmy", "pillIcon": "lista", "icon": "rakieta"},
+  {"type": "point", "eyebrow": "Zasada 02 z 4", "num": "02", "h": "Śródtytuły,<br>które <g>mówią</g>",
+   "body": "Zamiast „Nasze usługi” napisz „Remonty łazienek pod klucz”. Śródtytuł ma nieść informację, nawet jeśli ktoś przeczyta tylko jego.",
+   "pill": "Przeczytaj same śródtytuły. Mówią coś?", "pillIcon": "lupa", "icon": "lupa"},
+  {"type": "point", "eyebrow": "Zasada 03 z 4", "num": "03", "h": "Krótko.<br><g>Naprawdę</g> krótko.",
+   "body": "Akapit na 2 lub 3 zdania, jedna myśl na akapit. Na telefonie ściana tekstu wygląda jak regulamin. A regulaminów nikt nie czyta.",
+   "pill": "Otwórz swoją stronę na telefonie", "pillIcon": "telefon", "icon": "telefon"},
+  {"type": "point", "eyebrow": "Zasada 04 z 4", "num": "04", "h": "Słowa<br><g>klienta</g>",
+   "body": "Klient nie szuka „kompleksowych rozwiązań”. Szuka „naprawy pieca” albo „strony dla salonu”. Pisz tak, jak on mówi i jak wpisuje w Google.",
+   "pill": "Zapisz pytania, które klienci zadają przez telefon", "pillIcon": "dymek", "icon": "dymek"},
+  {"type": "cta", "eyebrow": "Mini-audyt", "h": "Sprawdzę<br>Twoje<br><g>teksty</g>",
+   "body": "Wyślij link do strony. Wskażę fragment, który najbardziej utrudnia szybkie czytanie.", "btn": "Napisz „TEKSTY” w DM"}
+ ]},
+ {"id": "wt", "slides": [
+  {"type": "cover", "eyebrow": "Mit · Google i AI", "h": "„AI w Google<br>zastąpi<br><g>moją stronę</g>”", "size": 96,
+   "sub": "Tryb AI odpowiada klientom za Ciebie. Tylko na podstawie czego?", "subw": 420, "portrait": "p_wzruszenie.png"},
+  {"type": "point", "eyebrow": "Prawda 01 z 2", "num": "01", "h": "Skąd AI ma<br><g>odpowiedź</g>",
+   "body": "Tryb AI w Google przeszukuje sieć i składa odpowiedź z tego, co znajdzie. Obok pokazuje linki do źródeł. Jeśli Twoja strona nic konkretnego nie mówi, nie ma z czego o Tobie napisać.",
+   "pill": "Wpisz w tryb AI: usługa + Twoje miasto", "pillIcon": "lupa", "icon": "seo", "iconcss": "right:-60px;top:150px;width:520px"},
+  {"type": "point", "eyebrow": "Prawda 02 z 2", "num": "02", "h": "Daj mu<br><g>konkrety</g>",
+   "body": "Co robisz, gdzie, w jakich godzinach i od ilu zaczynają się ceny. Pytania klientów z odpowiedziami. Do tego aktualny Profil Firmy w Google. To fakty, które da się zacytować.",
+   "pill": "Dopisz 3 pytania, które słyszysz najczęściej", "pillIcon": "dymek", "icon": "lista"},
+  {"type": "cta", "eyebrow": "Sprawdzę za Ciebie", "h": "Co AI<br><g>wie o Tobie?</g>",
+   "body": "Napisz, czym się zajmujesz i w jakim mieście. Sprawdzę, co tryb AI odpowiada na takie pytanie i czy jest tam Twoja firma.", "btn": "Napisz „AI” w DM"}
+ ]},
+ {"id": "sr", "slides": [
+  {"type": "device", "eyebrow": "Mini-audyt · krzyzu.studio", "h": "Audyt strony<br>w <g>60 sekund</g>.<br>Na mojej własnej.", "size": 90,
+   "sub": "5 pytań, które zadaję każdej stronie. Najpierw sprawdzam siebie.", "image": "laptop_ks.png", "imgtop": 560, "imgw": 850, "imgleft": 115},
+  {"type": "phone", "eyebrow": "Sekundy 0 do 5", "h": "Czy wiem,<br>co <g>robisz?</g>", "size": 84,
+   "sub": "Na telefonie od razu widać, co robię i co mogę dać. Pod nagłówkiem jeden główny przycisk: wycena.", "shot": "ks_mob.png"},
+  {"type": "list", "eyebrow": "Checklista", "h": "5 pytań<br>na <g>60 sekund</g>", "size": 96, "icon": "klepsydra",
+   "items": [["tarcza-ok", "Czy w 5 sekund wiem, co robisz?"], ["pinezka", "Czy widzę, gdzie działasz?"], ["rakieta", "Czy jest jeden główny przycisk?"], ["telefon", "Czy kontakt da się kliknąć na telefonie?"], ["puchar", "Czy jest dowód: realizacje lub opinie?"]]},
+  {"type": "cta", "eyebrow": "Twoja kolej", "h": "Wrzuć<br>swoją <g>stronę</g>", "size": 112,
+   "body": "Zostaw link w komentarzu albo w wiadomości. Przejdę te 5 pytań i napiszę, od czego zacząć.", "btn": "Napisz „AUDYT” w DM"}
+ ]},
+ {"id": "czw", "slides": [
+  {"type": "cover", "eyebrow": "Kulisy · Proces", "h": "Strona<br>od zera<br>w <g>5 krokach</g>", "size": 112,
+   "sub": "Co się dzieje między pierwszą wiadomością a dniem, w którym strona jest w Google.", "subw": 430, "portrait": "p_kciuk_bok.png"},
+  {"type": "list", "eyebrow": "Proces", "h": "Tak to<br><g>wygląda</g>", "size": 96, "icon": "zebatka",
+   "items": [["dymek", "01 Rozmowa: klienci, cel, co zmieniasz sam"], ["pedzel", "02 Projekt od razu w kodzie, bez szablonu"], ["lista", "03 Teksty pod Twoich klientów i Google"], ["telefon", "04 Testy na komputerze i telefonie"], ["rakieta", "05 Start, Search Console, Profil Firmy"]]},
+  {"type": "point", "eyebrow": "Najważniejszy krok", "num": "01", "h": "Rozmowa<br><g>przed kodem</g>",
+   "body": "Pytam, kto jest Twoim klientem, o co pyta przez telefon i co chcesz zmieniać sam. Od tego zależy, czy robię stronę statyczną, czy WordPressa.",
+   "pill": "Przygotuj 3 pytania, które klienci zadają najczęściej", "pillIcon": "lista", "icon": "dymek"},
+  {"type": "cta", "eyebrow": "Start", "h": "Zaczniemy<br>od <g>kroku 01?</g>",
+   "body": "Napisz, czym się zajmujesz. Umówimy krótką rozmowę i powiem, która droga ma sens u Ciebie.", "btn": "Napisz „START” w DM"}
+ ]},
+ {"id": "pt", "slides": [
+  {"type": "device", "eyebrow": "Realizacja · Murii", "h": "Dwie usługi.<br>Jeden ekran.<br><g>Zero chaosu.</g>", "size": 90,
+   "sub": "Murii projektuje wnętrza i domy w technologii CLT. Strona pokazuje oba światy od pierwszej sekundy.", "image": "laptop_mu.png", "imgtop": 600, "imgw": 850, "imgleft": 115},
+  {"type": "list", "eyebrow": "Co tu działa", "h": "Co tu<br><g>pracuje</g>", "size": 96, "icon": "puchar",
+   "items": [["laptop", "Ekran na pół: wnętrza i domy CLT"], ["tarcza-ok", "Każda połowa: nazwa, zdanie, jeden link"], ["pedzel", "Szkic przechodzi w gotowe wnętrze"], ["paleta", "Wspólne fonty trzymają jedną markę"], ["telefon", "Na telefonie jedna pod drugą"]]},
+  {"type": "phone", "eyebrow": "Na telefonie", "h": "Kciuk<br><g>wybiera</g>", "size": 88,
+   "sub": "Ten sam podział, tylko w pionie. Wnętrza na górze, domy niżej. Nikt nie musi szukać w menu.", "shot": "mu_mob.png"},
+  {"type": "cta", "eyebrow": "Twoja kolej", "h": "Masz<br><g>dwie usługi?</g>", "size": 104,
+   "body": "Napisz, co oferujesz. Pokażę, jak ułożyłbym to na jednym ekranie. Strona firmowa od 5000 zł, wycena indywidualna.", "btn": "Napisz „DWA” w DM"}
+ ]},
+ {"id": "sob", "slides": [
+  {"type": "single", "eyebrow": "Opinia", "h": "Branding<br>to nie<br><g>logo</g>.", "size": 120,
+   "sub": "Logo to podpis. Branding to wrażenie, które klient ma, zanim w ogóle go przeczyta.", "subw": 480,
+   "portrait": "p_wskazuje.png", "icon": "paleta", "iconcss": "right:60px;top:110px;width:190px;transform:rotate(10deg)", "foot": "Zgadzasz się?"}
+ ]},
+ {"id": "nd", "slides": [
+  {"type": "single", "eyebrow": "Pytanie na niedzielę", "h": "Co Cię<br><g>wkurza</g><br>na stronach<br>firm?", "size": 100,
+   "sub": "", "subw": 480, "portrait": "p_mysli.png",
+   "chips": [["ostrzezenie", "A · Wyskakujące okienka"], ["metka", "B · Brak cen"], ["telefon", "C · Nieklikalny numer"], ["klepsydra", "D · Wolne ładowanie"]],
+   "foot": "Napisz literę"}
+ ]}
+]
