@@ -31,7 +31,7 @@ Zasada: hook ma zatrzymać kciuk w pierwszej sekundzie. Konkret zamiast ogólnik
 ## Bank tematów
 ### Poradniki
 - [x] Ile kosztuje strona i od czego zależy cena (tydz. 2026-10-12)
-- [ ] Klient nie czyta. Skanuje. Jak pisać teksty na stronę
+- [x] Klient nie czyta. Skanuje. Jak pisać teksty na stronę (tydz. 2026-10-19)
 - [ ] 5 rzeczy, które sprawdzasz, zanim Google pokaże Twoją firmę (Profil Firmy w Google)
 - [ ] Sekcja „O nas”, którą ktoś w końcu przeczyta
 - [ ] Opinie klientów: gdzie je wstawić, żeby działały
@@ -39,6 +39,7 @@ Zasada: hook ma zatrzymać kciuk w pierwszej sekundzie. Konkret zamiast ogólnik
 - [ ] Lokalny biznes w Płońsku: 3 rzeczy, które robią różnicę w Google
 ### Błędy i mity
 - [x] Formularz z 10 polami? Właśnie zgubiłeś klienta (tydz. 2026-10-12)
+- [x] Mit: „AI w Google zastąpi moją stronę” (tryb AI w Google) (tydz. 2026-10-19)
 - [ ] Przycisk „Kontakt” to za mało
 - [ ] Zdjęcia ze stocka zabijają zaufanie
 - [ ] Strona za 500 zł. Co dokładnie kupujesz?
@@ -47,16 +48,16 @@ Zasada: hook ma zatrzymać kciuk w pierwszej sekundzie. Konkret zamiast ogólnik
 - [ ] Wolna strona: każda sekunda czekania to klient, który wraca do Google
 ### Przed i po / audyt
 - [x] Nagłówek, który w 3 sekundy mówi, co robisz (tydz. 2026-10-12)
-- [ ] Post-audyt: wrzuć link w komentarzu, powiem, co poprawić
+- [x] Post-audyt: wrzuć link w komentarzu, powiem, co poprawić (tydz. 2026-10-19)
 - [ ] Ta sama strona na telefonie: przed i po
 ### Kulisy i AI
 - [x] Jak AI zmienia robienie stron (i czego nie zastąpi) (tydz. 2026-10-12)
 - [ ] Mój stack: narzędzia, na których robię strony
 - [ ] Dzień z życia jednoosobowego studia
-- [ ] Strona od zera: jak wygląda proces krok po kroku
+- [x] Strona od zera: jak wygląda proces krok po kroku (tydz. 2026-10-19)
 - [ ] Dlaczego biorę 50% z góry
 ### Dowód i oferta
-- [ ] Case Murii: jedna marka, dwa światy (głębiej)
+- [x] Case Murii: jedna marka, dwa światy (głębiej) (tydz. 2026-10-19)
 - [x] Case KADA: domy pod klucz, co zrobiłem i dlaczego (tydz. 2026-10-12)
 - [ ] Strona dla dewelopera: co musi mieć
 - [ ] Strona dla architekta: portfolio, które sprzedaje
@@ -64,11 +65,11 @@ Zasada: hook ma zatrzymać kciuk w pierwszej sekundzie. Konkret zamiast ogólnik
 - [ ] Statyczna czy WordPress: co wybrać
 ### Opinie
 - [ ] Nie potrzebujesz bloga (na start)
-- [ ] Branding to nie logo
+- [x] Branding to nie logo (tydz. 2026-10-19)
 - [ ] Strona to nie wizytówka. To handlowiec, który pracuje 24/7
 - [x] Najdroższa strona to ta, która nie dzwoni (tydz. 2026-10-12)
 ### Pytania
-- [ ] Co Cię najbardziej wkurza na stronach firm?
+- [x] Co Cię najbardziej wkurza na stronach firm? (tydz. 2026-10-19)
 - [x] Strona czy Instagram: co daje Ci więcej klientów? (tydz. 2026-10-12)
 - [ ] Jaką stronę ostatnio zapamiętałeś i dlaczego?
 - [ ] Gdybyś miał jutro nową stronę, co byś na niej zmienił?
@@ -83,3 +84,10 @@ Zasada: hook ma zatrzymać kciuk w pierwszej sekundzie. Konkret zamiast ogólnik
 | 2026-10-16 10:00 | Realizacja KADA | karuzela 4 |
 | 2026-10-17 10:00 | Najdroższa strona to ta, która nie dzwoni | post |
 | 2026-10-18 10:00 | Strona czy Instagram? | post (pytanie) |
+| 2026-10-19 18:00 | Klient nie czyta. Skanuje. | karuzela 6 |
+| 2026-10-20 10:00 | Mit: AI w Google zastąpi moją stronę | karuzela 4 |
+| 2026-10-21 10:00 | Audyt strony w 60 sekund (krzyzu.studio) | karuzela 4 |
+| 2026-10-22 10:00 | Strona od zera w 5 krokach | karuzela 4 |
+| 2026-10-23 10:00 | Realizacja Murii: dwie usługi, jeden ekran | karuzela 4 |
+| 2026-10-24 10:00 | Branding to nie logo | post |
+| 2026-10-25 10:00 | Co Cię wkurza na stronach firm? | post (pytanie) |
