@@ -5,6 +5,9 @@ Publikacja: ręcznie przez Krzyżu (bez Metricool). Gotowe pliki: D:\Claude\KADA
 Plan tygodnia: w poniedziałki razem z planem @krzyzu.studio.
 Materiały Higgsfield: raz w miesiącu (ostatni poniedziałek miesiąca) biblioteka na kolejny miesiąc.
 
+## Uwagi dla zadania poniedziałkowego
+- Poniedziałek 2026-10-26: posty na wt 27.10 i pt 30.10 są JUŻ GOTOWE (D:\Claude\KADA Instagram). Nie rób nowych postów, przypomnij tylko Krzyżu o publikacji i przygotuj miesięczną bibliotekę + 8 tematów na listopad (to ostatni poniedziałek października).
+
 ## Styl (spójny z obecnym feedem)
 - Okładka: pełne zdjęcie lub wizualizacja KADA, logo w lewym górnym rogu, mała złota etykieta w prawym górnym, etykieta nad tytułem, tytuł Cormorant Garamond (1. linia biała, 2. złota kursywa), krótki podpis, stopka z linią i "PRZESUŃ →".
 - Środek: ciemne tło #12110E ze złotą poświatą, złoto #C6A15B / #E7CC82, Montserrat, ikony 3D kremowo-złote.
