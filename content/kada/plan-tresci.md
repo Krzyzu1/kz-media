@@ -11,7 +11,7 @@ Materiały Higgsfield: raz w miesiącu (ostatni poniedziałek miesiąca) bibliot
 ## Styl (spójny z obecnym feedem)
 - Okładka: pełne zdjęcie lub wizualizacja KADA, logo w lewym górnym rogu, mała złota etykieta w prawym górnym, etykieta nad tytułem, tytuł Cormorant Garamond (1. linia biała, 2. złota kursywa), krótki podpis, stopka z linią i "PRZESUŃ →".
 - Środek: ciemne tło #12110E ze złotą poświatą, złoto #C6A15B / #E7CC82, Montserrat, ikony 3D kremowo-złote.
-- Wizualizacje zawsze z dopiskiem "Wizualizacja". Terminy: zawsze "planowane zakończenie budowy".
+- NIGDY nie dodawaj dopisku "Wizualizacja" na grafikach (decyzja z 2026-10-20). Pokazuj tylko prawdziwe domy KADA, nigdy domów wygenerowanych przez AI. Terminy: zawsze "planowane zakończenie budowy".
 - Zero zmyślonych liczb i opinii. Fakty z kada-bud.pl, kada-a-z.pl i od Krzyżu.
 - Szablon: assets/kada (gen.py, kada.css, biblioteka.md). Spec: content/kada/RRRR-MM-DD.spec.json.
 
