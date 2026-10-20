@@ -77,6 +77,8 @@ def slide(s, n, N):
             rows = ''.join(f'<div class=step><i>{k:02d}</i><div><b>{a}</b>' + (f'<span>{b}</span>' if b else '') + '</div></div>'
                            for k, (a, b) in enumerate(s['items'], s.get('start', 1)))
             o.append(f'<div class=steps>{rows}</div>')
+            if s.get('img'):
+                o.append(f'<div class=photo style="height:{s.get("imgh",360)}px;background-image:url({s["img"]});background-position:{s.get("pos","center")}"></div>')
         elif t == 'compare':
             cols = ''
             for c in s['cols']:
@@ -95,7 +97,7 @@ def slide(s, n, N):
                      + (f'<div class=contact>{s["contact"]}</div>' if s.get('contact') else '')
                      + '<div class=save>Zapisz, żeby mieć pod ręką</div>')
         o.append('</div>')
-        if t in ('object', 'cta') and s.get('obj'):
+        if s.get('obj'):
             o.append(f'<img class=obj src="{s["obj"]}" style="{s.get("objcss","")}">')
         o.append(foot(s.get('foot', 'KADA House · kada-bud.pl'), False))
         o.append(note(s.get('note')))
