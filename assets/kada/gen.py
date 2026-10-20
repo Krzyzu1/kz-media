@@ -97,7 +97,7 @@ def slide(s, n, N):
             rows = ''.join(f'<div>{x}</div>' for x in s['contact'].split('<br>')) if s.get('contact') else ''
             o.append('<div class=btn>' + (f'<small>{lab}</small>' if lab else '') + f'<b>{num}</b></div>'
                      + (f'<div class=contact>{rows}</div>' if rows else '')
-                     + '<div class=save>Zapisz, żeby mieć pod ręką</div>')
+                     + ('' if s.get('nosave') else '<div class=save>Zapisz, żeby mieć pod ręką</div>'))
         o.append('</div>')
         if s.get('obj'):
             o.append(f'<img class=obj src="{s["obj"]}" style="{s.get("objcss","")}">')

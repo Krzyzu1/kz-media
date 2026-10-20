@@ -13,7 +13,9 @@ Render: sandbox Higgsfield (sandbox_exec). Krok po kroku:
 Typy slajdów: photo, cover, stats, features, list, steps, compare, gallery, cta.
 - stats z polem "hero" = zdjęcie na całą górę slajdu, przechodzi w czerń; dla tego układu daj "top":490 i "size":92.
 - domyślnie: tytuł okładki 132 px, tytuł środka 104 px, "top" 220.
-- "note":"Wizualizacja" na każdym slajdzie z wizualizacją (okładka i hero).
+- NIGDY nie dodawaj dopisku "Wizualizacja" (ani "note", ani w tekście). Decyzja Dominika z 2026-10-20.
+- Na slajdach pokazuj tylko prawdziwe domy KADA (zdjęcia i wizualizacje z kada-bud.pl / kada-a-z.pl). Żadnych domów wygenerowanych przez AI.
+- cta z o_blizniak.png: budynek na górze, tekst pod nim. Wzór: "top":590, "size":88, "subw":912, "nosave":true, "objcss":"left:90px;top:170px;width:900px", kontakt w jednej linii.
 
 ## Ikony 3D (kremowa ceramika + złoto, przezroczyste tło)
 Arkusz A: https://d8j0ntlcm91z4.cloudfront.net/user_3FWzvcvRGVAXn9M6g4SysHxgxs3/hf_20261020_152617_4220fe21-1f01-49e0-9be3-fa45693ab8fd.png
@@ -24,7 +26,8 @@ Cięcie: convert arkusz.png -crop 682x682+$((c*683))+$((r*683)) +repage -channel
 Uwaga: telefon ma pusty ekran, wygląda słabo jako samodzielny obiekt.
 
 ## Duże obiekty
-- o_dom (makieta domu w stylu stodoły na złotej podstawie, do CTA): https://d8j0ntlcm91z4.cloudfront.net/user_3FWzvcvRGVAXn9M6g4SysHxgxs3/hf_20261020_152617_66f8e60c-434a-43f1-9de2-2504d1b661e8.png
+- o_blizniak (prawdziwy bliźniak z Jachranki, wycięty z wizualizacji N06, przezroczyste tło, dół wygaszony; do CTA): assets/kada/o_blizniak.png w repo, bez dodatkowego cięcia
+- NIE UŻYWAĆ: o_dom (makieta domu wygenerowana przez AI, nie jest projektem KADA i wprowadza klienta w błąd)
 - o_umowa (umowa, klucze, pióro, pieczęć; okładki poradników): https://d8j0ntlcm91z4.cloudfront.net/user_3FWzvcvRGVAXn9M6g4SysHxgxs3/hf_20261020_152621_c4faaac6-fa17-4e98-bb73-2a84991659bb.png
 Obiekty przyciąć: -channel A -level 12%,100% +channel -trim (o_umowa: -level 35%,100%, inaczej zostaje jasna obwódka)
 
