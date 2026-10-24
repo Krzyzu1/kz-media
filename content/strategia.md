@@ -70,6 +70,12 @@ Zasady: tylko prawdziwi klienci i dane, zgoda klienta, data przy liczbach.
 ## 7. Seria „Gdybym robił stronę dla…”
 Kolejność: warsztat samochodowy, fryzjer / barber, dentysta, fizjoterapeuta, elektryk, stolarz / meble na wymiar, firma budowlana, agent nieruchomości, restauracja, salon beauty, hotel / agroturystyka, szkoła językowa, przedszkole prywatne, weterynarz, biuro rachunkowe.
 Każdy odcinek: okładka z koncepcją ekranu na telefonie (wyraźnie „KONCEPCJA”), 3 decyzje (nagłówek, główny przycisk, dowód zaufania), CTA „Masz taką firmę? Napisz BRANŻA, pokażę to na Twojej stronie”.
+**Standard wizualny (wymóg Krzyżu, zawsze):** koncept ma wyglądać jak prawdziwa, dopracowana strona, nie jak szkic. Za każdym razem:
+- pełna strona HTML w `content/koncepty/<branża>/` z własną identyfikacją (nazwa wymyślonej marki, kolory, fonty), realnymi sekcjami (pasek z godzinami, nawigacja z telefonem, hero, proces, cennik „od”, przyklejony pasek kontaktu na telefonie), wersja desktop i mobile dopracowane osobno;
+- zdjęcia z Higgsfield (gpt_image_2_5, high, 2k), realistyczne, z Warszawą w tle, gdy pasuje (mieści się w limicie 2 generacji na tydzień);
+- okładka `koncept`: laptop + telefon z prawdziwymi zrzutami tej strony, etykieta „Koncepcja”; slajdy decyzji: układ `phone` ze zrzutami;
+- przed wysłaniem do akceptacji obejrzeć każdy zrzut (ostrość, kadr, brak nachodzących elementów, brak pustych sekcji) i poprawić, aż wygląda jak gotowa realizacja;
+- w opisie posta jasno: marka wymyślona na potrzeby serii.
 
 ## 8. Hooki dla właścicieli firm (bank)
 1. Masz ładną stronę, a klient i tak dzwoni do konkurencji. Dlaczego?
