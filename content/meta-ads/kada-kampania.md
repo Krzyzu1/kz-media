@@ -213,4 +213,4 @@ Pliki w `content/meta-ads/kreacje/`.
 
 ## 9. Zgoda KADA na publiczne pokazanie liczb i reklam
 
-**Do potwierdzenia.**
+**TAK.** KADA zgodziła się na pokazanie liczb i kreacji (potwierdził Krzyżu 24.10.2026). Nie pokazujemy spraw wewnętrznych: brak piksela, ograniczenie konta, dane do faktur.
