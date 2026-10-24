@@ -75,7 +75,8 @@ Każdy odcinek: okładka z koncepcją ekranu na telefonie (wyraźnie „KONCEPCJ
 - zdjęcia z Higgsfield (gpt_image_2_5, high, 2k), realistyczne, z Warszawą w tle, gdy pasuje (mieści się w limicie 2 generacji na tydzień);
 - okładka `koncept`: laptop + telefon z prawdziwymi zrzutami tej strony, etykieta „Koncepcja”; slajdy decyzji: układ `phone` ze zrzutami;
 - przed wysłaniem do akceptacji obejrzeć każdy zrzut (ostrość, kadr, brak nachodzących elementów, brak pustych sekcji) i poprawić, aż wygląda jak gotowa realizacja;
-- w opisie posta jasno: marka wymyślona na potrzeby serii.
+- w opisie posta jasno: marka wymyślona na potrzeby serii;
+- post z realistycznymi zdjęciami z Higgsfield planować z `"isAiGenerated": true` (oznaczenie AI na Instagramie, zgoda Krzyżu 24.10). Pozostałe posty bez zdjęć AI zostają `false`.
 
 ## 8. Hooki dla właścicieli firm (bank)
 1. Masz ładną stronę, a klient i tak dzwoni do konkurencji. Dlaczego?
