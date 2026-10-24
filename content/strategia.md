@@ -18,7 +18,7 @@ Czym różnimy się od typowej agencji od stron:
 - Jedna osoba, bez pośredników, z własną twarzą na profilu.
 
 ## 3. Idealny klient
-Właściciel lub współwłaściciel firmy usługowej, budowlanej, deweloperskiej albo lokalnej marki (Mazowsze i cała Polska), 30 do 55 lat, firma działa i ma klientów z polecenia, ale chce stabilnego dopływu zapytań. Decyduje sam albo ze wspólnikiem. Na stronę i reklamy wyda kilka tysięcy, jeśli zobaczy, że to się zwraca.
+Właściciel lub współwłaściciel firmy usługowej, budowlanej, deweloperskiej albo lokalnej marki. **Rynek docelowy: Warszawa** (w tekstach i grafikach zawsze Warszawa, hashtag lokalny #warszawa), 30 do 55 lat, firma działa i ma klientów z polecenia, ale chce stabilnego dopływu zapytań. Decyduje sam albo ze wspólnikiem. Na stronę i reklamy wyda kilka tysięcy, jeśli zobaczy, że to się zwraca.
 
 15 problemów, obaw i triggerów:
 1. Ma stronę, ale nikt przez nią nie dzwoni.
@@ -55,7 +55,7 @@ Właściciel lub współwłaściciel firmy usługowej, budowlanej, deweloperskie
 | sob 10:00 | Opinia | `opinia` |
 | nd 10:00 | Pytanie do odbiorców | `single` z portretem |
 Rolki: nagrywa i wrzuca Krzyżu, kiedy chce (poza planem). Relacje: Krzyżu, według sekcji 9.
-**Dystrybucja:** najlepszy post tygodnia (zwykle poniedziałkowy dowód) promowany w Meta Ads: 10 do 15 zł dziennie przez 5 dni, właściciele firm, Mazowsze. To jest główna dźwignia na zapytania, nie liczba postów.
+**Dystrybucja:** najlepszy post tygodnia (zwykle poniedziałkowy dowód) promowany w Meta Ads: 10 do 15 zł dziennie przez 5 dni, właściciele firm, Warszawa. To jest główna dźwignia na zapytania, nie liczba postów.
 
 ## 6. System case study (zawsze ta sama kolejność slajdów)
 1. Okładka `case`: wielka liczba lub efekt + klient i branża.

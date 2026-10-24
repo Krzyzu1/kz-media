@@ -40,7 +40,7 @@ Zasada: hook ma zatrzymać kciuk w pierwszej sekundzie, językiem właściciela 
 - [ ] Sekcja „O nas”, którą ktoś w końcu przeczyta
 - [ ] Opinie klientów: gdzie je wstawić, żeby działały
 - [ ] Jak przygotować zdjęcia na stronę telefonem
-- [ ] Lokalny biznes w Płońsku: 3 rzeczy, które robią różnicę w Google
+- [ ] Lokalny biznes w Warszawie: 3 rzeczy, które robią różnicę w Google
 ### Błędy i mity
 - [x] Formularz z 10 polami? Właśnie zgubiłeś klienta (tydz. 2026-10-12)
 - [x] Mit: „AI w Google zastąpi moją stronę” (tryb AI w Google) (tydz. 2026-10-19)

@@ -3,7 +3,7 @@
 Uzycie: python3 gen.py spec.json   -> tworzy <id>.html dla kazdego slajdu.
 Wymaga w katalogu roboczym: base.css, logo.png, f/ (fontsource), ikony/, portrety (p_*.png), ewentualne obrazy.
 Typy slajdow: cover, point, prices, compare, formula, cta, device, list, phone, single.
-Uklady v2 (od 2026-10-26): realizacja, case, problem, versus, gdybym, kulisy, oferta, opinia, story.
+Uklady v2 (od 2026-10-26): realizacja, case, problem, versus, gdybym, koncept, kulisy, oferta, opinia, story.
 W polach h/sub/body mozna uzyc <g>slowo</g> dla gradientu.
 """
 import json, sys, html as H
@@ -250,6 +250,17 @@ def slide2(s, n, N):
                  f'<p class=b style="margin-top:34px">{g(s.get("sub", ""))}</p></div>')
         if N > 1:
             o.append('<div class="pad swipe" style="bottom:200px">Przesuń <span>→</span></div>')
+    elif t == 'koncept':
+        # SERIA Gdybym: realistyczny koncept strony na laptopie i telefonie
+        o.append('<div class=grid></div>')
+        o.append(f'<img src="{s["laptop"]}" style="position:absolute;left:{s.get("lapleft", -10)}px;top:{s.get("laptop_top", 560)}px;width:{s.get("lapw", 900)}px;filter:drop-shadow(0 40px 70px rgba(0,0,0,.6))">')
+        o.append(f'<div style="position:absolute;right:{s.get("phright", 60)}px;top:{s.get("phtop", 520)}px;width:280px;height:606px;border-radius:44px;padding:10px;background:#0d0f12;border:2px solid #2b2f36;box-shadow:0 0 0 1px rgba(255,255,255,.06) inset,0 40px 80px rgba(0,0,0,.6),0 0 60px rgba(77,104,255,.35)">'
+                 f'<div style="width:100%;height:100%;border-radius:34px;overflow:hidden;background:#000"><img src="{s["phone"]}" style="width:100%;display:block"></div></div>')
+        o.append(f'<div style="position:absolute;right:{s.get("phright", 60) + 60}px;top:{s.get("phtop", 520) + 586}px">{label("Koncepcja", "w")}</div>')
+        o.append(f'<div class=pad style="top:110px"><div class=eb>{s.get("eyebrow", "Seria")}</div>'
+                 f'<div style="font-family:Sora;font-weight:700;font-size:46px;margin-top:34px;line-height:1.1;color:#c7cbf0">Gdybym robił stronę dla</div>'
+                 f'<h1 class=gr style="font-size:{s.get("size", 120)}px;margin-top:8px;display:inline-block">{s["branza"]}</h1>'
+                 f'<p class=b style="margin-top:20px;width:{s.get("subw", 900)}px">{g(s.get("sub", ""))}</p></div>')
     elif t == 'kulisy':
         # KULISY: siatka, okno terminala, portret lustrzanie po lewej
         o.append('<div class=grid></div>')

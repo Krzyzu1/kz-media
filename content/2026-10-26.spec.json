@@ -215,58 +215,47 @@
   "id": "sr",
   "slides": [
    {
-    "type": "gdybym",
+    "type": "koncept",
     "eyebrow": "Seria · odcinek 1",
     "branza": "mechanika",
-    "size": 86,
-    "sub": "Warsztat samochodowy: 3 decyzje, od których bym zaczął.",
-    "concept": {
-     "brand": "AUTO SERWIS",
-     "h": "Naprawa auta w Płońsku. Wycena przed naprawą.",
-     "p": "Mechanika, diagnostyka, klimatyzacja. Zostaw auto rano, odbierz po pracy.",
-     "btn": "Zadzwoń teraz",
-     "badges": [
-      "Termin w tym tygodniu",
-      "Cena znana przed naprawą",
-      "Parking pod warsztatem"
-     ],
-     "bg": "#16181d",
-     "accent": "#ff7a1a"
-    }
+    "size": 120,
+    "sub": "Warszawa. Strona, przez którą kierowca dzwoni, zanim zamknie kartę.",
+    "subw": 880,
+    "laptop": "laptop_mech.png",
+    "phone": "m1.png",
+    "laptop_top": 560,
+    "lapw": 880,
+    "lapleft": -20,
+    "phtop": 500,
+    "phright": 56
    },
    {
-    "type": "point",
+    "type": "phone",
     "eyebrow": "Decyzja 01 z 3",
-    "num": "01",
-    "h": "Nagłówek<br>z <g>miastem</g>",
-    "body": "Ktoś szuka warsztatu, bo auto stoi. Pierwsza linijka mówi co, gdzie i co dalej. Bez „Witamy” i bez historii firmy.",
-    "pill": "Czy Twój nagłówek ma miasto?",
-    "pillIcon": "lupa",
-    "icon": "pinezka"
+    "h": "Miasto<br>i obietnica<br><g>w nagłówku</g>",
+    "size": 78,
+    "sub": "„Naprawa auta w Warszawie. Cenę znasz przed naprawą.” Kierowca w 3 sekundy wie, że trafił dobrze i czego się spodziewać.",
+    "shot": "m1.png"
    },
    {
-    "type": "point",
+    "type": "phone",
     "eyebrow": "Decyzja 02 z 3",
-    "num": "02",
     "h": "Telefon<br><g>pod kciukiem</g>",
-    "body": "Kierowca z zepsutym autem nie wypełnia formularza. Dzwoni. Przycisk „Zadzwoń” przyklejony na dole ekranu telefonu, zawsze widoczny.",
-    "pill": "Otwórz swoją stronę na telefonie",
-    "pillIcon": "telefon",
-    "icon": "telefon"
+    "size": 80,
+    "sub": "Kierowca z zepsutym autem nie wypełnia formularza. Dzwoni. Pasek „Zadzwoń teraz” jedzie z nim po całej stronie.",
+    "shot": "m2.png"
    },
    {
-    "type": "point",
+    "type": "phone",
     "eyebrow": "Decyzja 03 z 3",
-    "num": "03",
-    "h": "Cena<br><g>przed</g> naprawą",
-    "body": "Największy strach klienta warsztatu? Że zapłaci dwa razy więcej, niż myślał. Jedno zdanie o wycenie przed naprawą robi więcej niż 10 zdjęć warsztatu.",
-    "pill": "Napisz to wprost na górze strony",
-    "pillIcon": "metka",
-    "icon": "metka"
+    "h": "Cena<br><g>przed</g><br>naprawą",
+    "size": 84,
+    "sub": "Największy strach klienta warsztatu to rachunek. Wycena SMS-em przed naprawą robi więcej niż 10 zdjęć warsztatu.",
+    "shot": "m3.png"
    },
    {
     "type": "cta",
-    "eyebrow": "Masz warsztat?",
+    "eyebrow": "Masz warsztat w Warszawie?",
     "h": "Pokażę to<br>na <g>Twojej</g><br>stronie",
     "body": "Napisz „WARSZTAT” i wyślij link. Przejdę te 3 decyzje na Twojej stronie.",
     "btn": "Napisz „WARSZTAT” w DM"
