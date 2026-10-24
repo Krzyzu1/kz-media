@@ -2,18 +2,22 @@
 
 Rytm: 7 postów w tygodniu. Plan na cały tydzień przychodzi w poniedziałek około 9:00, po akceptacji posty idą do Metricool.
 
-## Filary na każdy dzień
-| Dzień | Filar | Format | Grafika AI |
-|---|---|---|---|
-| Poniedziałek | Poradnik: konkretna wiedza do zapisania | Karuzela 5 do 7 slajdów, okładka z portretem | portret + 1 ilustracja |
-| Wtorek | Błąd lub mit, który kosztuje klientów | Karuzela 3 do 5 slajdów | 1 ilustracja |
-| Środa | Przed i po / mini-audyt | Karuzela ze zrzutami stron | zrzuty, bez AI |
-| Czwartek | Kulisy studia, narzędzia, AI w pracy | Post lub karuzela z portretem | portret |
-| Piątek | Dowód i oferta: realizacja albo jak wygląda współpraca | Karuzela | zrzuty realizacji |
-| Sobota | Opinia: mocna, kontrowersyjna teza | Pojedynczy post, duży nagłówek | bez AI lub ilustracja |
-| Niedziela | Pytanie do odbiorców, lekki temat | Pojedynczy post | bez AI |
+## Uwagi dla zadania poniedziałkowego
+- Tydzień 2026-10-26 (pon 26.10 do nd 1.11) jest JUŻ PRZYGOTOWANY w sesji z 24.10 (content/2026-10-26.*: spec, posts.json z podpisami, png.txt z URL-ami). Nie rób nowych postów: sprawdź w Metricool, czy są zaplanowane. Jeśli nie są, wyślij Krzyżu przypomnienie o akceptacji tego planu.
+- Od tygodnia 2026-11-02 planuj według content/strategia.md (filary, rytm i układy v2 poniżej).
 
-Zasada: hook ma zatrzymać kciuk w pierwszej sekundzie. Konkret zamiast ogólników, zero zmyślonych liczb i realizacji.
+## Filary na każdy dzień (od 2026-10-26, szczegóły: content/strategia.md)
+| Dzień | Filar | Układ grafiki (gen.py) |
+|---|---|---|
+| Poniedziałek 18:00 | Dowód: case study / realizacja (z liczbami i datą) | case, story, versus, prices / realizacja |
+| Wtorek | Problem klienta / mit | problem, story, prices |
+| Środa | Gdybym robił stronę dla… / przed i po | gdybym, point / versus |
+| Czwartek | Kulisy i proces | kulisy, list, story |
+| Piątek | Oferta (co 2 tyg.) albo realizacja | oferta (jasny kafel) / realizacja |
+| Sobota | Opinia | opinia (sama typografia) |
+| Niedziela | Pytanie do odbiorców | single z portretem |
+
+Zasada: hook ma zatrzymać kciuk w pierwszej sekundzie, językiem właściciela firmy. Konkret zamiast ogólników, zero zmyślonych liczb i realizacji. Rolki nagrywa Krzyżu sam.
 
 ## Już były na profilu (nie powtarzać 1:1)
 - Jedna marka, dwa kierunki, jedno wejście (Murii)
