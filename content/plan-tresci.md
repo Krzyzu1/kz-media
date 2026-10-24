@@ -69,12 +69,12 @@ Zasada: hook ma zatrzymać kciuk w pierwszej sekundzie, językiem właściciela 
 - [ ] Statyczna czy WordPress: co wybrać
 ### Meta Ads (nowa usługa, dane: content/meta-ads/kada-kampania.md)
 Zgoda KADA na liczby i kreacje: TAK (24.10). Nie pokazujemy spraw wewnętrznych (piksel, ograniczenie konta, faktury). Liczby zawsze z datą („w pierwszych 4 dniach”), kontakty to nie sprzedaż.
-- [ ] „Zostały 2 z 8” vs „Co dostajesz”: konkret w cenie wygrał z presją (opinia/edukacja)
-- [ ] Tanie kliknięcie to nie klient: kampania Ruch vs Kontakty (mit)
-- [ ] Zanim wydam pierwszą złotówkę: checklista przed startem kampanii (kulisy)
+- [x] „Zostały 2 z 8” vs „Co dostajesz”: konkret w cenie wygrał z presją (opinia/edukacja)
+- [x] Tanie kliknięcie to nie klient: kampania Ruch vs Kontakty (mit)
+- [x] Zanim wydam pierwszą złotówkę: checklista przed startem kampanii (kulisy)
 - [ ] „Zobacz na żywo”: zaproszenie zamiast „kup teraz” (edukacja)
 - [ ] Case KADA: kampania Meta Ads po zakończeniu (po 19.11, pełne dane)
-- [ ] Oferta: Meta Ads w krzyzu.studio (start kampanii od 1200 zł, prowadzenie od 900 zł/mies., pakiet strona + reklamy od 3900 zł; budżet reklamowy osobno, min. 30 do 50 zł dziennie)
+- [x] Oferta: Meta Ads w krzyzu.studio (start kampanii od 1200 zł, prowadzenie od 900 zł/mies., pakiet strona + reklamy od 3900 zł; budżet reklamowy osobno, min. 30 do 50 zł dziennie)
 ### Opinie
 - [ ] Nie potrzebujesz bloga (na start)
 - [x] Branding to nie logo (tydz. 2026-10-19)
@@ -103,3 +103,10 @@ Zgoda KADA na liczby i kreacje: TAK (24.10). Nie pokazujemy spraw wewnętrznych 
 | 2026-10-23 10:00 | Realizacja Murii: dwie usługi, jeden ekran | karuzela 4 |
 | 2026-10-24 10:00 | Branding to nie logo | post |
 | 2026-10-25 10:00 | Co Cię wkurza na stronach firm? | post (pytanie) |
+| 2026-10-26 18:00 | Case KADA: kampania Meta Ads, pierwsze 4 dni | karuzela 7 (case) |
+| 2026-10-27 10:00 | Mit: tanie kliknięcie to nie klient | karuzela 4 (problem) |
+| 2026-10-28 10:00 | Gdybym robił stronę dla mechanika (odc. 1, Warszawa) | karuzela 5 (gdybym) |
+| 2026-10-29 10:00 | Kulisy: zanim wydam pierwszą złotówkę klienta | karuzela 4 (kulisy) |
+| 2026-10-30 10:00 | Oferta: strona i reklama z jednej ręki | post (oferta) |
+| 2026-10-31 10:00 | Opinia: presja nie sprzedaje, konkret tak | post (opinia) |
+| 2026-11-01 19:00 | Pytanie: promowałeś kiedyś post? (test godziny wieczornej) | post (pytanie) |
