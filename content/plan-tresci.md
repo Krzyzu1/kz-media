@@ -63,6 +63,14 @@ Zasada: hook ma zatrzymać kciuk w pierwszej sekundzie. Konkret zamiast ogólnik
 - [ ] Strona dla architekta: portfolio, które sprzedaje
 - [ ] Opieka nad stroną: za co płacisz co miesiąc
 - [ ] Statyczna czy WordPress: co wybrać
+### Meta Ads (nowa usługa, dane: content/meta-ads/kada-kampania.md)
+Warunek: zgoda KADA na liczby i kreacje (stan 24.10: do potwierdzenia). Bez zgody tylko proces, bez liczb i grafik reklam. Liczby zawsze z datą („w pierwszych 4 dniach”), kontakty to nie sprzedaż.
+- [ ] „Zostały 2 z 8” vs „Co dostajesz”: konkret w cenie wygrał z presją (opinia/edukacja)
+- [ ] Tanie kliknięcie to nie klient: kampania Ruch vs Kontakty (mit)
+- [ ] Zanim wydam pierwszą złotówkę: checklista przed startem kampanii (kulisy)
+- [ ] „Zobacz na żywo”: zaproszenie zamiast „kup teraz” (edukacja)
+- [ ] Case KADA: kampania Meta Ads po zakończeniu (po 19.11, pełne dane)
+- [ ] Oferta: Meta Ads w krzyzu.studio, strona + reklama (cena „od” do ustalenia)
 ### Opinie
 - [ ] Nie potrzebujesz bloga (na start)
 - [x] Branding to nie logo (tydz. 2026-10-19)
