@@ -287,8 +287,10 @@ def slide2(s, n, N):
     elif t == 'story':
         # Slajd środkowy case study: etykieta etapu, nagłówek, tekst, opcjonalny obraz
         o.append(f'<div class=pad style="top:110px">{label(s["label"], s.get("kind", "b"))}<span class=mono style="margin-left:18px;font-size:22px;letter-spacing:.2em;color:#7c82ad">{s.get("step", "")}</span></div>')
-        o.append(f'<div class=pad style="top:220px"><h1 style="font-size:{s.get("size", 84)}px">{g(s["h"])}</h1>'
-                 f'<p class=b style="margin-top:30px;width:{s.get("bodyw", 900)}px">{g(s.get("body", ""))}</p></div>')
+        if s.get('icon'):
+            o.append(icon(s['icon'], s.get('iconcss', 'right:60px;bottom:190px;width:330px;transform:rotate(-8deg)')))
+        o.append(f'<div class=pad style="top:230px"><h1 style="font-size:{s.get("size", 100)}px">{g(s["h"])}</h1>'
+                 f'<p class=b style="margin-top:34px;font-size:34px;width:{s.get("bodyw", 900)}px">{g(s.get("body", ""))}</p></div>')
         if s.get('image'):
             o.append(f'<div class=adcard style="position:absolute;left:{s.get("imgleft", 84)}px;top:{s.get("imgtop", 640)}px;width:{s.get("imgw", 420)}px;transform:rotate({s.get("rot", 0)}deg)"><img src="{s["image"]}"></div>')
         if s.get('chips'):

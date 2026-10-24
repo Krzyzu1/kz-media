@@ -1,82 +1,425 @@
 [
- {"id": "pon", "slides": [
-  {"type": "case", "client": "KADA · JACHRANKA", "num": "9", "h": "kontaktów w 4 dni.<br>Za <g>112 zł.</g>", "size": 80, "hw": 620,
-   "sub": "Kampania Meta Ads dla dewelopera. Dane na 24.10, kampania trwa do 19.11.", "subw": 520,
-   "image": "ad_co.png", "imgtop": 330, "imgw": 420},
-  {"type": "story", "label": "Klient i cel", "step": "01", "h": "Dwa ostatnie domy.<br><g>Z ośmiu.</g>",
-   "body": "KADA buduje domy pod Warszawą. Na Osiedlu Jachranka zostały 2 domy po 780 000 zł. Cel: telefony od ludzi, którzy naprawdę szukają domu. Nie lajki.",
-   "chips": [["pinezka", "Jachranka +30 km, Warszawa +17 km"], ["metka", "Budżet: 50 zł dziennie"], ["kalendarz", "30 dni: 20.10 do 19.11"]], "chipstop": 700},
-  {"type": "story", "label": "Problem", "kind": "r", "step": "02", "h": "Reklama domu<br>to <g>nie post</g>",
-   "body": "W kategorii Nieruchomości Meta nie pozwala celować wiekiem ani zainteresowaniami. Zostaje lokalizacja i to, co mówi sama reklama. Kreacja musi sama znaleźć kupca.",
-   "chips": [["ostrzezenie", "Bez celowania wiekiem i zainteresowaniami"], ["tarcza-ok", "Szczególna kategoria: Nieruchomości"]], "chipstop": 720},
-  {"type": "story", "label": "Pomysł", "step": "03", "h": "Dwie kampanie.<br><g>Dwa cele.</g>",
-   "body": "Kampania A zbiera kontakty przez formularz w aplikacji. Kampania B prowadzi na stronę osiedla z rzutami i cennikiem. W obu te same 5 motywów reklam, żeby było widać, co działa.",
-   "chips": [["dymek", "A: formularz, 30 zł dziennie"], ["laptop", "B: strona osiedla, 20 zł dziennie"], ["lista", "5 motywów, 10 aktywnych reklam"]], "chipstop": 720},
-  {"type": "versus", "eyebrow": "04 · Co zadziałało", "h": "Te dwie reklamy<br><g>wygrały</g>", "size": 80, "colstop": 380,
-   "sides": [{"label": "Co dostajesz", "kind": "b", "image": "ad_co.png", "result": "5 kontaktów", "note": "13,46 zł za kontakt. Lista tego, co jest w cenie domu."},
-             {"label": "Na żywo", "kind": "b", "image": "ad_zywo.png", "result": "4 kontakty", "note": "8,23 zł za kontakt. Zaproszenie na oglądanie z numerem."}]},
-  {"type": "prices", "eyebrow": "05 · Wyniki · stan 24.10, 9:40", "h": "Liczby<br>po <g>4 dniach</g>", "icon": "wykres",
-   "rows": [["Kontakty z formularza", "9"], ["Koszt kontaktu", "12,46 zł"], ["Wejścia na stronę osiedla", "365"], ["Koszt wejścia", "0,20 zł"], ["Wydane łącznie", "183,34 zł"]],
-   "note": "Kontakt to jeszcze nie sprzedaż. Kampania trwa do 19.11, pełne wyniki pokażę po zakończeniu."},
-  {"type": "cta", "eyebrow": "Twoja kolej", "h": "Chcesz takie<br>liczby u <g>siebie?</g>",
-   "body": "Ustawię kampanię pod Twoją firmę i co tydzień pokażę, ile kontaktów i po ile. Start kampanii od 1200 zł.", "btn": "Napisz „REKLAMA” w DM"}
- ]},
- {"id": "wt", "slides": [
-  {"type": "problem", "h": "„Reklama ma super<br>wyniki. Tylko nikt<br><g>nie dzwoni.</g>”", "size": 80,
-   "sub": "Znasz to? Zwykle winny jest cel kampanii, nie budżet.", "subw": 440, "portrait": "p_stop.png", "pleft": 560, "ptop": 520, "ph": 830},
-  {"type": "story", "label": "Mechanizm", "step": "01", "h": "Meta robi <g>dokładnie</g><br>to, o co prosisz",
-   "body": "Ustawiasz cel „Ruch”, dostajesz tanie kliknięcia. Ustawiasz „Kontakty”, dostajesz numery telefonów, tylko drożej. Algorytm szuka ludzi, którzy zrobią to, o co prosisz. Nic więcej.",
-   "chips": [["link", "Ruch: kliknięcia i wejścia"], ["telefon", "Kontakty: numer albo wiadomość"], ["koszyk", "Sprzedaż: zakup w sklepie"]], "chipstop": 720},
-  {"type": "prices", "eyebrow": "02 · Przykład: KADA, pierwsze 4 dni", "h": "Ten sam dom.<br><g>Dwa cele.</g>", "icon": "predkosciomierz",
-   "rows": [["Cel Ruch: kliknięcie", "0,16 zł"], ["Cel Ruch: wejście na stronę", "0,20 zł"], ["Cel Kontakty: zostawiony numer", "12,46 zł"]],
-   "note": "Wejście jest ponad 60 razy tańsze. Ale za kontaktem stoi człowiek, który chce rozmawiać o domu."},
-  {"type": "cta", "eyebrow": "Sprawdzę za Ciebie", "h": "Sprawdzę<br><g>Twoją</g> kampanię",
-   "body": "Wyślij zrzut z Menedżera reklam. Powiem, czy cel pasuje do tego, czego naprawdę chcesz.", "btn": "Napisz „CEL” w DM"}
- ]},
- {"id": "sr", "slides": [
-  {"type": "gdybym", "eyebrow": "Seria · odcinek 1", "branza": "warsztatu<br>samochodo&shy;wego", "size": 76,
-   "sub": "3 decyzje, od których bym zaczął.",
-   "concept": {"brand": "AUTO SERWIS", "h": "Naprawa auta w Płońsku. Wycena przed naprawą.", "p": "Mechanika, diagnostyka, klimatyzacja. Zostaw auto rano, odbierz po pracy.", "btn": "Zadzwoń teraz",
-               "badges": ["Termin w tym tygodniu", "Cena znana przed naprawą", "Parking pod warsztatem"], "bg": "#16181d", "accent": "#ff7a1a"}},
-  {"type": "point", "eyebrow": "Decyzja 01 z 3", "num": "01", "h": "Nagłówek<br>z <g>miastem</g>",
-   "body": "Ktoś szuka warsztatu, bo auto stoi. Pierwsza linijka mówi co, gdzie i co dalej. Bez „Witamy” i bez historii firmy.",
-   "pill": "Czy Twój nagłówek ma miasto?", "pillIcon": "lupa", "icon": "pinezka"},
-  {"type": "point", "eyebrow": "Decyzja 02 z 3", "num": "02", "h": "Telefon<br><g>pod kciukiem</g>",
-   "body": "Kierowca z zepsutym autem nie wypełnia formularza. Dzwoni. Przycisk „Zadzwoń” przyklejony na dole ekranu telefonu, zawsze widoczny.",
-   "pill": "Otwórz swoją stronę na telefonie", "pillIcon": "telefon", "icon": "telefon"},
-  {"type": "point", "eyebrow": "Decyzja 03 z 3", "num": "03", "h": "Cena<br><g>przed</g> naprawą",
-   "body": "Największy strach klienta warsztatu? Że zapłaci dwa razy więcej, niż myślał. Jedno zdanie o wycenie przed naprawą robi więcej niż 10 zdjęć warsztatu.",
-   "pill": "Napisz to wprost na górze strony", "pillIcon": "metka", "icon": "metka"},
-  {"type": "cta", "eyebrow": "Masz warsztat?", "h": "Pokażę to<br>na <g>Twojej</g><br>stronie",
-   "body": "Napisz „WARSZTAT” i wyślij link. Przejdę te 3 decyzje na Twojej stronie.", "btn": "Napisz „WARSZTAT” w DM"}
- ]},
- {"id": "czw", "slides": [
-  {"type": "kulisy", "h": "Zanim wydam<br><g>pierwszą złotówkę</g><br>klienta", "size": 84,
-   "sub": "", "portrait": "p_palec_gora.png", "pleft": -200, "ptop": 520, "ph": 860, "termtop": 560, "termw": 540,
-   "lines": ["analiza reklam konkurencji", "fakty w tekstach", "grafiki bez przycinania", "bez sąsiedztwa konkurencji", "link UTM w każdej reklamie"]},
-  {"type": "list", "eyebrow": "Checklista przed startem", "h": "Co sprawdzam<br><g>zanim kliknę</g>", "size": 92, "icon": "lista",
-   "items": [["lupa", "20 reklam konkurencji: co już widzi klient"], ["tarcza-ok", "Każde zdanie prawdziwe, np. brak 2% PCC"], ["pedzel", "Wyłączone automatyczne przycinanie grafik"], ["klodka", "Reklama nie stoi obok ofert konkurencji"], ["link", "Każda reklama z własnym linkiem UTM"]]},
-  {"type": "story", "label": "Dlaczego", "step": "02", "h": "Bo za błąd<br><g>i tak płacisz</g>",
-   "body": "Źle ustawiona kampania i tak wyda cały budżet. Tylko na złych ludzi, w złym miejscu albo z uciętą grafiką. Godzina sprawdzania przed startem jest najtańszą godziną całej kampanii.",
-   "chips": [["klepsydra", "1 godzina przed startem"], ["metka", "Mniej przepalonego budżetu"]], "chipstop": 760},
-  {"type": "cta", "eyebrow": "Masz już kampanię?", "h": "Przejdę te<br><g>5 punktów</g>",
-   "body": "Wyślij zrzut ustawień swojej kampanii. Powiem, co bym zmienił, zanim wydasz kolejną złotówkę.", "btn": "Napisz „SPRAWDŹ” w DM"}
- ]},
- {"id": "pt", "slides": [
-  {"type": "oferta", "label": "Oferta · Meta Ads", "h": "Strona i reklama.<br><g>Z jednej ręki.</g>", "size": 88,
-   "sub": "Reklama sprowadza ludzi. Strona zamienia ich w telefony. Robię jedno i drugie, więc nikt nie zrzuca winy na drugiego.",
-   "rows": [["Start kampanii Meta Ads", "od 1200 zł"], ["Prowadzenie kampanii", "od 900 zł / mies."], ["Strona + start kampanii", "od 3900 zł"]],
-   "note": "Budżet reklamowy płacisz bezpośrednio do Meta, polecam min. 30 do 50 zł dziennie. Wycena indywidualna.",
-   "btn": "Napisz „REKLAMA” w DM"}
- ]},
- {"id": "sob", "slides": [
-  {"type": "opinia", "h": "Presja<br>nie sprzedaje.<br><g>Konkret tak.</g>", "size": 132,
-   "sub": "Reklama „Zostały 2 z 8” nie dała ani jednego kontaktu. „Co dostajesz za 780 000 zł?” dała pięć. Ten sam dom, ta sama kampania.", "foot": "Zgadzasz się?"}
- ]},
- {"id": "nd", "slides": [
-  {"type": "single", "eyebrow": "Pytanie na niedzielę", "h": "Promowałeś<br>kiedyś<br><g>post?</g>", "size": 112,
-   "sub": "", "subw": 480, "portrait": "p_dwa.png", "pleft": 560,
-   "chips": [["rakieta", "A · Tak, przyszli klienci"], ["ostrzezenie", "B · Tak, były tylko lajki"], ["klodka", "C · Nigdy nie próbowałem"]],
-   "foot": "Napisz A, B albo C"}
- ]}
+ {
+  "id": "pon",
+  "slides": [
+   {
+    "type": "case",
+    "client": "KADA · JACHRANKA",
+    "num": "9",
+    "h": "kontaktów<br>w 4 dni.<br>Za <g>112 zł.</g>",
+    "size": 84,
+    "hw": 620,
+    "sub": "Kampania Meta Ads dla dewelopera. Dane na 24.10, kampania trwa do 19.11.",
+    "subw": 520,
+    "image": "ad_co.png",
+    "imgtop": 330,
+    "imgw": 420,
+    "numsize": 380
+   },
+   {
+    "type": "story",
+    "label": "Klient i cel",
+    "step": "01",
+    "h": "Dwa ostatnie domy.<br><g>Z ośmiu.</g>",
+    "body": "KADA buduje domy pod Warszawą. Na Osiedlu Jachranka zostały 2 domy po 780 000 zł. Cel: telefony od ludzi, którzy naprawdę szukają domu. Nie lajki.",
+    "chips": [
+     [
+      "pinezka",
+      "Jachranka +30 km, Warszawa +17 km"
+     ],
+     [
+      "metka",
+      "Budżet: 50 zł dziennie"
+     ],
+     [
+      "kalendarz",
+      "30 dni: 20.10 do 19.11"
+     ]
+    ],
+    "chipstop": 680,
+    "icon": "pinezka"
+   },
+   {
+    "type": "story",
+    "label": "Problem",
+    "kind": "r",
+    "step": "02",
+    "h": "Reklama domu<br>to <g>nie post</g>",
+    "body": "W kategorii Nieruchomości Meta nie pozwala celować wiekiem ani zainteresowaniami. Zostaje lokalizacja i to, co mówi sama reklama. Kreacja musi sama znaleźć kupca.",
+    "chips": [
+     [
+      "ostrzezenie",
+      "Bez celowania wiekiem i zainteresowaniami"
+     ],
+     [
+      "tarcza-ok",
+      "Szczególna kategoria: Nieruchomości"
+     ]
+    ],
+    "chipstop": 680,
+    "icon": "ostrzezenie"
+   },
+   {
+    "type": "story",
+    "label": "Pomysł",
+    "step": "03",
+    "h": "Dwie kampanie.<br><g>Dwa cele.</g>",
+    "body": "Kampania A zbiera kontakty przez formularz w aplikacji. Kampania B prowadzi na stronę osiedla z rzutami i cennikiem. W obu te same 5 motywów reklam, żeby było widać, co działa.",
+    "chips": [
+     [
+      "dymek",
+      "A: formularz, 30 zł dziennie"
+     ],
+     [
+      "laptop",
+      "B: strona osiedla, 20 zł dziennie"
+     ],
+     [
+      "lista",
+      "5 motywów, 10 aktywnych reklam"
+     ]
+    ],
+    "chipstop": 680,
+    "icon": "tarcza"
+   },
+   {
+    "type": "versus",
+    "eyebrow": "04 · Co zadziałało",
+    "h": "Te dwie reklamy<br><g>wygrały</g>",
+    "size": 80,
+    "colstop": 380,
+    "sides": [
+     {
+      "label": "Co dostajesz",
+      "kind": "b",
+      "image": "ad_co.png",
+      "result": "5 kontaktów",
+      "note": "13,46 zł za kontakt. Lista tego, co jest w cenie domu."
+     },
+     {
+      "label": "Na żywo",
+      "kind": "b",
+      "image": "ad_zywo.png",
+      "result": "4 kontakty",
+      "note": "8,23 zł za kontakt. Zaproszenie na oglądanie z numerem."
+     }
+    ]
+   },
+   {
+    "type": "prices",
+    "eyebrow": "05 · Wyniki · stan 24.10, 9:40",
+    "h": "Liczby<br>po <g>4 dniach</g>",
+    "icon": "wykres",
+    "rows": [
+     [
+      "Kontakty z formularza",
+      "9"
+     ],
+     [
+      "Koszt kontaktu",
+      "12,46 zł"
+     ],
+     [
+      "Wejścia na stronę osiedla",
+      "365"
+     ],
+     [
+      "Koszt wejścia",
+      "0,20 zł"
+     ],
+     [
+      "Wydane łącznie",
+      "183,34 zł"
+     ]
+    ],
+    "note": "Kontakt to jeszcze nie sprzedaż. Kampania trwa do 19.11, pełne wyniki pokażę po zakończeniu."
+   },
+   {
+    "type": "cta",
+    "eyebrow": "Twoja kolej",
+    "h": "Chcesz takie<br>liczby u <g>siebie?</g>",
+    "body": "Ustawię kampanię pod Twoją firmę i co tydzień pokażę, ile kontaktów i po ile. Start kampanii od 1200 zł.",
+    "btn": "Napisz „REKLAMA” w DM"
+   }
+  ]
+ },
+ {
+  "id": "wt",
+  "slides": [
+   {
+    "type": "problem",
+    "h": "„Reklama ma super<br>wyniki. Tylko nikt<br><g>nie dzwoni.</g>”",
+    "size": 88,
+    "sub": "Znasz to? Zwykle winny jest cel kampanii, nie budżet.",
+    "subw": 440,
+    "portrait": "p_stop.png",
+    "pleft": 560,
+    "ptop": 520,
+    "ph": 830,
+    "top": 380
+   },
+   {
+    "type": "story",
+    "label": "Mechanizm",
+    "step": "01",
+    "h": "Meta robi <g>dokładnie</g><br>to, o co prosisz",
+    "body": "Ustawiasz cel „Ruch”, dostajesz tanie kliknięcia. Ustawiasz „Kontakty”, dostajesz numery telefonów, tylko drożej. Algorytm szuka ludzi, którzy zrobią to, o co prosisz. Nic więcej.",
+    "chips": [
+     [
+      "link",
+      "Ruch: kliknięcia i wejścia"
+     ],
+     [
+      "telefon",
+      "Kontakty: numer albo wiadomość"
+     ],
+     [
+      "koszyk",
+      "Sprzedaż: zakup w sklepie"
+     ]
+    ],
+    "chipstop": 680,
+    "icon": "zebatka"
+   },
+   {
+    "type": "prices",
+    "eyebrow": "02 · Przykład: KADA, pierwsze 4 dni",
+    "h": "Ten sam dom.<br><g>Dwa cele.</g>",
+    "icon": "predkosciomierz",
+    "rows": [
+     [
+      "Cel Ruch: kliknięcie",
+      "0,16 zł"
+     ],
+     [
+      "Cel Ruch: wejście na stronę",
+      "0,20 zł"
+     ],
+     [
+      "Cel Kontakty: zostawiony numer",
+      "12,46 zł"
+     ]
+    ],
+    "note": "Wejście jest ponad 60 razy tańsze. Ale za kontaktem stoi człowiek, który chce rozmawiać o domu."
+   },
+   {
+    "type": "cta",
+    "eyebrow": "Sprawdzę za Ciebie",
+    "h": "Sprawdzę<br><g>Twoją</g> kampanię",
+    "body": "Wyślij zrzut z Menedżera reklam. Powiem, czy cel pasuje do tego, czego naprawdę chcesz.",
+    "btn": "Napisz „CEL” w DM"
+   }
+  ]
+ },
+ {
+  "id": "sr",
+  "slides": [
+   {
+    "type": "gdybym",
+    "eyebrow": "Seria · odcinek 1",
+    "branza": "mechanika",
+    "size": 96,
+    "sub": "Warsztat samochodowy: 3 decyzje, od których bym zaczął.",
+    "concept": {
+     "brand": "AUTO SERWIS",
+     "h": "Naprawa auta w Płońsku. Wycena przed naprawą.",
+     "p": "Mechanika, diagnostyka, klimatyzacja. Zostaw auto rano, odbierz po pracy.",
+     "btn": "Zadzwoń teraz",
+     "badges": [
+      "Termin w tym tygodniu",
+      "Cena znana przed naprawą",
+      "Parking pod warsztatem"
+     ],
+     "bg": "#16181d",
+     "accent": "#ff7a1a"
+    }
+   },
+   {
+    "type": "point",
+    "eyebrow": "Decyzja 01 z 3",
+    "num": "01",
+    "h": "Nagłówek<br>z <g>miastem</g>",
+    "body": "Ktoś szuka warsztatu, bo auto stoi. Pierwsza linijka mówi co, gdzie i co dalej. Bez „Witamy” i bez historii firmy.",
+    "pill": "Czy Twój nagłówek ma miasto?",
+    "pillIcon": "lupa",
+    "icon": "pinezka"
+   },
+   {
+    "type": "point",
+    "eyebrow": "Decyzja 02 z 3",
+    "num": "02",
+    "h": "Telefon<br><g>pod kciukiem</g>",
+    "body": "Kierowca z zepsutym autem nie wypełnia formularza. Dzwoni. Przycisk „Zadzwoń” przyklejony na dole ekranu telefonu, zawsze widoczny.",
+    "pill": "Otwórz swoją stronę na telefonie",
+    "pillIcon": "telefon",
+    "icon": "telefon"
+   },
+   {
+    "type": "point",
+    "eyebrow": "Decyzja 03 z 3",
+    "num": "03",
+    "h": "Cena<br><g>przed</g> naprawą",
+    "body": "Największy strach klienta warsztatu? Że zapłaci dwa razy więcej, niż myślał. Jedno zdanie o wycenie przed naprawą robi więcej niż 10 zdjęć warsztatu.",
+    "pill": "Napisz to wprost na górze strony",
+    "pillIcon": "metka",
+    "icon": "metka"
+   },
+   {
+    "type": "cta",
+    "eyebrow": "Masz warsztat?",
+    "h": "Pokażę to<br>na <g>Twojej</g><br>stronie",
+    "body": "Napisz „WARSZTAT” i wyślij link. Przejdę te 3 decyzje na Twojej stronie.",
+    "btn": "Napisz „WARSZTAT” w DM"
+   }
+  ]
+ },
+ {
+  "id": "czw",
+  "slides": [
+   {
+    "type": "kulisy",
+    "h": "Zanim wydam<br><g>pierwszą złotówkę</g><br>klienta",
+    "size": 84,
+    "sub": "",
+    "portrait": "p_palec_gora.png",
+    "pleft": -200,
+    "ptop": 520,
+    "ph": 860,
+    "termtop": 560,
+    "termw": 540,
+    "lines": [
+     "analiza reklam konkurencji",
+     "fakty w tekstach",
+     "grafiki bez przycinania",
+     "bez sąsiedztwa konkurencji",
+     "link UTM w każdej reklamie"
+    ]
+   },
+   {
+    "type": "list",
+    "eyebrow": "Checklista przed startem",
+    "h": "Co sprawdzam<br><g>zanim kliknę</g>",
+    "size": 92,
+    "icon": "lista",
+    "items": [
+     [
+      "lupa",
+      "20 reklam konkurencji: co już widzi klient"
+     ],
+     [
+      "tarcza-ok",
+      "Każde zdanie prawdziwe, np. brak 2% PCC"
+     ],
+     [
+      "pedzel",
+      "Wyłączone automatyczne przycinanie grafik"
+     ],
+     [
+      "klodka",
+      "Reklama nie stoi obok ofert konkurencji"
+     ],
+     [
+      "link",
+      "Każda reklama z własnym linkiem UTM"
+     ]
+    ]
+   },
+   {
+    "type": "story",
+    "label": "Dlaczego",
+    "step": "02",
+    "h": "Bo za błąd<br><g>i tak płacisz</g>",
+    "body": "Źle ustawiona kampania i tak wyda cały budżet. Tylko na złych ludzi, w złym miejscu albo z uciętą grafiką. Godzina sprawdzania przed startem jest najtańszą godziną całej kampanii.",
+    "chips": [
+     [
+      "klepsydra",
+      "1 godzina przed startem"
+     ],
+     [
+      "metka",
+      "Mniej przepalonego budżetu"
+     ]
+    ],
+    "chipstop": 680,
+    "icon": "klepsydra"
+   },
+   {
+    "type": "cta",
+    "eyebrow": "Masz już kampanię?",
+    "h": "Przejdę te<br><g>5 punktów</g>",
+    "body": "Wyślij zrzut ustawień swojej kampanii. Powiem, co bym zmienił, zanim wydasz kolejną złotówkę.",
+    "btn": "Napisz „SPRAWDŹ” w DM"
+   }
+  ]
+ },
+ {
+  "id": "pt",
+  "slides": [
+   {
+    "type": "oferta",
+    "label": "Oferta · Meta Ads",
+    "h": "Strona i reklama.<br><g>Z jednej ręki.</g>",
+    "size": 88,
+    "sub": "Reklama sprowadza ludzi. Strona zamienia ich w telefony. Robię jedno i drugie, więc nikt nie zrzuca winy na drugiego.",
+    "rows": [
+     [
+      "Start kampanii Meta Ads",
+      "od 1200 zł"
+     ],
+     [
+      "Prowadzenie kampanii",
+      "od 900 zł / mies."
+     ],
+     [
+      "Strona + start kampanii",
+      "od 3900 zł"
+     ]
+    ],
+    "note": "Budżet reklamowy płacisz bezpośrednio do Meta, polecam min. 30 do 50 zł dziennie. Wycena indywidualna.",
+    "btn": "Napisz „REKLAMA” w DM"
+   }
+  ]
+ },
+ {
+  "id": "sob",
+  "slides": [
+   {
+    "type": "opinia",
+    "h": "Presja<br>nie sprzedaje.<br><g>Konkret tak.</g>",
+    "size": 132,
+    "sub": "Reklama „Zostały 2 z 8” nie dała ani jednego kontaktu. „Co dostajesz za 780 000 zł?” dała pięć. Ten sam dom, ta sama kampania.",
+    "foot": "Zgadzasz się?"
+   }
+  ]
+ },
+ {
+  "id": "nd",
+  "slides": [
+   {
+    "type": "single",
+    "eyebrow": "Pytanie na niedzielę",
+    "h": "Promowałeś<br>kiedyś<br><g>post?</g>",
+    "size": 112,
+    "sub": "",
+    "subw": 480,
+    "portrait": "p_dwa.png",
+    "pleft": 560,
+    "chips": [
+     [
+      "rakieta",
+      "A · Tak, przyszli klienci"
+     ],
+     [
+      "ostrzezenie",
+      "B · Tak, były tylko lajki"
+     ],
+     [
+      "klodka",
+      "C · Nigdy nie próbowałem"
+     ]
+    ],
+    "foot": "Napisz A, B albo C"
+   }
+  ]
+ }
 ]
