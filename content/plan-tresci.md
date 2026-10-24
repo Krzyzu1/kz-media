@@ -70,7 +70,7 @@ Zgoda KADA na liczby i kreacje: TAK (24.10). Nie pokazujemy spraw wewnętrznych 
 - [ ] Zanim wydam pierwszą złotówkę: checklista przed startem kampanii (kulisy)
 - [ ] „Zobacz na żywo”: zaproszenie zamiast „kup teraz” (edukacja)
 - [ ] Case KADA: kampania Meta Ads po zakończeniu (po 19.11, pełne dane)
-- [ ] Oferta: Meta Ads w krzyzu.studio, strona + reklama (cena „od” do ustalenia)
+- [ ] Oferta: Meta Ads w krzyzu.studio (start kampanii od 1200 zł, prowadzenie od 900 zł/mies., pakiet strona + reklamy od 3900 zł; budżet reklamowy osobno, min. 30 do 50 zł dziennie)
 ### Opinie
 - [ ] Nie potrzebujesz bloga (na start)
 - [x] Branding to nie logo (tydz. 2026-10-19)
