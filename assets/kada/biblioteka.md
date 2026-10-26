@@ -25,6 +25,14 @@ Arkusz B: https://d8j0ntlcm91z4.cloudfront.net/user_3FWzvcvRGVAXn9M6g4SysHxgxs3/
 Cięcie: convert arkusz.png -crop 682x682+$((c*683))+$((r*683)) +repage -channel A -level X,100% +channel -trim +repage -bordercolor none -border 10 ikony/<nazwa>.png
 Uwaga: telefon ma pusty ekran, wygląda słabo jako samodzielny obiekt.
 
+Biblioteka na listopad 2026 (wygenerowana 2026-10-26, gpt_image_2_5 high 2k, arkusz A jako referencja stylu):
+Arkusz C (odbiór, A→Z, standard): https://d8j0ntlcm91z4.cloudfront.net/user_3FWzvcvRGVAXn9M6g4SysHxgxs3/hf_20261026_082439_6dd4307a-1dfb-451a-bd98-dfae7104fac7.png
+  kolejność: poziomica miarka lupa / checklista projekt dzialka / cegly walek fotel (cięcie: -level 60%,100%, inaczej zostaje szara poświata)
+Arkusz D (okolica, prawo, ceny): https://d8j0ntlcm91z4.cloudfront.net/user_3FWzvcvRGVAXn9M6g4SysHxgxs3/hf_20261026_082438_297c86f5-116a-47df-afb5-8f133a5aeb1f.png
+  kolejność: termometr zaglowka rower / metka waga klodka / kompas slonce kawa (cięcie: -level 25%,100%)
+Cięcie arkuszy C i D z marginesem 10 px (bez okruchów z sąsiednich komórek): convert arkusz.png -crop 662x662+$((c*683+10))+$((r*683+10)) +repage -channel A -level X,100% +channel -trim +repage -bordercolor none -border 10 ikony/<nazwa>.png
+Uwaga: nad "waga" może zostać cienka kreska, sprawdź na podglądzie i w razie potrzeby dodaj -chop 0x6.
+
 ## Duże obiekty
 - o_blizniak (prawdziwy bliźniak z Jachranki, wycięty z wizualizacji N06, przezroczyste tło, dół wygaszony; do CTA): assets/kada/o_blizniak.png w repo, bez dodatkowego cięcia
 - NIE UŻYWAĆ: o_dom (makieta domu wygenerowana przez AI, nie jest projektem KADA i wprowadza klienta w błąd)

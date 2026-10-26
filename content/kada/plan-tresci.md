@@ -6,7 +6,21 @@ Plan tygodnia: w poniedziałki razem z planem @krzyzu.studio.
 Materiały Higgsfield: raz w miesiącu (ostatni poniedziałek miesiąca) biblioteka na kolejny miesiąc.
 
 ## Uwagi dla zadania poniedziałkowego
-- Poniedziałek 2026-10-26: posty na wt 27.10 i pt 30.10 są JUŻ GOTOWE (D:\Claude\KADA Instagram). Nie rób nowych postów, przypomnij tylko Krzyżu o publikacji i przygotuj miesięczną bibliotekę + 8 tematów na listopad (to ostatni poniedziałek października).
+- Poniedziałek 2026-10-26: zrobione. Posty 27.10 i 30.10 były gotowe, przygotowano bibliotekę ikon (arkusze C i D) i plan listopada (niżej).
+- Od 2026-11-02: rób posty według planu listopada. Fakty sprawdzaj na stronach klienta przy każdym poście (26.10 WebFetch na kada-bud.pl i kada-a-z.pl nie przeszedł, więc nic nie zostało zweryfikowane z góry).
+
+## Plan listopada 2026 (propozycja z 2026-10-26, czeka na ok Krzyżu)
+| data | filar | temat | okładka | środek | ikony |
+|---|---|---|---|---|---|
+| wt 03.11 | Kupujesz dom? | Odbiór domu: 5 rzeczy do sprawdzenia, zanim podpiszesz protokół | cover (checklista) | list + steps | poziomica, miarka, lupa, checklista |
+| pt 06.11 | Jachranka konkretnie | 121 m² pokój po pokoju | photo (jach_z11) | gallery z rzutami R3D parteru i piętra + features | fotel, okno |
+| wt 10.11 | A→Z | Masz działkę? Dom od A do Z w 6 krokach | photo (dosin) | steps | dzialka, projekt, cegly, klucz |
+| pt 13.11 | Raport z budowy | Raport z budowy: listopad (seria Krzyżu, robi sam lub zleca osobno) | zdjęcia z budowy | | |
+| wt 17.11 | Jachranka konkretnie | Pompa ciepła i podłogówka: co to zmienia na co dzień (bez kwot) | photo (jach_n02) | features + compare | pompa, podlogowka, termometr, fotowoltaika |
+| pt 20.11 | Kupujesz dom? | Jawne ceny: co mówi ustawa i gdzie sprawdzić cenę (odsyłamy do kada-bud.pl, dopisek "To nie porada prawna") | cover (o_umowa) | list | metka, waga, kalkulator, klodka |
+| wt 24.11 | A→Z | Stan surowy, deweloperski czy pod klucz: co dostajesz w każdym | photo (nasielsk/skierdy) | compare | cegly, walek, fotel |
+| pt 27.11 | Zaufanie | Dosin po latach: osiedle, w którym już się mieszka | photo (dosin) | gallery + stats (tylko liczby od Krzyżu lub ze stron) | drzewo, slonce, kawa |
+Rezerwowe (grudzień): Dzień w Jachrance (zaglowka, rower, kompas, pinezka), Kredyt krok po kroku z ekspertem, Prospekt informacyjny.
 
 ## Styl (spójny z obecnym feedem)
 - Okładka: pełne zdjęcie lub wizualizacja KADA, logo w lewym górnym rogu, mała złota etykieta w prawym górnym, etykieta nad tytułem, tytuł Cormorant Garamond (1. linia biała, 2. złota kursywa), krótki podpis, stopka z linią i "PRZESUŃ →".
