@@ -1,0 +1,208 @@
+[
+ {
+  "id": "k1103",
+  "slides": [
+   {
+    "type": "cover",
+    "obj": "ikony/checklista.png",
+    "objcss": "left:300px;top:120px;width:470px;transform:rotate(-6deg)",
+    "tag": "KUPUJESZ DOM?",
+    "eyebrow": "Odbiór domu · poradnik kupującego",
+    "h": "Zanim podpiszesz<br><g>protokół odbioru</g>",
+    "size": 112,
+    "sub": "5 rzeczy, które warto sprawdzić z miarką i poziomicą w ręku.",
+    "foot": "Zapisz na odbiór"
+   },
+   {
+    "type": "steps",
+    "top": 220,
+    "eyebrow": "Checklista odbioru",
+    "h": "Najpierw<br><g>wnętrze</g>",
+    "obj": "ikony/poziomica.png",
+    "objcss": "right:100px;bottom:130px;width:390px;transform:rotate(-10deg)",
+    "items": [
+     [
+      "Metraż i układ zgodne z umową",
+      "zmierz pomieszczenia i porównaj z rzutem"
+     ],
+     [
+      "Ściany, posadzki, narożniki",
+      "poziomica i latarka pod kątem pokażą nierówności"
+     ],
+     [
+      "Okna i drzwi",
+      "otwórz każde, sprawdź szyby, uszczelki i klamki"
+     ]
+    ]
+   },
+   {
+    "type": "steps",
+    "top": 220,
+    "start": 4,
+    "eyebrow": "Checklista odbioru",
+    "h": "Potem to,<br><g>czego nie widać</g>",
+    "sub": "Weź ze sobą: miarkę, poziomicę, latarkę i ładowarkę do testu gniazdek.",
+    "subw": 640,
+    "obj": "ikony/lupa.png",
+    "objcss": "right:110px;bottom:120px;width:280px;transform:rotate(10deg)",
+    "items": [
+     [
+      "Instalacje",
+      "gniazdka, woda, odpływy, ogrzewanie, wentylacja"
+     ],
+     [
+      "Dom z zewnątrz",
+      "elewacja, dach, rynny, kostka i ogrodzenie"
+     ]
+    ]
+   },
+   {
+    "type": "list",
+    "top": 220,
+    "eyebrow": "Co mówi ustawa",
+    "h": "Wady wpisujesz<br><g>do protokołu</g>",
+    "size": 96,
+    "sub": "Terminy liczone od podpisania protokołu odbioru:",
+    "items": [
+     [
+      "Odpowiedź dewelopera",
+      "14 dni"
+     ],
+     [
+      "Brak odpowiedzi",
+      "wady uznane"
+     ],
+     [
+      "Usunięcie uznanych wad",
+      "30 dni"
+     ],
+     [
+      "Wada istotna, nieuznana",
+      "możesz odmówić odbioru"
+     ]
+    ],
+    "foot": "Podstawa: art. 41 ustawy deweloperskiej. To nie porada prawna"
+   },
+   {
+    "type": "cta",
+    "top": 220,
+    "eyebrow": "Masz pytanie?",
+    "h": "Odbiór<br><g>bez stresu</g>",
+    "sub": "Zadzwoń, a wyjaśnimy, jak wygląda odbiór domu w KADA. Spokojnie i punkt po punkcie.",
+    "subw": 600,
+    "btn": "Zadzwoń: 798 840 959",
+    "contact": "biuro@kada-bud.pl",
+    "obj": "ikony/klucz.png",
+    "objcss": "right:100px;bottom:200px;width:340px;transform:rotate(12deg)",
+    "foot": "Podstawa: art. 41 ustawy deweloperskiej. To nie porada prawna"
+   }
+  ]
+ },
+ {
+  "id": "k1106",
+  "slides": [
+   {
+    "type": "photo",
+    "img": "foto/jach_z11.jpg",
+    "pos": "15% center",
+    "tag": "OSIEDLE JACHRANKA",
+    "eyebrow": "Dom 121 m² · pokój po pokoju",
+    "h": "Wejdź do środka.<br><g>Pokój po pokoju.</g>",
+    "size": 118,
+    "sub": "Na dole dzień przy ogrodzie. Na górze spokojna noc.",
+    "foot": "Osiedle Jachranka · gm. Serock"
+   },
+   {
+    "type": "list",
+    "top": 530,
+    "eyebrow": "Parter",
+    "h": "Dzień<br><g>przy ogrodzie</g>",
+    "size": 88,
+    "obj": "foto/r3d_parter_t.png",
+    "objcss": "left:290px;top:100px;width:500px",
+    "items": [
+     [
+      "Salon, jadalnia, kuchnia",
+      "jedna strefa"
+     ],
+     [
+      "Wyjście do ogrodu",
+      "prosto z salonu"
+     ],
+     [
+      "Garaż",
+      "w bryle domu"
+     ],
+     [
+      "Pomieszczenie techniczne",
+      "pompa ciepła"
+     ]
+    ]
+   },
+   {
+    "type": "list",
+    "top": 560,
+    "eyebrow": "Piętro",
+    "h": "Noc<br><g>na górze</g>",
+    "size": 88,
+    "obj": "foto/r3d_pietro_t.png",
+    "objcss": "left:290px;top:115px;width:500px",
+    "items": [
+     [
+      "Sypialnia główna",
+      "z garderobą"
+     ],
+     [
+      "Dwa kolejne pokoje",
+      "dla dzieci lub do pracy"
+     ],
+     [
+      "Łazienka",
+      "z miejscem na pralkę"
+     ]
+    ]
+   },
+   {
+    "type": "stats",
+    "top": 260,
+    "eyebrow": "Cały dom",
+    "h": "Układ,<br><g>który dopasujesz</g>",
+    "size": 96,
+    "sub": "Układ wnętrza możesz jeszcze zmienić pod siebie, np. dodatkowa łazienka lub garderoba.",
+    "subw": 800,
+    "items": [
+     [
+      "121 m²",
+      "powierzchni użytkowej"
+     ],
+     [
+      "4",
+      "pokoje"
+     ],
+     [
+      "~330 m²",
+      "działki z prywatnym ogrodem"
+     ],
+     [
+      "2",
+      "miejsca: garaż w bryle i postój"
+     ]
+    ]
+   },
+   {
+    "type": "cta",
+    "top": 590,
+    "eyebrow": "Biuro sprzedaży",
+    "h": "Przejdź się <g>po domu</g>",
+    "size": 88,
+    "sub": "Rzut pokazuje układ. Na miejscu zobaczysz, jak wpada światło. Umów spotkanie na budowie.",
+    "subw": 912,
+    "btn": "Zadzwoń: 798 840 959",
+    "contact": "ul. Piłsudskiego 25/8, Legionowo · Ceny jawne na kada-bud.pl",
+    "nosave": true,
+    "obj": "o_blizniak.png",
+    "objcss": "left:90px;top:170px;width:900px"
+   }
+  ]
+ }
+]
