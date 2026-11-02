@@ -1,0 +1,155 @@
+<!doctype html>
+<html lang="pl">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>OSTRZE Barber · Śródmieście Warszawa (koncepcja krzyzu.studio)</title>
+<link rel="stylesheet" href="../f/node_modules/@fontsource/fraunces/600.css">
+<link rel="stylesheet" href="../f/node_modules/@fontsource/fraunces/700.css">
+<link rel="stylesheet" href="../f/node_modules/@fontsource/inter/400.css">
+<link rel="stylesheet" href="../f/node_modules/@fontsource/inter/500.css">
+<link rel="stylesheet" href="../f/node_modules/@fontsource/inter/600.css">
+<style>
+:root{--ink:#0f1a16;--g:#14271f;--g2:#1c3329;--cream:#f4efe6;--card:#fffdf8;--line:#e3dccd;--mut:#6d6a60;--brass:#c9a46a;--brass2:#b48a4c;--ok:#3fae6a;color-scheme:light}
+*{margin:0;padding:0;box-sizing:border-box}
+html{background:var(--cream)}
+body{font-family:Inter,sans-serif;color:var(--ink);background:var(--cream);-webkit-font-smoothing:antialiased}
+h1,h2,h3,.brand{font-family:Fraunces,serif;letter-spacing:-.01em}
+a{color:inherit;text-decoration:none}
+.wrap{max-width:1240px;margin:0 auto;padding:0 40px}
+.top{background:var(--ink);color:#c8c3b5;font-size:13px}
+.top .wrap{display:flex;justify-content:space-between;align-items:center;height:38px}
+.top b{color:#fff;font-weight:600}
+.dot{display:inline-block;width:8px;height:8px;border-radius:50%;background:var(--ok);margin-right:8px;box-shadow:0 0 0 3px rgba(63,174,106,.25)}
+nav{background:var(--g);color:#fff;position:sticky;top:0;z-index:5;border-bottom:1px solid rgba(255,255,255,.08)}
+nav .wrap{display:flex;align-items:center;justify-content:space-between;height:76px}
+.brand{display:flex;align-items:center;gap:12px;font-weight:700;font-size:24px;letter-spacing:.06em}
+.mark{width:40px;height:40px;border-radius:50%;border:1.5px solid var(--brass);display:grid;place-items:center;color:var(--brass);font-size:20px}
+.brand small{display:block;font-family:Inter;font-weight:500;font-size:11px;letter-spacing:.14em;color:#a9b3ad;margin-top:2px;text-transform:uppercase}
+.links{display:flex;gap:30px;font-size:15px;color:#d6dcd8}
+.btn{display:inline-flex;align-items:center;justify-content:center;gap:10px;border-radius:999px;font-weight:600;font-size:16px;padding:15px 26px;white-space:nowrap}
+.btn-b{background:var(--brass);color:#14120d;box-shadow:0 10px 26px rgba(201,164,106,.35)}
+.btn-o{border:1.5px solid rgba(255,255,255,.35);color:#fff}
+.hero{position:relative;min-height:640px;color:#fff;overflow:hidden;background:#0d1612}
+.hero img{position:absolute;inset:0;width:100%;height:100%;object-fit:cover;object-position:62% 50%}
+.hero:after{content:"";position:absolute;inset:0;background:linear-gradient(90deg,rgba(10,18,14,.94) 0%,rgba(10,18,14,.78) 38%,rgba(10,18,14,.1) 70%)}
+.hero .wrap{position:relative;z-index:2;padding-top:96px;padding-bottom:80px}
+.eyeb{font-size:13px;letter-spacing:.2em;text-transform:uppercase;color:var(--brass)}
+.hero h1{font-size:66px;line-height:1.02;margin-top:18px;max-width:600px;font-weight:700}
+.hero h1 em{font-style:italic;color:var(--brass)}
+.hero p{margin-top:20px;font-size:19px;line-height:1.5;color:#d9ded9;max-width:500px}
+.slots{margin-top:30px;background:rgba(255,253,248,.97);color:var(--ink);border-radius:20px;padding:20px 22px;max-width:520px;box-shadow:0 30px 60px rgba(0,0,0,.35)}
+.slots .t{display:flex;justify-content:space-between;font-size:14px;font-weight:600}
+.slots .t span{color:var(--ok)}
+.chips{display:flex;gap:10px;margin-top:14px;flex-wrap:wrap}
+.chip{padding:12px 16px;border-radius:12px;border:1.5px solid var(--line);font-size:15px;font-weight:600;background:#fff}
+.chip small{display:block;font-weight:500;color:var(--mut);font-size:12px}
+.chip.on{background:var(--g);color:#fff;border-color:var(--g)}
+.chip.on small{color:#b9c7c0}
+.slots .btn{width:100%;margin-top:14px}
+.trust{display:flex;gap:22px;margin-top:22px;font-size:14px;color:#cfd6d1}
+section{padding:90px 0}
+.h2{font-size:46px;line-height:1.05;font-weight:700}
+.lead{color:var(--mut);font-size:18px;line-height:1.55;margin-top:14px;max-width:560px}
+.grid2{display:grid;grid-template-columns:1.1fr .9fr;gap:60px;align-items:center}
+.price{background:var(--card);border:1px solid var(--line);border-radius:22px;overflow:hidden;margin-top:30px}
+.row{display:flex;justify-content:space-between;align-items:center;padding:20px 24px;border-bottom:1px solid var(--line)}
+.row:last-child{border-bottom:0}
+.row b{font-family:Fraunces;font-size:20px}
+.row small{display:block;color:var(--mut);font-size:13px;margin-top:3px}
+.row .p{text-align:right;font-weight:600;font-size:17px}
+.row .p small{color:var(--brass2);font-weight:600}
+.ph{border-radius:24px;overflow:hidden;aspect-ratio:1/1;box-shadow:0 30px 60px rgba(15,26,22,.25)}
+.ph img{width:100%;height:100%;object-fit:cover}
+.dark{background:var(--g);color:#fff}
+.dark .lead{color:#b9c7c0}
+.map{border-radius:24px;height:360px;background:#e9e4d8;position:relative;overflow:hidden;border:1px solid var(--line)}
+.map svg{position:absolute;inset:0;width:100%;height:100%}
+.pin{position:absolute;left:52%;top:44%;transform:translate(-50%,-100%);background:var(--g);color:#fff;border-radius:14px;padding:10px 14px;font-weight:600;font-size:14px;box-shadow:0 10px 24px rgba(0,0,0,.25);white-space:nowrap}
+.pin:after{content:"";position:absolute;left:50%;bottom:-7px;width:14px;height:14px;background:var(--g);transform:translateX(-50%) rotate(45deg)}
+.steps{display:flex;flex-direction:column;gap:14px;margin-top:26px}
+.step{display:flex;gap:14px;align-items:center;background:var(--g2);border-radius:16px;padding:16px 18px;font-size:16px}
+.step i{font-style:normal;width:40px;height:40px;border-radius:12px;background:rgba(201,164,106,.18);color:var(--brass);display:grid;place-items:center;font-weight:700;flex:none}
+.step small{display:block;color:#a9b8b0;font-size:13px;margin-top:2px}
+.bar{display:none}
+@media(max-width:700px){
+.wrap{padding:0 20px}
+.top .wrap{height:34px;font-size:12px}.top .hide{display:none}
+nav .wrap{height:64px}.links,.navcta{display:none}.burger{display:block}
+.brand{font-size:20px}.mark{width:34px;height:34px;font-size:17px}
+.hero{min-height:auto}
+.hero img{object-position:72% 50%;height:420px}
+.hero:after{background:linear-gradient(180deg,rgba(10,18,14,.1) 0%,rgba(10,18,14,.55) 230px,#0d1612 400px)}
+.hero .wrap{padding-top:250px;padding-bottom:36px}
+.hero h1{font-size:40px}
+.hero p{font-size:16px;margin-top:14px}
+.slots{padding:16px;margin-top:22px}
+.chip{padding:10px 12px;font-size:14px}
+.trust{flex-direction:column;gap:8px;font-size:13px}
+section{padding:56px 0}
+.h2{font-size:32px}
+.grid2{grid-template-columns:1fr;gap:28px}
+.ph{aspect-ratio:4/3}
+.map{height:240px}
+.bar{display:flex;position:fixed;left:0;right:0;bottom:0;z-index:9;gap:10px;padding:12px 14px 16px;background:rgba(244,239,230,.96);border-top:1px solid var(--line)}
+.bar .btn{flex:1;padding:15px 10px}
+.bar .call{background:var(--g);color:#fff}
+body{padding-bottom:80px}
+}
+.burger{display:none;width:42px;height:42px;border-radius:12px;border:1.5px solid rgba(255,255,255,.25);position:relative}
+.burger:before,.burger:after{content:"";position:absolute;left:11px;right:11px;height:2px;background:#fff;top:15px;box-shadow:0 6px 0 #fff}
+.burger:after{top:27px;box-shadow:none}
+</style>
+</head>
+<body>
+<div class="top"><div class="wrap"><div><span class="dot"></span><b>Otwarte dziś do 21:00</b><span class="hide"> · pon do sob 9:00 do 21:00</span></div><div class="hide">Śródmieście · 5 min od metra Centrum</div><div><b>+48 600 000 000</b></div></div></div>
+<nav><div class="wrap">
+ <a class="brand" href="#"><span class="mark">✦</span><span>OSTRZE<small>Barber · Śródmieście</small></span></a>
+ <div class="links"><a>Cennik</a><a>Barberzy</a><a>Dojazd</a><a>Karty podarunkowe</a></div>
+ <div class="navcta" style="display:flex;gap:12px"><a class="btn btn-o">Zadzwoń</a><a class="btn btn-b">Zarezerwuj</a></div>
+ <span class="burger"></span>
+</div></nav>
+<header class="hero">
+ <img src="hero.jpg" alt="">
+ <div class="wrap">
+  <div class="eyeb">Barber · Warszawa Śródmieście</div>
+  <h1>Strzyżenie i broda. <em>Wolny termin jeszcze dziś.</em></h1>
+  <p>Bez dzwonienia i czekania na odpowiedź. Wybierasz godzinę, a cenę znasz, zanim usiądziesz w fotelu.</p>
+  <div class="slots">
+   <div class="t">Najbliższe wolne terminy <span>● na żywo</span></div>
+   <div class="chips"><div class="chip on">Dziś 17:30<small>Kuba</small></div><div class="chip">Dziś 19:00<small>Michał</small></div><div class="chip">Jutro 10:00<small>Kuba</small></div></div>
+   <a class="btn btn-b">Zarezerwuj termin dziś 17:30</a>
+  </div>
+  <div class="trust"><span>✓ Rezerwacja w 30 sekund</span><span>✓ Przypomnienie SMS dzień wcześniej</span><span>✓ Płatność kartą i BLIK</span></div>
+ </div>
+</header>
+<section id="cennik"><div class="wrap grid2">
+ <div>
+  <div class="eyeb" style="color:var(--brass2)">Cennik</div>
+  <h2 class="h2" style="margin-top:12px">Cena i czas.<br>Bez niespodzianek.</h2>
+  <p class="lead">Przy każdej usłudze widzisz, ile trwa i ile zapłacisz. Wiesz, czy zdążysz przed spotkaniem.</p>
+  <div class="price">
+   <div class="row"><div><b>Strzyżenie męskie</b><small>mycie, strzyżenie, stylizacja</small></div><div class="p">od 90 zł<small>45 min</small></div></div>
+   <div class="row"><div><b>Broda</b><small>konturowanie, gorący ręcznik</small></div><div class="p">od 70 zł<small>30 min</small></div></div>
+   <div class="row"><div><b>Strzyżenie + broda</b><small>najczęściej wybierane</small></div><div class="p">od 150 zł<small>75 min</small></div></div>
+   <div class="row"><div><b>Golenie brzytwą</b><small>klasyczne, z kompresem</small></div><div class="p">od 80 zł<small>40 min</small></div></div>
+  </div>
+ </div>
+ <div class="ph"><img src="tools.jpg" alt=""></div>
+</div></section>
+<section class="dark" id="dojazd"><div class="wrap grid2">
+ <div>
+  <div class="eyeb">Dojazd</div>
+  <h2 class="h2" style="margin-top:12px">5 minut od metra.<br>Parking za rogiem.</h2>
+  <p class="lead">Klient z drugiego końca Warszawy nie szuka adresu. Szuka odpowiedzi, czy zdąży i gdzie zaparkuje.</p>
+  <div class="steps">
+   <div class="step"><i>M</i><div>Metro Centrum, wyjście na Marszałkowską<small>5 minut pieszo</small></div></div>
+   <div class="step"><i>P</i><div>Parking płatny w strefie, wjazd od podwórza<small>strefa płatnego parkowania, kilka miejsc przy bramie</small></div></div>
+   <div class="step"><i>☎</i><div>Spóźnisz się? Zadzwoń, przesuniemy<small>do 15 minut bez problemu</small></div></div>
+  </div>
+ </div>
+ <div class="map"><svg viewBox="0 0 600 360" preserveAspectRatio="xMidYMid slice"><rect width="600" height="360" fill="#e9e4d8"/><g stroke="#fff" stroke-width="18" fill="none"><path d="M-20 120 L620 150"/><path d="M220 -20 L260 380"/><path d="M-20 290 L620 250"/><path d="M430 -20 L400 380"/></g><g stroke="#f6f1e6" stroke-width="8" fill="none"><path d="M-20 40 L620 60"/><path d="M100 -20 L130 380"/><path d="M520 -20 L500 380"/></g><rect x="280" y="190" width="90" height="50" rx="6" fill="#cfe1d3"/><circle cx="230" cy="120" r="16" fill="#c0392b"/><text x="230" y="126" fill="#fff" font-size="16" font-family="Inter" font-weight="700" text-anchor="middle">M</text></svg><div class="pin">OSTRZE Barber</div></div>
+</div></section>
+<div class="bar"><a class="btn call">Zadzwoń</a><a class="btn btn-b">Zarezerwuj</a></div>
+</body>
+</html>
