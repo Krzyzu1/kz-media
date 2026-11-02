@@ -28,3 +28,9 @@ Portrety z ciemnym tłem (nie przezroczyste, tylko jako pełne tło): https://d8
 
 Zrzuty stron: Playwright w sandboxie, viewport 1440x900 (desktop) lub 390x844 (mobile), waitUntil networkidle + 1,5 s.
 Strony do zrzutów: https://murii.pl , https://kada-a-z.pl , https://krzyzu.studio
+
+## Zdjęcia do konceptów (seria Gdybym), wygenerowane 2026-11-02
+| plik | opis | URL |
+|---|---|---|
+| barber_hero | barber przy pracy, wnętrze z zielonymi kafelkami, za oknem Warszawa z PKiN o zmierzchu (3:2) | https://d8j0ntlcm91z4.cloudfront.net/user_3FWzvcvRGVAXn9M6g4SysHxgxs3/hf_20261102_081342_a5168c40-4edb-4cda-af81-297a0cc21a36.png |
+| barber_narzedzia | fotel barberski, brzytwa, nożyczki, maszynki na blacie z orzecha (1:1) | https://d8j0ntlcm91z4.cloudfront.net/user_3FWzvcvRGVAXn9M6g4SysHxgxs3/hf_20261102_081345_d98e83f4-25d2-4772-8efd-3def79ffaf6d.png |
