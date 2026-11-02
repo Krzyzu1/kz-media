@@ -26,6 +26,7 @@ nav .wrap{display:flex;align-items:center;justify-content:space-between;height:7
 .brand{display:flex;align-items:center;gap:12px;font-weight:700;font-size:24px;letter-spacing:.06em}
 .mark{width:40px;height:40px;border-radius:50%;border:1.5px solid var(--brass);display:grid;place-items:center;color:var(--brass);font-size:20px}
 .brand small{display:block;font-family:Inter;font-weight:500;font-size:11px;letter-spacing:.14em;color:#a9b3ad;margin-top:2px;text-transform:uppercase}
+.navcta{display:flex;gap:12px}
 .links{display:flex;gap:30px;font-size:15px;color:#d6dcd8}
 .btn{display:inline-flex;align-items:center;justify-content:center;gap:10px;border-radius:999px;font-weight:600;font-size:16px;padding:15px 26px;white-space:nowrap}
 .btn-b{background:var(--brass);color:#14120d;box-shadow:0 10px 26px rgba(201,164,106,.35)}
@@ -96,7 +97,7 @@ section{padding:56px 0}
 .bar .call{background:var(--g);color:#fff}
 body{padding-bottom:80px}
 }
-.burger{display:none;width:42px;height:42px;border-radius:12px;border:1.5px solid rgba(255,255,255,.25);position:relative}
+.burger{display:none;flex:none;width:42px;height:42px;border-radius:12px;border:1.5px solid rgba(255,255,255,.25);position:relative}
 .burger:before,.burger:after{content:"";position:absolute;left:11px;right:11px;height:2px;background:#fff;top:15px;box-shadow:0 6px 0 #fff}
 .burger:after{top:27px;box-shadow:none}
 </style>
@@ -106,7 +107,7 @@ body{padding-bottom:80px}
 <nav><div class="wrap">
  <a class="brand" href="#"><span class="mark">✦</span><span>OSTRZE<small>Barber · Śródmieście</small></span></a>
  <div class="links"><a>Cennik</a><a>Barberzy</a><a>Dojazd</a><a>Karty podarunkowe</a></div>
- <div class="navcta" style="display:flex;gap:12px"><a class="btn btn-o">Zadzwoń</a><a class="btn btn-b">Zarezerwuj</a></div>
+ <div class="navcta"><a class="btn btn-o">Zadzwoń</a><a class="btn btn-b">Zarezerwuj</a></div>
  <span class="burger"></span>
 </div></nav>
 <header class="hero">
@@ -141,7 +142,7 @@ body{padding-bottom:80px}
  <div>
   <div class="eyeb">Dojazd</div>
   <h2 class="h2" style="margin-top:12px">5 minut od metra.<br>Parking za rogiem.</h2>
-  <p class="lead">Klient z drugiego końca Warszawy nie szuka adresu. Szuka odpowiedzi, czy zdąży i gdzie zaparkuje.</p>
+  <p class="lead">Wszystko, co musisz wiedzieć, zanim wyjdziesz z domu: jak dojść, gdzie zaparkować i co zrobić, gdy się spóźnisz.</p>
   <div class="steps">
    <div class="step"><i>M</i><div>Metro Centrum, wyjście na Marszałkowską<small>5 minut pieszo</small></div></div>
    <div class="step"><i>P</i><div>Parking płatny w strefie, wjazd od podwórza<small>strefa płatnego parkowania, kilka miejsc przy bramie</small></div></div>
