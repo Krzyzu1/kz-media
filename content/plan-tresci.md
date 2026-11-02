@@ -20,6 +20,7 @@ Rytm: 7 postów w tygodniu. Plan na cały tydzień przychodzi w poniedziałek ok
 Zasada: hook ma zatrzymać kciuk w pierwszej sekundzie, językiem właściciela firmy. Konkret zamiast ogólników, zero zmyślonych liczb i realizacji. Rolki nagrywa Krzyżu sam.
 
 ## Już były na profilu (nie powtarzać 1:1)
+- Gdybym robił stronę dla barbera (odc. 2, OSTRZE, Śródmieście), odc. 3: branża z komentarzy
 - Jedna marka, dwa kierunki, jedno wejście (Murii)
 - Robię strony, które sprzedają (przedstawienie)
 - 3 rzeczy, które musi mieć strona firmowa
@@ -36,7 +37,7 @@ Zasada: hook ma zatrzymać kciuk w pierwszej sekundzie, językiem właściciela 
 ### Poradniki
 - [x] Ile kosztuje strona i od czego zależy cena (tydz. 2026-10-12)
 - [x] Klient nie czyta. Skanuje. Jak pisać teksty na stronę (tydz. 2026-10-19)
-- [ ] 5 rzeczy, które sprawdzasz, zanim Google pokaże Twoją firmę (Profil Firmy w Google)
+- [x] 5 rzeczy, które sprawdzasz, zanim Google pokaże Twoją firmę (Profil Firmy w Google) (tydz. 2026-11-02)
 - [ ] Sekcja „O nas”, którą ktoś w końcu przeczyta
 - [ ] Opinie klientów: gdzie je wstawić, żeby działały
 - [ ] Jak przygotować zdjęcia na stronę telefonem
@@ -46,7 +47,7 @@ Zasada: hook ma zatrzymać kciuk w pierwszej sekundzie, językiem właściciela 
 - [x] Mit: „AI w Google zastąpi moją stronę” (tryb AI w Google) (tydz. 2026-10-19)
 - [ ] Przycisk „Kontakt” to za mało
 - [ ] Zdjęcia ze stocka zabijają zaufanie
-- [ ] Strona za 500 zł. Co dokładnie kupujesz?
+- [x] Strona za 500 zł. Co dokładnie kupujesz? (tydz. 2026-11-02)
 - [ ] Masz stronę z 2015 roku? 4 znaki, że czas na nową
 - [ ] Hosting za grosze: różnica, której nie widać od razu
 - [ ] Wolna strona: każda sekunda czekania to klient, który wraca do Google
@@ -56,17 +57,18 @@ Zasada: hook ma zatrzymać kciuk w pierwszej sekundzie, językiem właściciela 
 - [ ] Ta sama strona na telefonie: przed i po
 ### Kulisy i AI
 - [x] Jak AI zmienia robienie stron (i czego nie zastąpi) (tydz. 2026-10-12)
-- [ ] Mój stack: narzędzia, na których robię strony
+- [x] Mój stack: narzędzia, na których robię strony (tydz. 2026-11-02)
 - [ ] Dzień z życia jednoosobowego studia
 - [x] Strona od zera: jak wygląda proces krok po kroku (tydz. 2026-10-19)
 - [ ] Dlaczego biorę 50% z góry
 ### Dowód i oferta
+- [x] Realizacja krzyzu.studio: wpisz nazwę firmy, zobacz swoją stronę (tydz. 2026-11-02)
 - [x] Case Murii: jedna marka, dwa światy (głębiej) (tydz. 2026-10-19)
 - [x] Case KADA: domy pod klucz, co zrobiłem i dlaczego (tydz. 2026-10-12)
 - [ ] Strona dla dewelopera: co musi mieć
 - [ ] Strona dla architekta: portfolio, które sprzedaje
 - [ ] Opieka nad stroną: za co płacisz co miesiąc
-- [ ] Statyczna czy WordPress: co wybrać
+- [ ] Statyczna czy WordPress: co wybrać (zahaczone w CTA kulis 5.11, pełny post nadal do zrobienia)
 ### Meta Ads (nowa usługa, dane: content/meta-ads/kada-kampania.md)
 Zgoda KADA na liczby i kreacje: TAK (24.10). Nie pokazujemy spraw wewnętrznych (piksel, ograniczenie konta, faktury). Liczby zawsze z datą („w pierwszych 4 dniach”), kontakty to nie sprzedaż.
 - [x] „Zostały 2 z 8” vs „Co dostajesz”: konkret w cenie wygrał z presją (opinia/edukacja)
@@ -76,7 +78,7 @@ Zgoda KADA na liczby i kreacje: TAK (24.10). Nie pokazujemy spraw wewnętrznych 
 - [ ] Case KADA: kampania Meta Ads po zakończeniu (po 19.11, pełne dane)
 - [x] Oferta: Meta Ads w krzyzu.studio (start kampanii od 1200 zł, prowadzenie od 900 zł/mies., pakiet strona + reklamy od 3900 zł; budżet reklamowy osobno, min. 30 do 50 zł dziennie)
 ### Opinie
-- [ ] Nie potrzebujesz bloga (na start)
+- [x] Nie potrzebujesz bloga (na start) (tydz. 2026-11-02)
 - [x] Branding to nie logo (tydz. 2026-10-19)
 - [ ] Strona to nie wizytówka. To handlowiec, który pracuje 24/7
 - [x] Najdroższa strona to ta, która nie dzwoni (tydz. 2026-10-12)
@@ -84,7 +86,7 @@ Zgoda KADA na liczby i kreacje: TAK (24.10). Nie pokazujemy spraw wewnętrznych 
 - [x] Co Cię najbardziej wkurza na stronach firm? (tydz. 2026-10-19)
 - [x] Strona czy Instagram: co daje Ci więcej klientów? (tydz. 2026-10-12)
 - [ ] Jaką stronę ostatnio zapamiętałeś i dlaczego?
-- [ ] Gdybyś miał jutro nową stronę, co byś na niej zmienił?
+- [x] Gdybyś miał jutro nową stronę, co byś na niej zmienił? (tydz. 2026-11-02)
 
 ## Opublikowane
 | Data | Temat | Format |
@@ -110,3 +112,10 @@ Zgoda KADA na liczby i kreacje: TAK (24.10). Nie pokazujemy spraw wewnętrznych 
 | 2026-10-30 10:00 | Oferta: strona i reklama z jednej ręki | post (oferta) |
 | 2026-10-31 10:00 | Opinia: presja nie sprzedaje, konkret tak | post (opinia) |
 | 2026-11-01 19:00 | Pytanie: promowałeś kiedyś post? (test godziny wieczornej) | post (pytanie) |
+| 2026-11-02 18:00 | Poradnik: Profil Firmy w Google, 5 rzeczy | karuzela 7 (poradnik, okładka z portretem) |
+| 2026-11-03 10:00 | Problem: strona za 500 zł. Co kupujesz? | karuzela 4 (problem) |
+| 2026-11-04 10:00 | Gdybym robił stronę dla barbera (odc. 2, Warszawa) | karuzela 5 (gdybym, koncept) |
+| 2026-11-05 10:00 | Kulisy: na czym naprawdę robię strony | karuzela 4 (kulisy) |
+| 2026-11-06 10:00 | Realizacja: krzyzu.studio, wpisz nazwę firmy | karuzela 5 (realizacja) |
+| 2026-11-07 10:00 | Opinia: nie potrzebujesz bloga. Na start. | post (opinia) |
+| 2026-11-08 10:00 | Pytanie: nowa strona od jutra, co zmieniasz najpierw? | post (pytanie, portret) |
