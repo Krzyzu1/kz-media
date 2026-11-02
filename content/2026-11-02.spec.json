@@ -1,0 +1,64 @@
+[
+ {
+  "id": "pon",
+  "slides": [
+   {"type": "cover", "eyebrow": "Poradnik · Profil Firmy w Google", "h": "5 rzeczy,<br>które poprawisz<br><g>jeszcze dziś</g>", "size": 92, "top": 230, "sub": "Klient widzi Twoją wizytówkę w Google, zanim wejdzie na stronę.", "subw": 470, "portrait": "p_rece.png"},
+   {"type": "point", "eyebrow": "Profil Firmy w Google", "num": "01", "h": "Kategoria<br><g>główna</g>", "size": 100, "body": "Wybierz najdokładniejszą, jaka jest. „Fryzjer męski” zamiast „Salon”. Od niej zależy, przy jakich wyszukiwaniach Google w ogóle Cię pokaże.", "icon": "lupa", "pill": "Ustawienia, Kategorie", "pillIcon": "zebatka"},
+   {"type": "point", "eyebrow": "Profil Firmy w Google", "num": "02", "h": "Godziny,<br>też <g>świąteczne</g>", "size": 100, "body": "11 listopada wypada w środę. Ustaw godziny specjalne, zanim ktoś przyjedzie pod zamknięte drzwi i wystawi opinię.", "icon": "kalendarz", "pill": "Godziny specjalne: 11.11", "pillIcon": "klepsydra"},
+   {"type": "point", "eyebrow": "Profil Firmy w Google", "num": "03", "h": "Prawdziwe<br><g>zdjęcia</g>", "size": 100, "body": "Wejście z ulicy, wnętrze, Ty przy pracy. Klient chce wiedzieć, gdzie jedzie i do kogo. Zdjęcia ze stocka nic mu nie mówią.", "icon": "aparat", "pill": "Wejście, wnętrze, zespół", "pillIcon": "pinezka"},
+   {"type": "point", "eyebrow": "Profil Firmy w Google", "num": "04", "h": "Odpowiedź<br>na <g>każdą</g> opinię", "size": 100, "body": "Także na tę złą. Następny klient czyta Twoją odpowiedź uważniej niż samą skargę. Spokojnie, konkretnie, bez kłótni.", "icon": "gwiazda", "pill": "Poproś o opinię linkiem", "pillIcon": "dymek"},
+   {"type": "point", "eyebrow": "Profil Firmy w Google", "num": "05", "h": "Te same dane<br><g>wszędzie</g>", "size": 100, "body": "Nazwa, adres i telefon identyczne w Google i na stronie. Do tego link do strony i numer, który dzwoni jednym kliknięciem.", "icon": "link", "pill": "Nazwa, adres, telefon", "pillIcon": "telefon"},
+   {"type": "cta", "eyebrow": "Sprawdzę za Ciebie", "h": "Którego punktu<br><g>brakuje u Ciebie?</g>", "size": 92, "body": "Wyślij nazwę firmy i miasto. Przejdę Twój profil i napiszę, co poprawić najpierw.", "btn": "Napisz „PROFIL” w DM"}
+  ]
+ },
+ {
+  "id": "wt",
+  "slides": [
+   {"type": "problem", "label": "Problem klienta", "h": "„Zapłaciłem 500 zł<br>za stronę. Nikt<br><g>nie zadzwonił.</g>”", "size": 86, "top": 330, "sub": "Problemem rzadko jest cena. Problemem jest to, czego w tej cenie nie było.", "subw": 440, "portrait": "p_wzruszenie.png", "pleft": 560, "ptop": 520, "ph": 830},
+   {"type": "list", "eyebrow": "Zanim zapłacisz, zapytaj", "h": "5 pytań<br>do <g>wykonawcy</g>", "size": 92, "icon": "lista", "items": [["klodka", "Na kogo będzie zapisana domena?"], ["dymek", "Kto pisze teksty na stronę?"], ["telefon", "Jak strona wygląda na telefonie?"], ["lupa", "Czy Google ją w ogóle zobaczy?"], ["zebatka", "Kto ją poprawi za pół roku?"]]},
+   {"type": "story", "label": "Mechanizm", "step": "02", "h": "Tania strona<br><g>kosztuje dwa razy</g>", "body": "Domena zapisana na wykonawcę, teksty „do uzupełnienia”, szablon, którego nikt nie umie zmienić. Po roku płacisz za stronę jeszcze raz. Tylko że wtedy wiesz już, czego chcesz.", "chips": [["klodka", "Domena zawsze na Ciebie"], ["dymek", "Teksty pod Twoich klientów"], ["telefon", "Najpierw telefon, potem komputer"]], "icon": "metka"},
+   {"type": "cta", "eyebrow": "Masz już taką stronę?", "h": "Powiem, co<br><g>z niej uratować</g>", "size": 100, "body": "Wyślij link. Napiszę, co zostawić, a co zmienić, zanim wydasz kolejną złotówkę.", "btn": "Napisz „LINK” w DM"}
+  ]
+ },
+ {
+  "id": "sr",
+  "slides": [
+   {"type": "koncept", "eyebrow": "Seria · odcinek 2", "branza": "barbera", "size": 120, "sub": "Warszawa, Śródmieście. Strona, na której wolny termin widać szybciej niż numer telefonu.", "subw": 880, "laptop": "laptop_barber.png", "phone": "bm1.png", "laptop_top": 560, "lapw": 880, "lapleft": -20, "phtop": 500, "phright": 56},
+   {"type": "phone", "eyebrow": "Decyzja 01 z 3", "h": "Wolny termin<br><g>na samej górze</g>", "size": 78, "sub": "Klient barbera nie chce dzwonić i pytać, czy jest miejsce. Widzi najbliższe godziny od razu i rezerwuje jednym przyciskiem.", "shot": "bm1.png"},
+   {"type": "phone", "eyebrow": "Decyzja 02 z 3", "h": "Cena<br><g>i czas</g><br>przy usłudze", "size": 84, "sub": "„Od 90 zł, 45 minut.” Klient wie, ile zapłaci i czy zdąży przed spotkaniem. Mniej pytań w wiadomościach.", "shot": "bm2.png"},
+   {"type": "phone", "eyebrow": "Decyzja 03 z 3", "h": "Dojazd<br><g>po ludzku</g>", "size": 84, "sub": "Zamiast samego adresu: ile minut od metra, gdzie zaparkować i co zrobić, gdy się spóźnisz.", "shot": "bm3.png"},
+   {"type": "cta", "eyebrow": "Masz salon w Warszawie?", "h": "Pokażę to<br>na <g>Twojej</g><br>stronie", "body": "Napisz „BARBER” i wyślij link. Przejdę te 3 decyzje na Twojej stronie.", "btn": "Napisz „BARBER” w DM"}
+  ]
+ },
+ {
+  "id": "czw",
+  "slides": [
+   {"type": "kulisy", "h": "Na czym<br><g>naprawdę</g><br>robię strony", "size": 92, "sub": "", "portrait": "p_kciuk_bok.png", "pleft": -200, "ptop": 520, "ph": 860, "termtop": 560, "termw": 540, "lines": ["rozmowa i notatki", "HTML, CSS, JS od zera", "WordPress, gdy edytujesz sam", "AI: szkice, teksty, kod", "test: telefon i komputer"]},
+   {"type": "list", "eyebrow": "Narzędzia i po co", "h": "Mój <g>stack</g>", "size": 100, "icon": "kod", "items": [["dymek", "Rozmowa: kto dzwoni i o co pyta"], ["kod", "Kod pisany pod jedną firmę"], ["laptop", "WordPress z zablokowanym układem"], ["zarowka", "AI przyspiesza szkice i kod"], ["telefon", "Każda strona testowana na telefonie"]]},
+   {"type": "story", "label": "Dlaczego nie kreator", "step": "02", "h": "Kreator daje<br><g>40 opcji.</g><br>Używasz 3.", "size": 92, "body": "Kod piszę pod jedną firmę, więc strona ładuje tylko to, czego potrzebuje. Chcesz sam dodawać wpisy albo realizacje? Dostajesz WordPressa, w którym zmieniasz treść, ale nie rozbijesz układu.", "chips": [["predkosciomierz", "Mniej zbędnego kodu"], ["klodka", "Układ, którego nie zepsujesz"]], "icon": "zebatka"},
+   {"type": "cta", "eyebrow": "Nie wiesz, co wybrać?", "h": "Statyk<br>czy <g>WordPress?</g>", "size": 104, "body": "Napisz, co chcesz zmieniać na stronie sam i jak często. Odpiszę, co ma u Ciebie sens.", "btn": "Napisz „STRONA” w DM"}
+  ]
+ },
+ {
+  "id": "pt",
+  "slides": [
+   {"type": "realizacja", "label": "Realizacja · krzyzu.studio", "eyebrow": "Strona studia", "h": "Wpisz nazwę firmy.<br><g>Zobacz swoją stronę.</g>", "size": 84, "sub": "Moja własna strona. Zamiast opisywać, co robię, pokazuje to na Twojej firmie.", "image": "laptop_ks.png", "imgleft": 40, "imgtop": 200, "imgw": 1000, "bottom": 190},
+   {"type": "phone", "eyebrow": "Decyzja 01 z 3", "h": "Obietnica<br>i cena<br><g>na start</g>", "size": 80, "sub": "Nagłówek mówi, co dostajesz. Zaraz pod nim: strony od 3000 zł, odpowiedź w 24 godziny, teksty i SEO w cenie.", "shot": "ks_m.png"},
+   {"type": "phone", "eyebrow": "Decyzja 02 z 3", "h": "Twoja firma<br><g>na ekranie</g>", "size": 80, "sub": "Wpisujesz nazwę firmy i wybierasz branżę. Telefon obok od razu pokazuje stronę z Twoją nazwą.", "shot": "ks_m_demo2.png"},
+   {"type": "phone", "eyebrow": "Decyzja 03 z 3", "h": "Realizacje<br><g>na żywo</g>", "size": 80, "sub": "Każdą stronę z portfolio można kliknąć i sprawdzić na swoim telefonie. Murii, KADA i kolejne.", "shot": "ks_m_2700.png"},
+   {"type": "cta", "eyebrow": "Sprawdź sam", "h": "Wpisz <g>swoją</g><br>firmę", "size": 112, "body": "Wejdź na krzyzu.studio i wpisz nazwę firmy. Spodoba Ci się? Napisz, zrobię ją naprawdę.", "btn": "Napisz „STRONA” w DM"}
+  ]
+ },
+ {
+  "id": "sob",
+  "slides": [
+   {"type": "opinia", "eyebrow": "Opinia", "h": "Nie<br>potrzebujesz<br><g>bloga.</g><br>Na start.", "size": 140, "top": 230, "sub": "Najpierw strona, która w 5 sekund mówi, co robisz, gdzie i jak się z Tobą umówić. Blog ma sens, kiedy to już działa.", "subw": 820}
+  ]
+ },
+ {
+  "id": "nd",
+  "slides": [
+   {"type": "single", "eyebrow": "Pytanie na niedzielę", "h": "Nowa strona<br>od jutra.<br>Co zmieniasz<br><g>najpierw?</g>", "size": 82, "top": 140, "sub": "", "subw": 520, "portrait": "p_mysli.png", "pleft": 520, "ptop": 380, "ph": 980, "chips": [["metka", "A · ceny na wierzchu"], ["telefon", "B · kontakt jednym kliknięciem"], ["aparat", "C · prawdziwe zdjęcia"], ["predkosciomierz", "D · szybkość na telefonie"]]}
+  ]
+ }
+]
