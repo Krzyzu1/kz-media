@@ -1,0 +1,227 @@
+[
+ {
+  "id": "k1110",
+  "slides": [
+   {
+    "type": "cover",
+    "obj": "ikony/metka.png",
+    "objcss": "left:370px;top:105px;width:350px;transform:rotate(-8deg)",
+    "tag": "KUPUJESZ DOM?",
+    "eyebrow": "Jawność cen · poradnik kupującego",
+    "h": "Cena na stronie.<br><g>Nie w rozmowie.</g>",
+    "size": 116,
+    "sub": "Od lipca 2025 deweloper musi pokazać cenę, zanim zadzwonisz. Sprawdź, co dokładnie.",
+    "foot": "Zapisz na później"
+   },
+   {
+    "type": "features",
+    "top": 210,
+    "eyebrow": "Co mówią przepisy",
+    "h": "Na stronie<br><g>musi być</g>",
+    "items": [
+     [
+      "metka",
+      "Cena ofertowa",
+      "każdego oferowanego domu i mieszkania"
+     ],
+     [
+      "kalkulator",
+      "Cena za m²",
+      "powierzchni użytkowej, dla każdego lokalu"
+     ],
+     [
+      "garaz",
+      "Miejsca postojowe i komórki",
+      "ceny pomieszczeń przynależnych"
+     ],
+     [
+      "waga",
+      "Wszystkie dodatkowe koszty",
+      "które płacisz deweloperowi"
+     ]
+    ],
+    "foot": "Podstawa: ustawa deweloperska. To nie porada prawna"
+   },
+   {
+    "type": "steps",
+    "top": 220,
+    "eyebrow": "Gdzie i od kiedy",
+    "h": "Zasady<br><g>publikacji</g>",
+    "obj": "ikony/klodka.png",
+    "objcss": "right:110px;top:215px;width:190px;transform:rotate(8deg)",
+    "items": [
+     [
+      "Od 11 lipca 2025",
+      "w starszych inwestycjach od 11 września 2025"
+     ],
+     [
+      "Na stronie dewelopera",
+      "z czytelnym linkiem ze strony głównej"
+     ],
+     [
+      "Sam portal ogłoszeniowy nie wystarczy",
+      "ceny muszą być u dewelopera"
+     ],
+     [
+      "Dopóki są wolne lokale",
+      "strona z cenami działa do końca sprzedaży"
+     ]
+    ],
+    "foot": "Podstawa: ustawa deweloperska. To nie porada prawna"
+   },
+   {
+    "type": "steps",
+    "top": 220,
+    "eyebrow": "Jak z tego skorzystać",
+    "h": "Zanim<br><g>przyjedziesz</g>",
+    "obj": "ikony/lupa.png",
+    "objcss": "right:110px;top:200px;width:230px;transform:rotate(10deg)",
+    "items": [
+     [
+      "Porównaj cenę za m²",
+      "między inwestycjami, nie tylko cenę całości"
+     ],
+     [
+      "Dolicz miejsce postojowe i komórkę",
+      "to część realnego kosztu domu"
+     ],
+     [
+      "Sprawdź dodatkowe koszty",
+      "powinny być na stronie, nie w rozmowie"
+     ],
+     [
+      "Zrób zrzut ekranu oferty",
+      "masz punkt odniesienia na spotkaniu"
+     ]
+    ]
+   },
+   {
+    "type": "cta",
+    "top": 625,
+    "eyebrow": "Osiedle Jachranka",
+    "h": "Nasze ceny <g>są jawne</g>",
+    "size": 88,
+    "sub": "Ceny obu wolnych domów w Jachrance znajdziesz na kada-bud.pl. Zostały dwa z ośmiu. Resztę omówimy na budowie.",
+    "subw": 912,
+    "btn": "Zadzwoń: 798 840 959",
+    "contact": "kada-bud.pl · biuro@kada-bud.pl",
+    "nosave": true,
+    "obj": "o_blizniak.png",
+    "objcss": "left:90px;top:170px;width:900px"
+   }
+  ]
+ },
+ {
+  "id": "k1113",
+  "slides": [
+   {
+    "type": "photo",
+    "img": "foto/jach_n02.jpg",
+    "pos": "62% center",
+    "tag": "OSIEDLE JACHRANKA",
+    "eyebrow": "Dom 121 m² · ogrzewanie",
+    "h": "Ciepło idzie<br><g>od podłogi.</g>",
+    "size": 118,
+    "sub": "Pompa ciepła Panasonic z ogrzewaniem podłogowym. Co to zmienia na co dzień?",
+    "foot": "Osiedle Jachranka · gm. Serock"
+   },
+   {
+    "type": "features",
+    "top": 210,
+    "eyebrow": "W standardzie",
+    "h": "Co grzeje<br><g>Twój dom</g>",
+    "items": [
+     [
+      "pompa",
+      "Pompa ciepła Panasonic",
+      "serce ogrzewania, w cenie domu"
+     ],
+     [
+      "podlogowka",
+      "Ogrzewanie podłogowe",
+      "ciepło idzie od podłogi w górę"
+     ],
+     [
+      "okno",
+      "Duże energooszczędne okna",
+      "dużo światła, mniej strat ciepła"
+     ],
+     [
+      "fotowoltaika",
+      "Fotowoltaika i klimatyzacja",
+      "możliwy montaż na Twoje życzenie"
+     ]
+    ]
+   },
+   {
+    "type": "compare",
+    "top": 230,
+    "eyebrow": "Jak to działa",
+    "h": "Grzejnik<br><g>czy podłoga?</g>",
+    "size": 96,
+    "cols": [
+     {
+      "icon": "termometr",
+      "title": "Grzejniki",
+      "items": [
+       "Ciepło skupione przy jednej ścianie",
+       "Grzejnik zajmuje miejsce pod oknem",
+       "Cieplej pod sufitem niż przy stopach"
+      ]
+     },
+     {
+      "icon": "podlogowka",
+      "title": "Podłogówka",
+      "items": [
+       "Ciepło z całej powierzchni podłogi",
+       "Ściany zostają wolne na meble",
+       "Najcieplej tam, gdzie chodzisz"
+      ]
+     }
+    ],
+    "sub": "Ta sama temperatura na termostacie, a zupełnie inne odczucie w pokoju.",
+    "subw": 820
+   },
+   {
+    "type": "steps",
+    "top": 220,
+    "eyebrow": "Jeden dzień w domu",
+    "h": "Jak to<br><g>czujesz</g>",
+    "obj": "ikony/slonce.png",
+    "objcss": "right:100px;top:190px;width:230px",
+    "items": [
+     [
+      "Rano",
+      "boso po ciepłej podłodze"
+     ],
+     [
+      "W ciągu dnia",
+      "temperatura trzyma się równo, sama"
+     ],
+     [
+      "Wieczorem",
+      "bez noszenia opału i sprzątania kotłowni"
+     ],
+     [
+      "Latem",
+      "możesz dołożyć klimatyzację i fotowoltaikę"
+     ]
+    ]
+   },
+   {
+    "type": "cta",
+    "top": 625,
+    "eyebrow": "Biuro sprzedaży",
+    "h": "Sprawdź to <g>na miejscu</g>",
+    "size": 88,
+    "sub": "Na budowie opowiemy, jak działa ogrzewanie i co dostajesz w standardzie. W Jachrance zostały dwa z ośmiu domów.",
+    "subw": 912,
+    "btn": "Zadzwoń: 798 840 959",
+    "contact": "ul. Piłsudskiego 25/8, Legionowo · Ceny jawne na kada-bud.pl",
+    "nosave": true,
+    "obj": "o_blizniak.png",
+    "objcss": "left:90px;top:170px;width:900px"
+   }
+  ]
+ }
+]
