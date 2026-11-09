@@ -24,7 +24,8 @@
    "https://d2ol7oe51mr4n9.cloudfront.net/user_3FWzvcvRGVAXn9M6g4SysHxgxs3/f805758b-d859-4027-89c1-5df6acd569c9.png",
    "https://d2ol7oe51mr4n9.cloudfront.net/user_3FWzvcvRGVAXn9M6g4SysHxgxs3/9e79616a-070d-4399-b5a7-894e99fcb971.png"
   ],
-  "hook": "Twój klient wybiera firmę po zdjęciach, zanim przeczyta choćby jedno zdanie."
+  "hook": "Twój klient wybiera firmę po zdjęciach, zanim przeczyta choćby jedno zdanie.",
+  "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=7342252&openWithPostUuid=-7488792302458682366"
  },
  {
   "id": "wt",
@@ -45,7 +46,8 @@
    "https://d2ol7oe51mr4n9.cloudfront.net/user_3FWzvcvRGVAXn9M6g4SysHxgxs3/f7b1d062-6a1f-4c66-90d3-acc1c43cd279.png",
    "https://d2ol7oe51mr4n9.cloudfront.net/user_3FWzvcvRGVAXn9M6g4SysHxgxs3/ba9e314f-bc25-4adc-8361-90a588feecbb.png"
   ],
-  "hook": "Najczęstszy przycisk na stronach małych firm jest też najbardziej leniwy."
+  "hook": "Najczęstszy przycisk na stronach małych firm jest też najbardziej leniwy.",
+  "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=7342252&openWithPostUuid=-6910337249539307571"
  },
  {
   "id": "sr",
@@ -66,7 +68,8 @@
    "https://d2ol7oe51mr4n9.cloudfront.net/user_3FWzvcvRGVAXn9M6g4SysHxgxs3/4ecc225f-8d23-4572-94dc-5b14430bc3eb.png",
    "https://d2ol7oe51mr4n9.cloudfront.net/user_3FWzvcvRGVAXn9M6g4SysHxgxs3/5a611dbc-ed68-4753-b55a-16b35bc811c5.png"
   ],
-  "hook": "Na telefonie Twoja strona ma mniej czasu niż czerwone światło na skrzyżowaniu."
+  "hook": "Na telefonie Twoja strona ma mniej czasu niż czerwone światło na skrzyżowaniu.",
+  "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=7342252&openWithPostUuid=-2910061633110129327"
  },
  {
   "id": "czw",
@@ -87,7 +90,8 @@
    "https://d2ol7oe51mr4n9.cloudfront.net/user_3FWzvcvRGVAXn9M6g4SysHxgxs3/a09fff02-599f-4bab-9acd-913979de0278.png",
    "https://d2ol7oe51mr4n9.cloudfront.net/user_3FWzvcvRGVAXn9M6g4SysHxgxs3/6776778d-8640-4b86-bfe6-9fab61da4e99.png"
   ],
-  "hook": "Zaliczka to nie brak zaufania. To pierwsza rzecz, która je buduje."
+  "hook": "Zaliczka to nie brak zaufania. To pierwsza rzecz, która je buduje.",
+  "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=7342252&openWithPostUuid=-6867636545121270795"
  },
  {
   "id": "pt",
@@ -110,7 +114,8 @@
    "https://d2ol7oe51mr4n9.cloudfront.net/user_3FWzvcvRGVAXn9M6g4SysHxgxs3/f58212c4-9bcf-4fc2-89af-6b4978ff0cbf.png",
    "https://d2ol7oe51mr4n9.cloudfront.net/user_3FWzvcvRGVAXn9M6g4SysHxgxs3/12b56fe3-7b86-4d28-9314-667374f51bdc.png"
   ],
-  "hook": "Strona firmowa to nie 5 zakładek. To odpowiedzi na pytania, które klient zadałby Ci przez telefon."
+  "hook": "Strona firmowa to nie 5 zakładek. To odpowiedzi na pytania, które klient zadałby Ci przez telefon.",
+  "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=7342252&openWithPostUuid=-6305621533876926352"
  },
  {
   "id": "sob",
@@ -125,7 +130,8 @@
   "media": [
    "https://d2ol7oe51mr4n9.cloudfront.net/user_3FWzvcvRGVAXn9M6g4SysHxgxs3/b291ddcc-f8f7-488c-9941-767ae47a3dde.png"
   ],
-  "hook": "Wizytówkę dajesz komuś, kto już Cię zna. Strona pracuje dla tych, którzy jeszcze nie znają."
+  "hook": "Wizytówkę dajesz komuś, kto już Cię zna. Strona pracuje dla tych, którzy jeszcze nie znają.",
+  "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=7342252&openWithPostUuid=9018597271757996733"
  },
  {
   "id": "nd",
@@ -140,6 +146,7 @@
   "media": [
    "https://d2ol7oe51mr4n9.cloudfront.net/user_3FWzvcvRGVAXn9M6g4SysHxgxs3/004d07f9-44d3-4485-8a39-069ca5bd75e7.png"
   ],
-  "hook": "Pamiętasz stronę firmy, która zrobiła na Tobie wrażenie? Nie sklepu giganta. Lokalnej firmy."
+  "hook": "Pamiętasz stronę firmy, która zrobiła na Tobie wrażenie? Nie sklepu giganta. Lokalnej firmy.",
+  "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=7342252&openWithPostUuid=6669972605832481465"
  }
 ]

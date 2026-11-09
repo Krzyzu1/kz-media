@@ -40,12 +40,12 @@ Zasada: hook ma zatrzymać kciuk w pierwszej sekundzie, językiem właściciela 
 - [x] 5 rzeczy, które sprawdzasz, zanim Google pokaże Twoją firmę (Profil Firmy w Google) (tydz. 2026-11-02)
 - [ ] Sekcja „O nas”, którą ktoś w końcu przeczyta
 - [ ] Opinie klientów: gdzie je wstawić, żeby działały
-- [ ] Jak przygotować zdjęcia na stronę telefonem
+- [x] Jak przygotować zdjęcia na stronę telefonem (tydz. 2026-11-09)
 - [ ] Lokalny biznes w Warszawie: 3 rzeczy, które robią różnicę w Google
 ### Błędy i mity
 - [x] Formularz z 10 polami? Właśnie zgubiłeś klienta (tydz. 2026-10-12)
 - [x] Mit: „AI w Google zastąpi moją stronę” (tryb AI w Google) (tydz. 2026-10-19)
-- [ ] Przycisk „Kontakt” to za mało
+- [x] Przycisk „Kontakt” to za mało (tydz. 2026-11-09)
 - [ ] Zdjęcia ze stocka zabijają zaufanie
 - [x] Strona za 500 zł. Co dokładnie kupujesz? (tydz. 2026-11-02)
 - [ ] Masz stronę z 2015 roku? 4 znaki, że czas na nową
@@ -54,17 +54,18 @@ Zasada: hook ma zatrzymać kciuk w pierwszej sekundzie, językiem właściciela 
 ### Przed i po / audyt
 - [x] Nagłówek, który w 3 sekundy mówi, co robisz (tydz. 2026-10-12)
 - [x] Post-audyt: wrzuć link w komentarzu, powiem, co poprawić (tydz. 2026-10-19)
-- [ ] Ta sama strona na telefonie: przed i po
+- [x] Ta sama strona na telefonie: przed i po (tydz. 2026-11-09)
 ### Kulisy i AI
 - [x] Jak AI zmienia robienie stron (i czego nie zastąpi) (tydz. 2026-10-12)
 - [x] Mój stack: narzędzia, na których robię strony (tydz. 2026-11-02)
 - [ ] Dzień z życia jednoosobowego studia
 - [x] Strona od zera: jak wygląda proces krok po kroku (tydz. 2026-10-19)
-- [ ] Dlaczego biorę 50% z góry
+- [x] Dlaczego biorę 50% z góry (tydz. 2026-11-09)
 ### Dowód i oferta
 - [x] Realizacja krzyzu.studio: wpisz nazwę firmy, zobacz swoją stronę (tydz. 2026-11-02)
 - [x] Case Murii: jedna marka, dwa światy (głębiej) (tydz. 2026-10-19)
 - [x] Case KADA: domy pod klucz, co zrobiłem i dlaczego (tydz. 2026-10-12)
+- [x] Realizacja KADA: co jest w stronie firmowej + ceny „od” (tydz. 2026-11-09)
 - [ ] Strona dla dewelopera: co musi mieć
 - [ ] Strona dla architekta: portfolio, które sprzedaje
 - [ ] Opieka nad stroną: za co płacisz co miesiąc
@@ -80,12 +81,12 @@ Zgoda KADA na liczby i kreacje: TAK (24.10). Nie pokazujemy spraw wewnętrznych 
 ### Opinie
 - [x] Nie potrzebujesz bloga (na start) (tydz. 2026-11-02)
 - [x] Branding to nie logo (tydz. 2026-10-19)
-- [ ] Strona to nie wizytówka. To handlowiec, który pracuje 24/7
+- [x] Strona to nie wizytówka. To handlowiec, który pracuje 24/7 (tydz. 2026-11-09)
 - [x] Najdroższa strona to ta, która nie dzwoni (tydz. 2026-10-12)
 ### Pytania
 - [x] Co Cię najbardziej wkurza na stronach firm? (tydz. 2026-10-19)
 - [x] Strona czy Instagram: co daje Ci więcej klientów? (tydz. 2026-10-12)
-- [ ] Jaką stronę ostatnio zapamiętałeś i dlaczego?
+- [x] Jaką stronę ostatnio zapamiętałeś i dlaczego? (tydz. 2026-11-09)
 - [x] Gdybyś miał jutro nową stronę, co byś na niej zmienił? (tydz. 2026-11-02)
 
 ## Opublikowane
@@ -119,3 +120,10 @@ Zgoda KADA na liczby i kreacje: TAK (24.10). Nie pokazujemy spraw wewnętrznych 
 | 2026-11-06 10:00 | Realizacja: krzyzu.studio, wpisz nazwę firmy | karuzela 5 (realizacja) |
 | 2026-11-07 10:00 | Opinia: nie potrzebujesz bloga. Na start. | post (opinia) |
 | 2026-11-08 10:00 | Pytanie: nowa strona od jutra, co zmieniasz najpierw? | post (pytanie, portret) |
+| 2026-11-09 18:00 | Poradnik: zdjęcia na stronę telefonem, 5 zasad | karuzela 7 (poradnik, okładka z portretem) |
+| 2026-11-10 10:00 | Błąd: przycisk „Kontakt” to za mało | karuzela 4 (problem) |
+| 2026-11-11 10:00 | Przed i po: pierwszy ekran na telefonie (przykład, wymyślona firma) | karuzela 4 (versus + zrzuty) |
+| 2026-11-12 10:00 | Kulisy: dlaczego biorę 50% z góry | karuzela 4 (kulisy) |
+| 2026-11-13 10:00 | KADA: co jest w stronie firmowej + ceny „od” | karuzela 5 (realizacja + oferta) |
+| 2026-11-14 10:00 | Opinia: strona to nie wizytówka, to handlowiec | post (opinia) |
+| 2026-11-15 10:00 | Pytanie: jaką stronę firmy zapamiętałeś? | post (pytanie, portret) |
