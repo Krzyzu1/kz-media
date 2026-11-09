@@ -1,0 +1,386 @@
+[
+ {
+  "id": "pon",
+  "slides": [
+   {
+    "type": "cover",
+    "eyebrow": "Poradnik",
+    "h": "Zdjęcia<br>na stronę?<br><g>Wystarczy<br>telefon</g>",
+    "size": 92,
+    "top": 250,
+    "sub": "5 zasad, po których nikt nie zgadnie, że to nie fotograf.",
+    "subw": 430,
+    "portrait": "p_kciuk_bok.png"
+   },
+   {
+    "type": "point",
+    "eyebrow": "Zdjęcia telefonem",
+    "num": "01",
+    "h": "Przetrzyj<br><g>obiektyw</g>",
+    "size": 100,
+    "body": "Brzmi głupio, a to najczęstszy powód mglistych zdjęć. Telefon leży w kieszeni cały dzień. Rąbek koszulki i po sprawie.",
+    "icon": "aparat",
+    "pill": "Zanim zrobisz pierwsze ujęcie",
+    "pillIcon": "zarowka"
+   },
+   {
+    "type": "point",
+    "eyebrow": "Zdjęcia telefonem",
+    "num": "02",
+    "h": "Światło<br>z <g>okna</g>",
+    "size": 100,
+    "body": "Stań bokiem do okna, wyłącz lampę błyskową. Miękkie dzienne światło robi więcej niż najdroższy filtr. Wieczorem nie fotografuj.",
+    "icon": "zarowka",
+    "pill": "Bez flesza, w dzień",
+    "pillIcon": "klepsydra"
+   },
+   {
+    "type": "point",
+    "eyebrow": "Zdjęcia telefonem",
+    "num": "03",
+    "h": "Bez<br><g>zoomu</g>",
+    "size": 100,
+    "body": "Zoom w palcach to zwykłe przycinanie i utrata jakości. Podejdź bliżej albo przełącz obiektyw na 1x lub 2x.",
+    "icon": "lupa",
+    "pill": "Podejdź zamiast przybliżać",
+    "pillIcon": "pinezka"
+   },
+   {
+    "type": "point",
+    "eyebrow": "Zdjęcia telefonem",
+    "num": "04",
+    "h": "Poziom<br><g>i pion</g>",
+    "size": 100,
+    "body": "Na komputerze strona potrzebuje zdjęć poziomych, na telefonie i Instagramie pionowych. Każde ujęcie zrób w obu wersjach.",
+    "icon": "laptop",
+    "pill": "Jedno ujęcie, dwie wersje",
+    "pillIcon": "telefon"
+   },
+   {
+    "type": "point",
+    "eyebrow": "Zdjęcia telefonem",
+    "num": "05",
+    "h": "Ludzie<br><g>przy pracy</g>",
+    "size": 100,
+    "body": "Puste wnętrze mówi „tu jest lokal”. Ty przy pracy mówi „tu ktoś się Tobą zajmie”. Zrób serię 20 zdjęć, wybierz 3.",
+    "icon": "gwiazda",
+    "pill": "Twarz, ręce, efekt",
+    "pillIcon": "dymek"
+   },
+   {
+    "type": "cta",
+    "eyebrow": "Masz już zdjęcia?",
+    "h": "Wybiorę te,<br><g>które sprzedają</g>",
+    "size": 92,
+    "body": "Wyślij 5 zdjęć swojej firmy. Powiem, które dać na stronę, a które zostawić w telefonie.",
+    "btn": "Napisz „ZDJĘCIA” w DM"
+   }
+  ]
+ },
+ {
+  "id": "wt",
+  "slides": [
+   {
+    "type": "problem",
+    "label": "Błąd",
+    "h": "„Mam przycisk<br>Kontakt. Czemu<br><g>nikt nie pisze?</g>”",
+    "size": 86,
+    "top": 300,
+    "sub": "Bo „Kontakt” nie mówi, co się stanie po kliknięciu.",
+    "subw": 440,
+    "portrait": "p_stop.png",
+    "pleft": 560,
+    "ptop": 500,
+    "ph": 850
+   },
+   {
+    "type": "list",
+    "eyebrow": "Zamiast „Kontakt”",
+    "h": "Napisz,<br><g>co się stanie</g>",
+    "size": 92,
+    "icon": "dymek",
+    "items": [
+     [
+      "telefon",
+      "Zadzwoń, odbieram do 19:00"
+     ],
+     [
+      "kalendarz",
+      "Umów darmowy pomiar"
+     ],
+     [
+      "aparat",
+      "Wyślij zdjęcie, podam widełki"
+     ],
+     [
+      "koperta",
+      "Zapytaj o termin, odpiszę dziś"
+     ]
+    ]
+   },
+   {
+    "type": "story",
+    "label": "Mechanizm",
+    "step": "03",
+    "h": "Klient nie szuka<br><g>kontaktu</g>",
+    "size": 92,
+    "body": "Szuka następnego kroku, który nic nie kosztuje i niczego go nie zobowiązuje. Gdy przycisk mówi, ile to potrwa i co dostanie, łatwiej kliknąć. Gdy mówi tylko „Kontakt”, odkłada to na później. A później nie wraca.",
+    "chips": [
+     [
+      "metka",
+      "Konkretna czynność zamiast „Kontakt”"
+     ],
+     [
+      "klepsydra",
+      "Kiedy odpowiesz"
+     ],
+     [
+      "telefon",
+      "Przycisk widoczny bez przewijania"
+     ]
+    ],
+    "icon": "ostrzezenie"
+   },
+   {
+    "type": "cta",
+    "eyebrow": "Sprawdzę Twój przycisk",
+    "h": "Co mówi Twój<br><g>główny przycisk?</g>",
+    "size": 92,
+    "body": "Wklej link do strony w wiadomości. Napiszę Ci jedną lepszą wersję tekstu na przycisk.",
+    "btn": "Napisz „PRZYCISK” w DM"
+   }
+  ]
+ },
+ {
+  "id": "sr",
+  "slides": [
+   {
+    "type": "versus",
+    "eyebrow": "Przed i po · przykład",
+    "h": "Ten sam telefon.<br><g>Inne 3 sekundy.</g>",
+    "size": 76,
+    "colstop": 380,
+    "sides": [
+     {
+      "label": "Przed",
+      "kind": "r",
+      "image": "ex_przed_top.png",
+      "result": "Gdzie dzwonić?",
+      "rsize": 40,
+      "note": "Logo, slider, „Witamy”."
+     },
+     {
+      "label": "Po",
+      "kind": "b",
+      "image": "ex_po_top.png",
+      "result": "Dzwonię.",
+      "rsize": 40,
+      "note": "Usługa, miasto, przycisk."
+     }
+    ]
+   },
+   {
+    "type": "phone",
+    "eyebrow": "Przed",
+    "h": "Witamy.<br>I <g>tyle</g>.",
+    "size": 88,
+    "sub": "Pierwszy ekran to slider i „O naszej firmie”. Nie wiem, co robią, gdzie i jak zadzwonić. Kontakt schowany w menu.",
+    "shot": "ex_przed.png"
+   },
+   {
+    "type": "phone",
+    "eyebrow": "Po",
+    "h": "3 zmiany,<br><g>zero nowych<br>zdjęć</g>",
+    "size": 80,
+    "sub": "1. Nagłówek: usługa i miasto. 2. Przycisk z konkretną czynnością. 3. Dowody zaufania i pasek „Zadzwoń” przyklejony na dole.",
+    "shot": "ex_po.png"
+   },
+   {
+    "type": "cta",
+    "eyebrow": "Twoja kolej",
+    "h": "Zrobię Twoje<br><g>przed i po</g>",
+    "size": 92,
+    "body": "Wyślij link do strony. Pokażę, jak mógłby wyglądać Twój pierwszy ekran na telefonie.",
+    "btn": "Napisz „TELEFON” w DM"
+   }
+  ]
+ },
+ {
+  "id": "czw",
+  "slides": [
+   {
+    "type": "kulisy",
+    "h": "Dlaczego biorę<br><g>50% z góry</g>",
+    "size": 100,
+    "sub": "I dlaczego to dobrze dla Ciebie, nie tylko dla mnie.",
+    "portrait": "p_rece.png",
+    "pleft": -170,
+    "ptop": 470,
+    "ph": 900,
+    "termtop": 600,
+    "termw": 560,
+    "lines": [
+     "umowa: zakres i termin",
+     "wpłata 50%",
+     "termin w kalendarzu",
+     "projekt i poprawki",
+     "Twoja akceptacja",
+     "wpłata 50%, publikacja"
+    ]
+   },
+   {
+    "type": "story",
+    "label": "Powód 1",
+    "step": "02",
+    "h": "Rezerwuję<br><g>Twój termin</g>",
+    "size": 92,
+    "body": "Pracuję sam, więc robię kilka projektów naraz, nie kilkadziesiąt. Zaliczka blokuje miejsce w kalendarzu dla Ciebie. Bez niej każdy termin byłby „mniej więcej”.",
+    "chips": [
+     [
+      "kalendarz",
+      "Termin zapisany w umowie"
+     ],
+     [
+      "zebatka",
+      "Start pracy od razu po wpłacie"
+     ]
+    ],
+    "icon": "klepsydra"
+   },
+   {
+    "type": "story",
+    "label": "Powód 2",
+    "step": "03",
+    "h": "Druga połowa<br><g>po akceptacji</g>",
+    "size": 92,
+    "body": "Resztę płacisz, kiedy strona jest gotowa i ją zaakceptujesz. Obie strony mają coś do stracenia, więc obu zależy na tym samym: żeby skończyć dobrze i na czas.",
+    "chips": [
+     [
+      "tarcza-ok",
+      "Płacisz za to, co widzisz"
+     ],
+     [
+      "klodka",
+      "Domena zawsze zapisana na Ciebie"
+     ]
+    ],
+    "icon": "tarcza"
+   },
+   {
+    "type": "cta",
+    "eyebrow": "Pytania o współpracę?",
+    "h": "Zapytaj o<br><g>wolny termin</g>",
+    "size": 92,
+    "body": "Napisz, jaką stronę potrzebujesz i na kiedy. Odpiszę, czy dam radę i od czego zacząć.",
+    "btn": "Napisz „TERMIN” w DM"
+   }
+  ]
+ },
+ {
+  "id": "pt",
+  "slides": [
+   {
+    "type": "realizacja",
+    "label": "Realizacja",
+    "eyebrow": "KADA · domy pod klucz",
+    "h": "Co jest<br>w <g>stronie firmowej</g>",
+    "size": 96,
+    "sub": "Pokazuję na kada-a-z.pl, czego nie może zabraknąć.",
+    "image": "kada_laptop.png",
+    "imgleft": 40,
+    "imgtop": 150,
+    "imgw": 1000,
+    "bottom": 190
+   },
+   {
+    "type": "phone",
+    "eyebrow": "01 · Start",
+    "h": "Usługa<br>i <g>przycisk</g>",
+    "size": 88,
+    "sub": "„Twój dom. Od A do Z.”, jedno zdanie, co robią, i „Umów bezpłatną konsultację”. Bez przewijania.",
+    "shot": "kada_m1.png"
+   },
+   {
+    "type": "phone",
+    "eyebrow": "02 · Proces",
+    "h": "Krok<br>po <g>kroku</g>",
+    "size": 88,
+    "sub": "Klient widzi, co go czeka od działki do kluczy. Mniej strachu, więcej telefonów. Na dole pasek „Zadzwoń” zawsze pod kciukiem.",
+    "shot": "kada_m2.png"
+   },
+   {
+    "type": "phone",
+    "eyebrow": "03 · Pytania",
+    "h": "FAQ, zanim<br><g>zadzwonią</g>",
+    "size": 84,
+    "sub": "Odpowiedzi na to, o co wszyscy pytają przez telefon. Pod spodem krótki formularz zamiast ściany pól.",
+    "shot": "kada_m3.png"
+   },
+   {
+    "type": "oferta",
+    "label": "Oferta",
+    "h": "Ile to <g>kosztuje</g>",
+    "size": 96,
+    "sub": "Każda wycena jest indywidualna. Tak wyglądają punkty startowe.",
+    "rows": [
+     [
+      "Landing / one-page",
+      "od 3000 zł"
+     ],
+     [
+      "Strona firmowa",
+      "od 5000 zł"
+     ],
+     [
+      "Sklep internetowy",
+      "od 8000 zł"
+     ],
+     [
+      "Opieka nad stroną",
+      "od 150 zł/mies."
+     ]
+    ],
+    "note": "Domena zawsze zapisana na Ciebie. Strona i reklama Meta z jednej ręki: pakiet od 3900 zł.",
+    "btn": "Napisz „STRONA” w DM"
+   }
+  ]
+ },
+ {
+  "id": "sob",
+  "slides": [
+   {
+    "type": "opinia",
+    "eyebrow": "Opinia",
+    "h": "Strona to nie<br>wizytówka.<br><g>To handlowiec.</g>",
+    "size": 112,
+    "top": 260,
+    "sub": "Wizytówka leży w szufladzie. Handlowiec o 23:00 odpowiada na pytania, pokazuje ceny i umawia termin. Pytanie, czy Twój ma coś do powiedzenia.",
+    "subw": 820
+   }
+  ]
+ },
+ {
+  "id": "nd",
+  "slides": [
+   {
+    "type": "single",
+    "eyebrow": "Pytanie na niedzielę",
+    "h": "Jaką stronę<br>firmy <g>zapamiętałeś</g>?",
+    "size": 86,
+    "top": 150,
+    "sub": "Nie musi być ładna. Wystarczy, że zrobiła coś lepiej niż inne.",
+    "subw": 500,
+    "portrait": "p_mysli.png",
+    "pleft": 520,
+    "ptop": 430,
+    "ph": 940,
+    "chips": [
+     [
+      "dymek",
+      "Nazwa i jedno słowo: dlaczego"
+     ]
+    ]
+   }
+  ]
+ }
+]
