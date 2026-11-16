@@ -1,0 +1,44 @@
+[
+ {"id":"pon","slides":[
+  {"type":"cover","eyebrow":"Poradnik","h":"„O nas”,<br>które ktoś<br><g>przeczyta</g>","size":96,"top":250,"sub":"5 zmian. Bez historii firmy od pierwszego dnia działalności.","subw":430,"portrait":"p_rece.png"},
+  {"type":"point","eyebrow":"Sekcja „O nas”","num":"01","h":"Zacznij od<br><g>klienta</g>","size":100,"body":"Pierwsze zdanie nie o Tobie, tylko o tym, z czym ktoś do Ciebie przychodzi. „Remontujesz mieszkanie i boisz się, że ekipa zniknie w połowie?”","icon":"dymek","pill":"Pierwsze zdanie: jego problem","pillIcon":"lupa"},
+  {"type":"point","eyebrow":"Sekcja „O nas”","num":"02","h":"Pokaż<br><g>twarz</g>","size":100,"body":"Zdjęcie właściciela przy pracy, nie logo i nie biuro ze stocka. Ludzie dzwonią do ludzi, nie do nazwy firmy.","icon":"aparat","pill":"Twoje zdjęcie, nie stock","pillIcon":"gwiazda"},
+  {"type":"point","eyebrow":"Sekcja „O nas”","num":"03","h":"Liczba<br><g>zamiast<br>przymiotnika</g>","size":96,"body":"Zamiast „wieloletnie doświadczenie” konkret, który da się sprawdzić: od kiedy działasz, ile realizacji, w ile dni wysyłasz wycenę.","icon":"wykres","pill":"Fakt, który da się sprawdzić","pillIcon":"metka"},
+  {"type":"point","eyebrow":"Sekcja „O nas”","num":"04","h":"Dlaczego<br><g>Ty?</g>","size":100,"body":"Jedno zdanie, czym różnisz się od trzech firm obok. Cena w umowie? Sprzątasz po pracy? Odbierasz telefon? Napisz to wprost.","icon":"puchar","pill":"Jedna różnica, wprost","pillIcon":"tarcza-ok"},
+  {"type":"point","eyebrow":"Sekcja „O nas”","num":"05","h":"Skończ<br><g>przyciskiem</g>","size":100,"body":"Kto doczytał do końca, jest prawie gotowy. Nie zostawiaj go z kropką. Daj mu przycisk z konkretnym następnym krokiem.","icon":"telefon","pill":"„Zadzwoń, umówimy pomiar”","pillIcon":"rakieta"},
+  {"type":"cta","eyebrow":"Masz już „O nas”?","h":"Przepiszę Ci<br><g>pierwsze zdanie</g>","size":92,"body":"Wklej link do swojej podstrony „O nas” w wiadomości. Odeślę Ci jedno lepsze pierwsze zdanie.","btn":"Napisz „O NAS” w DM"}
+ ]},
+ {"id":"wt","slides":[
+  {"type":"problem","label":"Mit","h":"„Spadłem<br>w Google.<br><g>Dostałem karę?”</g>","size":90,"top":300,"sub":"Raczej nie. Od 10 listopada Google przetasowuje wyniki na całym świecie.","subw":440,"portrait":"p_wzruszenie.png","pleft":560,"ptop":480,"ph":870},
+  {"type":"story","label":"Co się dzieje","step":"02","h":"Aktualizacja<br><g>główna</g>","size":96,"body":"10 listopada Google uruchomił listopadową aktualizację główną (core update). Wdrażanie potrwa do 2 tygodni. To nie kara za konkretny błąd, tylko nowa ocena, które strony najlepiej odpowiadają na pytania.","chips":[["kalendarz","Start: 10.11.2026"],["klepsydra","Wdrażanie: do 2 tygodni"],["lupa","Wszystkie kraje i języki"]],"icon":"wykres"},
+  {"type":"list","eyebrow":"Co zrobić teraz","h":"Spokojnie.<br><g>Po kolei.</g>","size":96,"icon":"tarcza","items":[["klepsydra","Nie zmieniaj wszystkiego w trakcie"],["wykres","Porównaj ruch po zakończeniu"],["lista","Sprawdź, czy odpowiadasz na pytania klientów"],["pinezka","Zadbaj o Profil Firmy w Google"]]},
+  {"type":"cta","eyebrow":"Nie wiesz, co się zmieniło?","h":"Sprawdzę, czy<br><g>odpowiadasz</g>","size":92,"body":"Wyślij link do strony. Powiem, czy odpowiada na pytania, które Twoi klienci wpisują w Google.","btn":"Napisz „GOOGLE” w DM"}
+ ]},
+ {"id":"sr","slides":[
+  {"type":"versus","eyebrow":"Przed i po · przykład","h":"Te same opinie.<br><g>Inne miejsce.</g>","size":76,"colstop":380,"sides":[
+   {"label":"Przed","kind":"r","image":"op_przed_top.png","result":"Nikt nie doszedł.","rsize":38,"note":"Na samym dole, podpis „Klient”."},
+   {"label":"Po","kind":"b","image":"op_po_top.png","result":"Widać od razu.","rsize":38,"note":"Przy przycisku, z imieniem i konkretem."}]},
+  {"type":"phone","eyebrow":"Przed","h":"„Polecam.”<br><g>Klient.</g>","size":88,"sub":"Opinie w stopce, w sliderze, bez imienia i bez szczegółów. Zanim ktoś tam dojdzie, już dzwoni do konkurencji. Albo nie dzwoni wcale.","shot":"op_przed.png"},
+  {"type":"phone","eyebrow":"Po","h":"Dowód<br>przy<br><g>przycisku</g>","size":84,"sub":"1. Ocena z Google pod przyciskiem. 2. Jedna opinia: imię, dzielnica, konkret. 3. Stoi tam, gdzie klient się waha.","shot":"op_po.png"},
+  {"type":"cta","eyebrow":"Twoja kolej","h":"Gdzie są<br><g>Twoje opinie?</g>","size":92,"body":"Wyślij link. Pokażę, w którym miejscu Twojej strony jedna opinia zrobi najwięcej.","btn":"Napisz „OPINIE” w DM"}
+ ]},
+ {"id":"czw","slides":[
+  {"type":"kulisy","h":"Statyk czy<br><g>WordPress?</g>","size":96,"sub":"Zanim wybiorę technologię, zadaję jedno pytanie: co chcesz zmieniać sam?","portrait":"p_mysli.png","lines":["co zmieniasz sam?","nic → statyk","wpisy, oferty → WordPress","układ stron → Elementor","sklep → WooCommerce"],"termtop":620,"termw":540},
+  {"type":"story","label":"Statyk","step":"02","h":"Nic nie<br><g>edytujesz</g>","size":100,"body":"Zmiany raz na kilka miesięcy robię ja, w ramach opieki. Strona jest szybka, prosta i nie ma w niej czego co tydzień aktualizować.","chips":[["predkosciomierz","Szybka od pierwszego dnia"],["klodka","Mniej rzeczy do zabezpieczania"],["zebatka","Zmiany w ramach opieki"]],"icon":"kod"},
+  {"type":"story","label":"WordPress","step":"03","h":"Publikujesz<br><g>sam</g>","size":100,"body":"Chcesz sam dodawać realizacje albo oferty? Robię WordPressa z polami, w których zmieniasz tekst i zdjęcia, ale nie rozbijesz układu. Uczciwie: wtedy aktualizacje i kopie zapasowe są obowiązkowe.","chips":[["pedzel","Zmieniasz treści, nie układ"],["tarcza","Aktualizacje i kopie"],["koszyk","Sklep: WooCommerce"]],"icon":"zebatka"},
+  {"type":"cta","eyebrow":"Nie wiesz, co wybrać?","h":"Odpowiedz na<br><g>jedno pytanie</g>","size":92,"body":"Napisz, co chcesz zmieniać na stronie sam i jak często. Odpiszę, która opcja ma sens i dlaczego.","btn":"Napisz „STRONA” w DM"}
+ ]},
+ {"id":"pt","slides":[
+  {"type":"realizacja","label":"Realizacje","image":"murii_laptop.png","imgleft":20,"imgtop":170,"imgw":1040,"eyebrow":"Murii · KADA · krzyzu.studio","h":"3 branże.<br><g>Zero szablonów.</g>","size":100,"sub":"Każda strona zaczyna się od pytania: kto tu wchodzi i po co."},
+  {"type":"phone","eyebrow":"Murii · murii.pl","h":"Wnętrza<br>i domy<br><g>CLT</g>","size":88,"sub":"Dwie grupy klientów pod jedną marką. Pierwszy ekran pokazuje oba kierunki, żeby każdy od razu trafił do swojego.","shot":"murii_m.png"},
+  {"type":"phone","eyebrow":"KADA · kada-a-z.pl","h":"Domy<br><g>pod klucz</g>","size":88,"sub":"Klient chce wiedzieć: czy to dla mnie, jak to wygląda krok po kroku i jak zacząć. Strona odpowiada na wszystkie trzy.","shot":"kada_m.png"},
+  {"type":"phone","eyebrow":"krzyzu.studio","h":"Pokazuję,<br><g>nie obiecuję</g>","size":84,"sub":"Wpisujesz nazwę swojej firmy i od razu widzisz podgląd swojej strony. Zanim zapłacisz złotówkę.","shot":"kz_m.png"},
+  {"type":"oferta","label":"Cennik","h":"Ile to <g>kosztuje?</g>","size":96,"sub":"Każdą wycenę robię indywidualnie. Tak wygląda punkt startu.","rows":[["Landing / one-page","od 3000 zł"],["Strona firmowa","od 5000 zł"],["Sklep","od 8000 zł"],["Opieka nad stroną","od 150 zł/mies."]],"note":"Wycena po krótkiej rozmowie. Bez ukrytych kosztów.","btn":"Napisz „STRONA” w DM"}
+ ]},
+ {"id":"sob","slides":[
+  {"type":"opinia","eyebrow":"Opinia","h":"Nie potrzebujesz<br>nowej strony.<br><g>Potrzebujesz<br>telefonów.</g>","size":108,"top":240,"sub":"Często wystarczy poprawić pierwszy ekran, przycisk i opinie. Przebudowa wszystkiego to ostatnia opcja, nie pierwsza.","subw":840}
+ ]},
+ {"id":"nd","slides":[
+  {"type":"single","eyebrow":"Pytanie","h":"Skąd<br>przyszedł<br>Twój ostatni<br><g>klient?</g>","size":96,"top":150,"sub":"Polecenie, Google, Instagram, a może szyld nad drzwiami?","subw":470,"portrait":"p_wskazuje.png","pleft":500,"ptop":300,"ph":1040,"chips":[["dymek","Polecenie"],["lupa","Google"],["aparat","Instagram"]]}
+ ]}
+]
