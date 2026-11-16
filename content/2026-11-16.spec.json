@@ -318,33 +318,14 @@
     "h": "Pokazuję,<br><g>nie obiecuję</g>",
     "size": 84,
     "sub": "Wpisujesz nazwę firmy, wybierasz branżę i kolor, a telefon obok od razu pokazuje stronę z Twoją nazwą.",
-    "shot": "kz_m.png"
+    "shot": "kz_m2.png"
    },
    {
-    "type": "oferta",
-    "label": "Cennik",
-    "h": "Ile to <g>kosztuje?</g>",
+    "type": "cta",
+    "eyebrow": "Twoja branża, Twoja strona",
+    "h": "Chcesz taką<br><g>u siebie?</g>",
     "size": 96,
-    "sub": "Każdą wycenę robię indywidualnie. Tak wygląda punkt startu.",
-    "rows": [
-     [
-      "Landing / one-page",
-      "od 3000 zł"
-     ],
-     [
-      "Strona firmowa",
-      "od 5000 zł"
-     ],
-     [
-      "Sklep",
-      "od 8000 zł"
-     ],
-     [
-      "Opieka nad stroną",
-      "od 150 zł/mies."
-     ]
-    ],
-    "note": "Wycena po krótkiej rozmowie. Bez ukrytych kosztów.",
+    "body": "Napisz, czym zajmuje się Twoja firma. Wycenę robię indywidualnie, po krótkiej rozmowie o tym, czego potrzebujesz.",
     "btn": "Napisz „STRONA” w DM"
    }
   ]

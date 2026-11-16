@@ -3,6 +3,7 @@
 Rytm: 7 postów w tygodniu. Plan na cały tydzień przychodzi w poniedziałek około 9:00, po akceptacji posty idą do Metricool.
 
 ## Uwagi dla zadania poniedziałkowego
+- CENNIK WSTRZYMANY (Krzyżu, 16.11.2026): ceny są w trakcie zmiany, nie publikujemy żadnych cen na grafikach, w podpisach ani na zrzutach (np. chip „Strony od 3000 zł” na krzyzu.studio trzeba wyciąć). Zamiast cen: „wycena indywidualna po krótkiej rozmowie”. Obowiązuje do odwołania.
 - Tydzień 2026-10-26 (pon 26.10 do nd 1.11) jest JUŻ PRZYGOTOWANY w sesji z 24.10 (content/2026-10-26.*: spec, posts.json z podpisami, png.txt z URL-ami). Nie rób nowych postów: sprawdź w Metricool, czy są zaplanowane. Jeśli nie są, wyślij Krzyżu przypomnienie o akceptacji tego planu.
 - Od tygodnia 2026-11-02 planuj według content/strategia.md (filary, rytm i układy v2 poniżej).
 
