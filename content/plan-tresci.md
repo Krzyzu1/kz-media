@@ -39,14 +39,15 @@ Zasada: hook ma zatrzymać kciuk w pierwszej sekundzie, językiem właściciela 
 - [x] Ile kosztuje strona i od czego zależy cena (tydz. 2026-10-12)
 - [x] Klient nie czyta. Skanuje. Jak pisać teksty na stronę (tydz. 2026-10-19)
 - [x] 5 rzeczy, które sprawdzasz, zanim Google pokaże Twoją firmę (Profil Firmy w Google) (tydz. 2026-11-02)
-- [ ] Sekcja „O nas”, którą ktoś w końcu przeczyta
-- [ ] Opinie klientów: gdzie je wstawić, żeby działały
+- [x] Sekcja „O nas”, którą ktoś w końcu przeczyta (tydz. 2026-11-16)
+- [x] Opinie klientów: gdzie je wstawić, żeby działały (tydz. 2026-11-16, jako przed i po)
 - [x] Jak przygotować zdjęcia na stronę telefonem (tydz. 2026-11-09)
 - [ ] Lokalny biznes w Warszawie: 3 rzeczy, które robią różnicę w Google
 ### Błędy i mity
 - [x] Formularz z 10 polami? Właśnie zgubiłeś klienta (tydz. 2026-10-12)
 - [x] Mit: „AI w Google zastąpi moją stronę” (tryb AI w Google) (tydz. 2026-10-19)
 - [x] Przycisk „Kontakt” to za mało (tydz. 2026-11-09)
+- [x] Mit: spadek w Google to kara (core update 10.11.2026) (tydz. 2026-11-16)
 - [ ] Zdjęcia ze stocka zabijają zaufanie
 - [x] Strona za 500 zł. Co dokładnie kupujesz? (tydz. 2026-11-02)
 - [ ] Masz stronę z 2015 roku? 4 znaki, że czas na nową
@@ -67,10 +68,11 @@ Zasada: hook ma zatrzymać kciuk w pierwszej sekundzie, językiem właściciela 
 - [x] Case Murii: jedna marka, dwa światy (głębiej) (tydz. 2026-10-19)
 - [x] Case KADA: domy pod klucz, co zrobiłem i dlaczego (tydz. 2026-10-12)
 - [x] Realizacja KADA: co jest w stronie firmowej + ceny „od” (tydz. 2026-11-09)
+- [x] Realizacje obok siebie: Murii, KADA, krzyzu.studio, bez cennika (tydz. 2026-11-16)
 - [ ] Strona dla dewelopera: co musi mieć
 - [ ] Strona dla architekta: portfolio, które sprzedaje
 - [ ] Opieka nad stroną: za co płacisz co miesiąc
-- [ ] Statyczna czy WordPress: co wybrać (zahaczone w CTA kulis 5.11, pełny post nadal do zrobienia)
+- [x] Statyczna czy WordPress: co wybrać (tydz. 2026-11-16, kulisy)
 ### Meta Ads (nowa usługa, dane: content/meta-ads/kada-kampania.md)
 Zgoda KADA na liczby i kreacje: TAK (24.10). Nie pokazujemy spraw wewnętrznych (piksel, ograniczenie konta, faktury). Liczby zawsze z datą („w pierwszych 4 dniach”), kontakty to nie sprzedaż.
 - [x] „Zostały 2 z 8” vs „Co dostajesz”: konkret w cenie wygrał z presją (opinia/edukacja)
@@ -83,11 +85,13 @@ Zgoda KADA na liczby i kreacje: TAK (24.10). Nie pokazujemy spraw wewnętrznych 
 - [x] Nie potrzebujesz bloga (na start) (tydz. 2026-11-02)
 - [x] Branding to nie logo (tydz. 2026-10-19)
 - [x] Strona to nie wizytówka. To handlowiec, który pracuje 24/7 (tydz. 2026-11-09)
+- [x] Nie potrzebujesz nowej strony. Potrzebujesz telefonów (tydz. 2026-11-16)
 - [x] Najdroższa strona to ta, która nie dzwoni (tydz. 2026-10-12)
 ### Pytania
 - [x] Co Cię najbardziej wkurza na stronach firm? (tydz. 2026-10-19)
 - [x] Strona czy Instagram: co daje Ci więcej klientów? (tydz. 2026-10-12)
 - [x] Jaką stronę ostatnio zapamiętałeś i dlaczego? (tydz. 2026-11-09)
+- [x] Skąd przyszedł Twój ostatni klient? (tydz. 2026-11-16)
 - [x] Gdybyś miał jutro nową stronę, co byś na niej zmienił? (tydz. 2026-11-02)
 
 ## Opublikowane
@@ -128,3 +132,10 @@ Zgoda KADA na liczby i kreacje: TAK (24.10). Nie pokazujemy spraw wewnętrznych 
 | 2026-11-13 10:00 | KADA: co jest w stronie firmowej + ceny „od” | karuzela 5 (realizacja + oferta) |
 | 2026-11-14 10:00 | Opinia: strona to nie wizytówka, to handlowiec | post (opinia) |
 | 2026-11-15 10:00 | Pytanie: jaką stronę firmy zapamiętałeś? | post (pytanie, portret) |
+| 2026-11-16 21:15 | Poradnik: sekcja „O nas”, 5 zmian | karuzela 7 (poradnik, okładka z portretem) |
+| 2026-11-17 10:00 | Mit: spadłem w Google, to kara? (core update) | karuzela 4 (problem) |
+| 2026-11-18 10:00 | Przed i po: gdzie wstawić opinie (przykład, wymyślona firma) | karuzela 4 (versus + zrzuty) |
+| 2026-11-19 10:00 | Kulisy: statyk czy WordPress | karuzela 4 (kulisy) |
+| 2026-11-20 10:00 | Realizacje: Murii, KADA, krzyzu.studio (bez cen) | karuzela 5 (realizacja + CTA) |
+| 2026-11-21 10:00 | Opinia: nie potrzebujesz nowej strony, potrzebujesz telefonów | post (opinia) |
+| 2026-11-22 10:00 | Pytanie: skąd przyszedł Twój ostatni klient? | post (pytanie, portret) |
