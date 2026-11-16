@@ -1,0 +1,234 @@
+[
+ {
+  "id": "k1117",
+  "slides": [
+   {
+    "type": "cover",
+    "obj": "ikony/lupa.png",
+    "objcss": "left:250px;top:150px;width:580px;transform:rotate(-10deg)",
+    "tag": "KUPUJESZ DOM?",
+    "eyebrow": "Prospekt informacyjny · poradnik",
+    "h": "Dokument,<br><g>który Cię chroni</g>",
+    "size": 120,
+    "sub": "Deweloper musi Ci go dać przed każdą umową. Pokażemy, gdzie patrzeć.",
+    "foot": "Zapisz na później"
+   },
+   {
+    "type": "features",
+    "top": 210,
+    "eyebrow": "Część ogólna",
+    "h": "Najpierw<br><g>o deweloperze</g>",
+    "items": [
+     [
+      "bank",
+      "Dane dewelopera",
+      "i jego wcześniej ukończone inwestycje"
+     ],
+     [
+      "klodka",
+      "Postępowania egzekucyjne",
+      "czy toczą się przeciwko deweloperowi"
+     ],
+     [
+      "dzialka",
+      "Działka i księga wieczysta",
+      "kto jest właścicielem gruntu"
+     ],
+     [
+      "pinezka",
+      "Plany w promieniu 1 km",
+      "co może powstać w okolicy"
+     ]
+    ],
+    "foot": "Podstawa: ustawa deweloperska. To nie porada prawna"
+   },
+   {
+    "type": "features",
+    "top": 210,
+    "eyebrow": "Część indywidualna",
+    "h": "Potem<br><g>o Twoim domu</g>",
+    "items": [
+     [
+      "metka",
+      "Cena",
+      "całkowita i za metr kwadratowy"
+     ],
+     [
+      "miarka",
+      "Powierzchnia",
+      "metraż konkretnego domu"
+     ],
+     [
+      "cegly",
+      "Technologia i standard",
+      "z czego i jak dom jest budowany"
+     ],
+     [
+      "kalendarz",
+      "Terminy",
+      "m.in. przeniesienia własności"
+     ]
+    ],
+    "foot": "Podstawa: ustawa deweloperska. To nie porada prawna"
+   },
+   {
+    "type": "steps",
+    "top": 200,
+    "eyebrow": "Twoje prawo",
+    "h": "Kiedy możesz<br><g>odstąpić od umowy</g>",
+    "size": 96,
+    "obj": "ikony/tarcza.png",
+    "objcss": "right:100px;top:185px;width:200px;transform:rotate(8deg)",
+    "items": [
+     [
+      "Umowa jest niezgodna z prospektem",
+      "chyba że zmiany wyraźnie zaznaczono"
+     ],
+     [
+      "Nie dostałeś prospektu",
+      "albo informacji o jego zmianie"
+     ],
+     [
+      "Dane nie zgadzają się ze stanem faktycznym",
+      "w dniu zawarcia umowy"
+     ],
+     [
+      "W prospekcie brakuje wymaganych informacji",
+      ""
+     ]
+    ],
+    "foot": "Podstawa: art. 43 ustawy deweloperskiej. To nie porada prawna",
+    "sub": "Prospekt jest integralną częścią umowy deweloperskiej. Dlatego jego treść ma znaczenie.",
+    "subw": 700
+   },
+   {
+    "type": "cta",
+    "top": 625,
+    "eyebrow": "Osiedle Jachranka",
+    "h": "Przeczytamy go <g>razem</g>",
+    "size": 88,
+    "sub": "Prospekt omówimy z Tobą punkt po punkcie, zanim cokolwiek podpiszesz. W Jachrance został ostatni wolny dom z ośmiu.",
+    "subw": 912,
+    "btn": "Zadzwoń: 798 840 959",
+    "contact": "biuro@kada-bud.pl · Ceny jawne na kada-bud.pl",
+    "nosave": true,
+    "obj": "o_blizniak.png",
+    "objcss": "left:90px;top:170px;width:900px",
+    "foot": "To nie porada prawna"
+   }
+  ]
+ },
+ {
+  "id": "k1120",
+  "slides": [
+   {
+    "type": "photo",
+    "img": "foto/jach_z11.jpg",
+    "pos": "center",
+    "tag": "OSIEDLE JACHRANKA",
+    "eyebrow": "Okolica · Jezioro Zegrzyńskie",
+    "h": "Rano Narew.<br><g>Wieczorem dom.</g>",
+    "size": 124,
+    "sub": "Jak wygląda zwykły dzień, gdy mieszkasz między Narwią a Jeziorem Zegrzyńskim.",
+    "foot": "Osiedle Jachranka · gm. Serock"
+   },
+   {
+    "type": "steps",
+    "top": 185,
+    "eyebrow": "Jeden dzień",
+    "h": "Wszystko<br><g>pod ręką</g>",
+    "obj": "ikony/rower.png",
+    "objcss": "right:90px;top:185px;width:260px;transform:rotate(-4deg)",
+    "items": [
+     [
+      "Rano",
+      "rowerem nad Narew, 2 km"
+     ],
+     [
+      "Po pracy",
+      "Jezioro Zegrzyńskie, 7 minut autem"
+     ],
+     [
+      "Wieczorem",
+      "centrum Serocka, 7 minut"
+     ],
+     [
+      "W weekend",
+      "park wodny i linowy w Warszawiance, 4 minuty"
+     ]
+    ],
+    "sub": "Kilka minut od domu. Bez planowania wyjazdu na cały dzień.",
+    "subw": 560
+   },
+   {
+    "type": "stats",
+    "top": 490,
+    "hero": "foto/jach_aerial.jpg",
+    "pos": "center 45%",
+    "eyebrow": "Dojazd samochodem",
+    "h": "Natura obok,<br><g>miasto blisko</g>",
+    "size": 92,
+    "items": [
+     [
+      "40 min",
+      "do centrum Warszawy"
+     ],
+     [
+      "8 min",
+      "do stacji SKM w Zegrzu"
+     ],
+     [
+      "26 min",
+      "na lotnisko Modlin"
+     ],
+     [
+      "7 min",
+      "do centrum Serocka"
+     ]
+    ]
+   },
+   {
+    "type": "features",
+    "top": 210,
+    "eyebrow": "A potem wracasz",
+    "h": "Do siebie,<br><g>na 121 m²</g>",
+    "items": [
+     [
+      "fotel",
+      "3 sypialnie i 3 łazienki",
+      "w domu o powierzchni 121 m²"
+     ],
+     [
+      "drzewo",
+      "Prywatny ogród",
+      "działka około 330 m²"
+     ],
+     [
+      "garaz",
+      "Garaż w bryle domu",
+      "i miejsce na podjeździe"
+     ],
+     [
+      "pompa",
+      "Pompa ciepła Panasonic",
+      "z ogrzewaniem podłogowym"
+     ]
+    ]
+   },
+   {
+    "type": "cta",
+    "top": 625,
+    "eyebrow": "Biuro sprzedaży",
+    "h": "Został <g>ostatni dom</g>",
+    "size": 88,
+    "sub": "Z ośmiu domów w Jachrance wolny jest jeszcze jeden. Przyjedź, przejdź się po okolicy i zobacz go na żywo.",
+    "subw": 912,
+    "btn": "Zadzwoń: 798 840 959",
+    "contact": "ul. Piłsudskiego 25/8, Legionowo · Ceny jawne na kada-bud.pl",
+    "nosave": true,
+    "obj": "o_blizniak.png",
+    "objcss": "left:90px;top:170px;width:900px"
+   }
+  ]
+ }
+]
