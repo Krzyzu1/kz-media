@@ -1,0 +1,44 @@
+[
+ {"id":"pon","slides":[
+  {"type":"cover","eyebrow":"Poradnik","h":"5 testów<br>strony<br>w <g>5 minut</g>","size":104,"top":250,"sub":"Telefon w ręku i 5 minut. Bez wiedzy technicznej.","subw":430,"portrait":"p_palec_gora.png"},
+  {"type":"point","eyebrow":"Test strony","num":"01","h":"Test<br><g>5 sekund</g>","size":100,"body":"Pokaż pierwszy ekran komuś spoza firmy na 5 sekund. Schowaj telefon i zapytaj: co robimy i gdzie? Jeśli się zawaha, nagłówek nie działa.","icon":"klepsydra","pill":"Co robisz i gdzie","pillIcon":"lupa"},
+  {"type":"point","eyebrow":"Test strony","num":"02","h":"Test<br><g>kciuka</g>","size":100,"body":"Stuknij w numer telefonu na swojej stronie. Jeśli nie wybiera połączenia od razu, klient musi go przepisywać. Nie każdy będzie miał na to cierpliwość.","icon":"telefon","pill":"Numer, który dzwoni","pillIcon":"dymek"},
+  {"type":"point","eyebrow":"Test strony","num":"03","h":"Test<br><g>zasięgu</g>","size":100,"body":"Wyłącz Wi-Fi i wejdź na stronę z samej sieci komórkowej. Policz, ile czekasz na pierwszy obraz. Tak wchodzi Twój klient: w aucie, w kolejce, na budowie.","icon":"predkosciomierz","pill":"Licz sekundy bez Wi-Fi","pillIcon":"wykres"},
+  {"type":"point","eyebrow":"Test strony","num":"04","h":"Test<br><g>formularza</g>","size":100,"body":"Wyślij sobie zapytanie przez własny formularz. Doszło? Do kogo? Ile minęło, zanim ktoś odpisał? Czasem formularz od miesięcy wysyła wiadomości donikąd.","icon":"koperta","pill":"Wyślij i sprawdź skrzynkę","pillIcon":"tarcza-ok"},
+  {"type":"point","eyebrow":"Test strony","num":"05","h":"Test<br><g>Google</g>","size":100,"body":"Otwórz okno incognito i wpisz usługę z dzielnicą, np. „kuchnie na wymiar Bielany”. Nie nazwę firmy. Tak szuka ktoś, kto Cię jeszcze nie zna.","icon":"lupa","pill":"Usługa + dzielnica","pillIcon":"pinezka"},
+  {"type":"cta","eyebrow":"Nie masz 5 minut?","h":"Zrobię te testy<br><g>za Ciebie</g>","size":92,"body":"Wyślij link do swojej strony. Odpiszę, który test oblała i co poprawić najpierw.","btn":"Napisz „TEST” w DM"}
+ ]},
+ {"id":"wt","slides":[
+  {"type":"problem","label":"Mit","h":"„Zdjęcia<br>ze stocka<br>wyglądają<br><g>profesjonalnie”</g>","size":88,"top":290,"sub":"Wyglądają. Tylko nie jak Twoja firma.","subw":420,"portrait":"p_stop.png","pleft":560,"ptop":470,"ph":880},
+  {"type":"story","label":"Co widzi klient","step":"02","h":"Ten sam pan<br><g>w kasku</g>","size":100,"body":"Uśmiechnięty fachowiec, czysty kask, idealne zęby. Klient widział go już u konkurencji. I od tej chwili mniej wierzy we wszystko inne na stronie.","chips":[["aparat","Rozpoznawalne w sekundę"],["ostrzezenie","Pierwsza rysa na zaufaniu"],["lupa","Wyglądasz jak każda firma"]],"icon":"ostrzezenie"},
+  {"type":"list","eyebrow":"Co zamiast","h":"Telefon<br><g>wystarczy</g>","size":100,"icon":"aparat","items":[["zebatka","Ty albo ekipa przy pracy"],["gwiazda","Gotowa realizacja w dobrym świetle"],["pedzel","Warsztat, narzędzia, materiał"],["dymek","Zdjęcie z klientem, za jego zgodą"]]},
+  {"type":"cta","eyebrow":"Masz stock na stronie?","h":"Pokażę, które<br><g>podmienić</g>","size":92,"body":"Wyślij link. Wskażę zdjęcia, które warto wymienić najpierw, i co zrobić zamiast nich telefonem.","btn":"Napisz „ZDJĘCIA” w DM"}
+ ]},
+ {"id":"sr","slides":[
+  {"type":"versus","eyebrow":"Przed i po · przykład","h":"Ta sama stolarnia.<br><g>10 lat różnicy.</g>","size":76,"colstop":400,"sides":[
+   {"label":"Przed","kind":"r","image":"st_przed.png","result":"„Witamy” i tyle.","rsize":38,"note":"Slider, 8 zakładek, licznik odwiedzin."},
+   {"label":"Po","kind":"b","image":"st_po.png","result":"Wiesz, co i gdzie.","rsize":38,"note":"Usługa, miasto, telefon, jeden przycisk."}]},
+  {"type":"list","eyebrow":"4 znaki, że strona pamięta 2015","h":"Sprawdź<br><g>u siebie</g>","size":100,"icon":"klepsydra","items":[["ostrzezenie","„Witamy na naszej stronie” w sliderze"],["lista","Menu na 8 zakładek"],["kalendarz","Ostatnia aktualność sprzed lat"],["telefon","Numer dopiero w zakładce Kontakt"]]},
+  {"type":"device","image":"st_laptop.png","imgleft":40,"imgtop":560,"imgw":1000,"eyebrow":"Po · co zmieniłem","h":"Pierwszy ekran<br><g>do roboty</g>","size":88,"sub":"1. Nagłówek mówi, co robisz i gdzie. 2. Telefon w prawym górnym rogu. 3. Realizacja zamiast slidera. 4. Jeden główny przycisk: bezpłatny pomiar."},
+  {"type":"cta","eyebrow":"Twoja strona też pamięta 2015?","h":"Zacznijmy od<br><g>pierwszego ekranu</g>","size":88,"body":"Wyślij link. Odpiszę, które z 4 znaków widzę u Ciebie i od czego zacząć, zanim pomyślisz o nowej stronie.","btn":"Napisz „2015” w DM"}
+ ]},
+ {"id":"czw","slides":[
+  {"type":"kulisy","h":"Zanim narysuję<br><g>piksel</g>","size":92,"sub":"5 pytań, które zadaję na pierwszej rozmowie. Od odpowiedzi zależy cała strona.","portrait":"p_kciuk_bok.png","lines":["kto kupuje?","co go przekonuje?","co już masz?","co zmieniasz sam?","gdzie ma stać strona?"],"termtop":620,"termw":520,"ptop":500},
+  {"type":"story","label":"Pytania 1 i 2","step":"02","h":"Kto kupuje<br><g>i dlaczego?</g>","size":100,"body":"Strona dla kogoś, kto remontuje łazienkę raz w życiu, i dla zarządcy 40 mieszkań to dwie różne strony. Nawet przy tej samej usłudze.","chips":[["lupa","Kto podejmuje decyzję"],["metka","Za co płaci, czego się boi"],["puchar","Czym wygrywasz z firmą obok"]],"icon":"dymek"},
+  {"type":"story","label":"Pytania 3, 4 i 5","step":"03","h":"Co masz<br><g>i co zmieniasz?</g>","size":100,"body":"Logo, zdjęcia i opinie, które już są, skracają projekt. To, co chcesz zmieniać sam, decyduje o technologii. Domenę i hosting dobieram do tego, co już masz.","chips":[["paleta","Logo, kolory, zdjęcia"],["zebatka","Statyk czy WordPress"],["link","Domena i hosting"]],"icon":"zebatka"},
+  {"type":"cta","eyebrow":"Planujesz stronę?","h":"Odpowiedz<br><g>na pytanie 1</g>","size":92,"body":"Napisz, kto najczęściej u Ciebie kupuje. Od tego zaczniemy. Wycenę robię indywidualnie, po krótkiej rozmowie.","btn":"Napisz „STRONA” w DM"}
+ ]},
+ {"id":"pt","slides":[
+  {"type":"realizacja","label":"Realizacje","image":"kada_laptop.png","imgleft":40,"imgtop":95,"imgw":1000,"eyebrow":"KADA · Murii · krzyzu.studio","h":"Telefon to nie<br><g>mały laptop.</g>","size":100,"sub":"Każdą stronę układam dwa razy: raz pod mysz, raz pod kciuk."},
+  {"type":"phone","eyebrow":"KADA · telefon","h":"Przycisk<br><g>pod kciukiem</g>","size":88,"sub":"Na komputerze tekst stoi obok domu. Na telefonie „Umów bezpłatną konsultację” jest w zasięgu kciuka, bez przewijania.","shot":"kada_m.png"},
+  {"type":"phone","eyebrow":"Murii · telefon","h":"Obok siebie?<br><g>Jedno pod drugim.</g>","size":80,"sub":"Na komputerze wnętrza i domy stoją obok siebie. Na telefonie jedno pod drugim, każde z własnym przyciskiem.","shot":"murii_m.png"},
+  {"type":"phone","eyebrow":"krzyzu.studio · telefon","h":"Przycisk na<br><g>całą szerokość</g>","size":84,"sub":"Na telefonie główny przycisk zajmuje cały ekran w poziomie. Trudno go ominąć, łatwo w niego trafić.","shot":"kz_m2.png"},
+  {"type":"cta","eyebrow":"A Twoja strona?","h":"Działa<br><g>pod kciukiem?</g>","size":96,"body":"Napisz, czym zajmuje się Twoja firma. Wycenę robię indywidualnie, po krótkiej rozmowie o tym, czego potrzebujesz.","btn":"Napisz „STRONA” w DM"}
+ ]},
+ {"id":"sob","slides":[
+  {"type":"opinia","eyebrow":"Opinia","h":"„-30%” mówi<br>klientowi jedno:<br><g>wcześniej było<br>za drogo.</g>","size":104,"top":250,"sub":"Firma usługowa nie musi grać w Black Friday. Lepiej pokazać, za co klient płaci, niż raz w roku ciąć cenę.","subw":840}
+ ]},
+ {"id":"nd","slides":[
+  {"type":"single","eyebrow":"Pytanie","h":"Ile czekasz,<br>zanim<br><g>odpiszesz?</g>","size":96,"top":150,"sub":"Zapytanie ze strony przyszło o 21:00. Kiedy klient dostaje odpowiedź?","subw":470,"portrait":"p_mysli.png","pleft":500,"ptop":300,"ph":1040,"chips":[["klepsydra","Minuty"],["kalendarz","Godziny"],["ostrzezenie","Dni"]]}
+ ]}
+]
