@@ -1,0 +1,223 @@
+[
+ {
+  "id": "k1124",
+  "slides": [
+   {
+    "type": "cover",
+    "obj": "ikony/cegly.png",
+    "objcss": "left:260px;top:170px;width:570px;transform:rotate(-6deg)",
+    "tag": "A → Z",
+    "eyebrow": "Budowa domu · poradnik",
+    "h": "Surowy, deweloperski<br><g>czy pod klucz?</g>",
+    "size": 104,
+    "sub": "Trzy słowa z oferty, a za każdym stoi zupełnie inny zakres prac. Sprawdź, co dostajesz.",
+    "foot": "Zapisz na później"
+   },
+   {
+    "type": "compare",
+    "top": 220,
+    "eyebrow": "Etap 1 i 2",
+    "h": "Najpierw<br><g>konstrukcja</g>",
+    "cols": [
+     {
+      "icon": "cegly",
+      "title": "Stan surowy otwarty",
+      "items": [
+       "Fundamenty i ściany",
+       "Stropy",
+       "Dach z pokryciem",
+       "Bez okien i drzwi"
+      ]
+     },
+     {
+      "icon": "okno",
+      "title": "Stan surowy zamknięty",
+      "items": [
+       "Wszystko z etapu 1",
+       "Okna",
+       "Drzwi zewnętrzne",
+       "Brama garażowa, jeśli jest garaż"
+      ]
+     }
+    ],
+    "sub": "Tu powstaje bryła domu. Wszystko, co przyjdzie później, opiera się na tym etapie.",
+    "subw": 820,
+    "foot": "KADA A→Z · kada-a-z.pl"
+   },
+   {
+    "type": "features",
+    "top": 220,
+    "eyebrow": "Etap 3",
+    "h": "Stan<br><g>deweloperski</g>",
+    "items": [
+     [
+      "podlogowka",
+      "Instalacje",
+      "elektryczna, wodna, kanalizacyjna, grzewcza"
+     ],
+     [
+      "walek",
+      "Tynki i wylewki",
+      "ściany i podłogi gotowe do wykończenia"
+     ],
+     [
+      "termometr",
+      "Ocieplenie i elewacja",
+      "dom zamknięty i ciepły z zewnątrz"
+     ],
+     [
+      "miarka",
+      "Bez podłóg i malowania",
+      "to robisz sam albo z ekipą"
+     ]
+    ],
+    "foot": "KADA A→Z · kada-a-z.pl"
+   },
+   {
+    "type": "steps",
+    "top": 220,
+    "eyebrow": "Etap 4",
+    "h": "Pod klucz:<br><g>wprowadzasz się</g>",
+    "obj": "ikony/fotel.png",
+    "objcss": "right:96px;top:200px;width:250px;transform:rotate(4deg)",
+    "items": [
+     [
+      "Podłogi i malowanie ścian",
+      ""
+     ],
+     [
+      "Drzwi wewnętrzne",
+      ""
+     ],
+     [
+      "Łazienki z białym montażem",
+      "umywalka, WC, prysznic lub wanna"
+     ],
+     [
+      "Często także kuchnia",
+      "zależy od umowy"
+     ]
+    ],
+    "sub": "Nie ma jednej ustawowej definicji tych stanów. Zakres zawsze sprawdzaj w umowie.",
+    "subw": 600,
+    "foot": "KADA A→Z · kada-a-z.pl"
+   },
+   {
+    "type": "cta",
+    "top": 220,
+    "eyebrow": "Masz działkę?",
+    "h": "Zbudujemy<br><g>na niej dom</g>",
+    "sub": "Budujemy od A do Z, na Twojej działce. Opowiedz nam, co planujesz, a my podpowiemy, od czego zacząć.",
+    "subw": 600,
+    "btn": "Zadzwoń: 798 840 959",
+    "contact": "kada-a-z.pl<br>biuro@kada-bud.pl",
+    "obj": "ikony/dzialka.png",
+    "objcss": "right:80px;bottom:230px;width:330px;transform:rotate(-4deg)",
+    "foot": "KADA A→Z · kada-a-z.pl"
+   }
+  ]
+ },
+ {
+  "id": "k1127",
+  "slides": [
+   {
+    "type": "photo",
+    "img": "foto/jach_n02_bl.jpg",
+    "pos": "45% center",
+    "tag": "KUPUJESZ DOM?",
+    "eyebrow": "Spotkanie na budowie · poradnik",
+    "h": "Na budowie<br><g>widać więcej</g>",
+    "size": 128,
+    "sub": "5 pytań, które warto zadać deweloperowi, zanim zdecydujesz się na dom.",
+    "foot": "Zapisz przed spotkaniem"
+   },
+   {
+    "type": "steps",
+    "top": 220,
+    "eyebrow": "Pytania 1 do 3",
+    "h": "Zapytaj,<br><g>co dostajesz</g>",
+    "obj": "ikony/lupa.png",
+    "objcss": "right:96px;top:190px;width:250px;transform:rotate(-10deg)",
+    "items": [
+     [
+      "Z czego jest dom?",
+      "ściany, strop, dach: niech pokażą Ci to na miejscu"
+     ],
+     [
+      "Co dokładnie jest w cenie?",
+      "ogrzewanie, ogrodzenie, kostka, zakres wykończenia"
+     ],
+     [
+      "Co mogę jeszcze zmienić?",
+      "układ ścian, dodatkowa łazienka, garderoba"
+     ]
+    ],
+    "sub": "Odpowiedź powinna być konkretna. Ogólnik na budowie to sygnał, żeby dopytać.",
+    "subw": 860
+   },
+   {
+    "type": "steps",
+    "top": 220,
+    "start": 4,
+    "eyebrow": "Pytania 4 i 5",
+    "h": "Zapytaj,<br><g>kto buduje</g>",
+    "obj": "ikony/dzwig.png",
+    "objcss": "right:110px;bottom:160px;width:240px;transform:rotate(4deg)",
+    "items": [
+     [
+      "Kto prowadzi budowę?",
+      "deweloper sam czy kilku podwykonawców"
+     ],
+     [
+      "Jak będę wiedzieć, co się dzieje?",
+      "raporty, zdjęcia, wizyty na budowie"
+     ]
+    ],
+    "sub": "Konkretna odpowiedź na miejscu mówi więcej niż najładniejsza ulotka.",
+    "subw": 560
+   },
+   {
+    "type": "features",
+    "top": 220,
+    "eyebrow": "Osiedle Jachranka",
+    "h": "Nasze<br><g>odpowiedzi</g>",
+    "items": [
+     [
+      "pompa",
+      "Pompa ciepła Panasonic",
+      "z ogrzewaniem podłogowym w całym domu"
+     ],
+     [
+      "kostka",
+      "Kostka i ogrodzenie",
+      "w cenie, bez osobnych dopłat"
+     ],
+     [
+      "umowa",
+      "Realny wpływ na układ",
+      "np. dodatkowa łazienka lub garderoba"
+     ],
+     [
+      "dzwig",
+      "Deweloper i generalny wykonawca",
+      "budujemy sami, pod własnym nadzorem"
+     ]
+    ]
+   },
+   {
+    "type": "cta",
+    "top": 625,
+    "eyebrow": "Spotkanie na budowie",
+    "h": "Zadaj je <g>na miejscu</g>",
+    "size": 88,
+    "sub": "Umów się z nami w Jachrance. Pokażemy dom i odpowiemy na każde z tych pytań.",
+    "subw": 912,
+    "btn": "Zadzwoń: 798 840 959",
+    "contact": "Osiedle Jachranka · gm. Serock · Ceny jawne na kada-bud.pl",
+    "nosave": true,
+    "obj": "o_blizniak.png",
+    "objcss": "left:90px;top:170px;width:900px"
+   }
+  ]
+ }
+]
