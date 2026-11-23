@@ -1,51 +1,53 @@
 [
  {
   "id": "pon",
-  "date": "2026-11-23T18:00:00",
+  "date": "2026-11-23T20:45:00",
   "topic": "Poradnik: 5 testów strony w 5 minut",
-  "format": "karuzela 7 (poradnik, okładka z portretem p_palec_gora)",
+  "format": "karuzela 7 (poradnik, okładka z portretem p_lupa, partia 2 biblioteki)",
   "hook": "Twoja strona może wyglądać świetnie i oblać test, który trwa 3 sekundy.",
   "text": "Twoja strona może wyglądać świetnie i oblać test, który trwa 3 sekundy.\n\nSwoją stronę zwykle oglądasz na komputerze w biurze, z szybkim Wi-Fi i wiedząc, gdzie co jest. Klient nie ma żadnej z tych rzeczy. Dlatego te testy robisz z telefonem w ręku i oczami kogoś obcego.\n\nZacznij od testu 2. Stuknięcie w numer zajmuje sekundę, a od razu wiesz, czy klient może do Ciebie zadzwonić bez przepisywania.\n\nZapisz na później 🔖 Ile testów zdała Twoja strona? Napisz liczbę od 0 do 5.",
   "tags": "#stronainternetowa #stronywww #audytstrony #stronamobilna #ux #webdesign #małafirma #marketinglokalny #krzyzustudio #warszawa",
   "alt": [
-   "Okładka: 5 testów strony w 5 minut. Krzyżu z palcem uniesionym w górę, obok napis: telefon w ręku i 5 minut, bez wiedzy technicznej.",
-   "Test 01, test 5 sekund: pokaż pierwszy ekran komuś spoza firmy i zapytaj, co robicie i gdzie.",
-   "Test 02, test kciuka: stuknij w numer telefonu na stronie i sprawdź, czy od razu dzwoni.",
-   "Test 03, test zasięgu: wyłącz Wi-Fi i policz, ile czekasz na pierwszy obraz.",
-   "Test 04, test formularza: wyślij sobie zapytanie i sprawdź, czy doszło i kto odpisał.",
-   "Test 05, test Google: w oknie incognito wpisz usługę z dzielnicą, nie nazwę firmy.",
+   "Okładka: 5 testów strony w 5 minut. Krzyżu patrzy przez lupę, obok napis: telefon w ręku i 5 minut, bez wiedzy technicznej.",
+   "Test 01, test 5 sekund: pokaż pierwszy ekran komuś spoza firmy i zapytaj, co robicie i gdzie. Obok zaskoczony Krzyżu.",
+   "Test 02, test kciuka: stuknij w numer telefonu na stronie i sprawdź, czy od razu dzwoni. Obok telefon ze stroną KADA.",
+   "Test 03, test zasięgu: wyłącz Wi-Fi i policz, ile czekasz na pierwszy obraz. Obok stoper.",
+   "Test 04, test formularza: wyślij sobie zapytanie i sprawdź, czy doszło i kto odpisał. Obok formularz 3D.",
+   "Test 05, test Google: w oknie incognito wpisz usługę z dzielnicą, nie nazwę firmy. Obok mapa.",
    "Wezwanie: wyślij link do strony, napisz TEST w wiadomości."
   ],
   "media": [
-   "https://d2ol7oe51mr4n9.cloudfront.net/user_3FWzvcvRGVAXn9M6g4SysHxgxs3/ed45aa9d-3bf8-4868-9695-457f9be643b2.png",
-   "https://d2ol7oe51mr4n9.cloudfront.net/user_3FWzvcvRGVAXn9M6g4SysHxgxs3/9b5b1a66-a514-468f-a4ce-299765b2fcd6.png",
-   "https://d2ol7oe51mr4n9.cloudfront.net/user_3FWzvcvRGVAXn9M6g4SysHxgxs3/f8a44e72-ec11-4ab0-ae7a-b2ce920d3913.png",
-   "https://d2ol7oe51mr4n9.cloudfront.net/user_3FWzvcvRGVAXn9M6g4SysHxgxs3/87d7d351-1171-4787-ae13-f825b92c92f7.png",
-   "https://d2ol7oe51mr4n9.cloudfront.net/user_3FWzvcvRGVAXn9M6g4SysHxgxs3/90bbd605-e546-4ff5-b743-a9b8fd8c08a1.png",
-   "https://d2ol7oe51mr4n9.cloudfront.net/user_3FWzvcvRGVAXn9M6g4SysHxgxs3/70dbb25f-4e4e-4940-b333-aa45a89dc965.png",
-   "https://d2ol7oe51mr4n9.cloudfront.net/user_3FWzvcvRGVAXn9M6g4SysHxgxs3/da43be40-57b7-452b-8b55-831afadd45e7.png"
-  ]
+   "https://d2ol7oe51mr4n9.cloudfront.net/user_3FWzvcvRGVAXn9M6g4SysHxgxs3/ed60823c-51b0-4c8e-9ab5-9e3d78f85631.png",
+   "https://d2ol7oe51mr4n9.cloudfront.net/user_3FWzvcvRGVAXn9M6g4SysHxgxs3/169209ae-fb7f-49a8-9435-4c723aeec743.png",
+   "https://d2ol7oe51mr4n9.cloudfront.net/user_3FWzvcvRGVAXn9M6g4SysHxgxs3/a8175c9f-a13f-4ba2-b7b6-e03566f2e8b8.png",
+   "https://d2ol7oe51mr4n9.cloudfront.net/user_3FWzvcvRGVAXn9M6g4SysHxgxs3/6e96363a-ad04-45c7-a790-ea38bed5df26.png",
+   "https://d2ol7oe51mr4n9.cloudfront.net/user_3FWzvcvRGVAXn9M6g4SysHxgxs3/f424148b-c041-44cc-b282-e2bd0650920b.png",
+   "https://d2ol7oe51mr4n9.cloudfront.net/user_3FWzvcvRGVAXn9M6g4SysHxgxs3/5bb76a8e-4587-453e-b463-f2e38f9c16be.png",
+   "https://d2ol7oe51mr4n9.cloudfront.net/user_3FWzvcvRGVAXn9M6g4SysHxgxs3/c68f8a09-423b-4be2-9809-8f8138ace288.png"
+  ],
+  "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=7342252&openWithPostUuid=-909838270317902778"
  },
  {
   "id": "wt",
   "date": "2026-11-24T10:00:00",
   "topic": "Mit: zdjęcia ze stocka wyglądają profesjonalnie",
-  "format": "karuzela 4 (problem, portret p_stop)",
+  "format": "karuzela 4 (problem, portret p_facepalm)",
   "hook": "Klient nie musi wiedzieć, co to stock. Wystarczy, że widział to zdjęcie wcześniej.",
   "text": "Klient nie musi wiedzieć, co to stock. Wystarczy, że widział to zdjęcie wcześniej.\n\nZdjęcie ze stocka nie jest brzydkie. Problem w tym, że jest niczyje. Ten sam uśmiechnięty fachowiec stoi na stronach firm w całej Polsce, a klient, który go rozpozna, zaczyna się zastanawiać, co jeszcze jest tu na pokaz.\n\nZdjęcie zrobione telefonem na Twojej budowie albo w Twoim warsztacie może być mniej idealne. Ale jest Twoje i nikt go nie podrobi.\n\nMasz na stronie zdjęcia ze stocka? Napisz: TAK, NIE albo KILKA.",
   "tags": "#zdjęciastockowe #stronainternetowa #stronywww #zaufanie #webdesign #fotografiafirmowa #małafirma #marketinglokalny #krzyzustudio #warszawa",
   "alt": [
-   "Okładka: mit, zdjęcia ze stocka wyglądają profesjonalnie. Krzyżu pokazuje dłonią stop. Podpis: wyglądają, tylko nie jak Twoja firma.",
+   "Okładka: mit, zdjęcia ze stocka wyglądają profesjonalnie. Krzyżu z dłonią na czole. Podpis: wyglądają, tylko nie jak Twoja firma.",
    "Ten sam pan w kasku: klient widział to zdjęcie u konkurencji i mniej wierzy reszcie strony.",
    "Co zamiast stocka: Ty albo ekipa przy pracy, gotowa realizacja, warsztat i narzędzia, zdjęcie z klientem za zgodą.",
    "Wezwanie: wyślij link, wskażę zdjęcia do wymiany. Napisz ZDJĘCIA w wiadomości."
   ],
   "media": [
-   "https://d2ol7oe51mr4n9.cloudfront.net/user_3FWzvcvRGVAXn9M6g4SysHxgxs3/2be35e7c-d357-4e20-a5cc-b2e8edc49d28.png",
+   "https://d2ol7oe51mr4n9.cloudfront.net/user_3FWzvcvRGVAXn9M6g4SysHxgxs3/f2252539-a749-4d20-af13-7e721931ac9c.png",
    "https://d2ol7oe51mr4n9.cloudfront.net/user_3FWzvcvRGVAXn9M6g4SysHxgxs3/30b4b649-3236-455d-9691-42d09ee8f392.png",
-   "https://d2ol7oe51mr4n9.cloudfront.net/user_3FWzvcvRGVAXn9M6g4SysHxgxs3/9bb13b23-d06f-4361-9fef-459324bce549.png",
-   "https://d2ol7oe51mr4n9.cloudfront.net/user_3FWzvcvRGVAXn9M6g4SysHxgxs3/def78d91-6fd6-4571-9b6e-5e2ac87feb8d.png"
-  ]
+   "https://d2ol7oe51mr4n9.cloudfront.net/user_3FWzvcvRGVAXn9M6g4SysHxgxs3/0c88f977-faf4-4674-b5bc-c18dd7276544.png",
+   "https://d2ol7oe51mr4n9.cloudfront.net/user_3FWzvcvRGVAXn9M6g4SysHxgxs3/73e11147-7457-4de7-8baf-504022515244.png"
+  ],
+  "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=7342252&openWithPostUuid=5116807146475178328"
  },
  {
   "id": "sr",
@@ -63,31 +65,33 @@
   ],
   "media": [
    "https://d2ol7oe51mr4n9.cloudfront.net/user_3FWzvcvRGVAXn9M6g4SysHxgxs3/dbc6aa09-82b8-462e-abe8-6dcc28910a85.png",
-   "https://d2ol7oe51mr4n9.cloudfront.net/user_3FWzvcvRGVAXn9M6g4SysHxgxs3/1d6cadb2-189b-4d0a-adef-4a939a55d3f8.png",
+   "https://d2ol7oe51mr4n9.cloudfront.net/user_3FWzvcvRGVAXn9M6g4SysHxgxs3/664073ac-c4e9-4e0e-b710-4e9f72fb306e.png",
    "https://d2ol7oe51mr4n9.cloudfront.net/user_3FWzvcvRGVAXn9M6g4SysHxgxs3/a1344650-ffb8-4782-8cc0-8aeee9caf452.png",
-   "https://d2ol7oe51mr4n9.cloudfront.net/user_3FWzvcvRGVAXn9M6g4SysHxgxs3/6573cd2c-954c-488a-8da9-202d277a3d3a.png"
-  ]
+   "https://d2ol7oe51mr4n9.cloudfront.net/user_3FWzvcvRGVAXn9M6g4SysHxgxs3/72d74e84-863e-49f5-9065-88997ddbdc7f.png"
+  ],
+  "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=7342252&openWithPostUuid=-7533171185812486669"
  },
  {
   "id": "czw",
   "date": "2026-11-26T10:00:00",
   "topic": "Kulisy: 5 pytań na pierwszej rozmowie",
-  "format": "karuzela 4 (kulisy, portret p_kciuk_bok)",
+  "format": "karuzela 4 (kulisy, portret p_notes)",
   "hook": "Pierwsza rozmowa o stronie nie dotyczy kolorów. Ani nawet strony.",
   "text": "Pierwsza rozmowa o stronie nie dotyczy kolorów. Ani nawet strony.\n\nZanim cokolwiek zaprojektuję, pytam o Twoich klientów: kto kupuje, co go przekonuje, czego się boi. Strona to odpowiedź na te pytania ubrana w kolory, a nie odwrotnie.\n\nDopiero potem rozmawiamy o tym, co już masz i co chcesz zmieniać sam. Od tego zależy technologia i czas pracy, a nie od mody.\n\nNa które z 5 pytań najtrudniej Ci odpowiedzieć? Napisz numer.",
   "tags": "#kulisy #procesprojektowy #stronainternetowa #tworzeniestron #webdesign #stronywww #małafirma #przedsiębiorca #krzyzustudio #warszawa",
   "alt": [
-   "Okładka kulis: zanim narysuję piksel. Krzyżu wskazuje kciukiem okno z listą 5 pytań: kto kupuje, co go przekonuje, co już masz, co zmieniasz sam, gdzie ma stać strona.",
+   "Okładka kulis: zanim narysuję piksel. Krzyżu z notesem obok okna z listą 5 pytań: kto kupuje, co go przekonuje, co już masz, co zmieniasz sam, gdzie ma stać strona.",
    "Pytania 1 i 2: kto kupuje i dlaczego. Ta sama usługa może potrzebować dwóch różnych stron.",
    "Pytania 3, 4 i 5: co masz i co zmieniasz. Logo i zdjęcia, statyk czy WordPress, domena i hosting.",
    "Wezwanie: napisz, kto najczęściej u Ciebie kupuje. Napisz STRONA w wiadomości."
   ],
   "media": [
-   "https://d2ol7oe51mr4n9.cloudfront.net/user_3FWzvcvRGVAXn9M6g4SysHxgxs3/1c9162fd-eb6f-4f71-87f1-4a1c362d7e52.png",
-   "https://d2ol7oe51mr4n9.cloudfront.net/user_3FWzvcvRGVAXn9M6g4SysHxgxs3/c536c6bb-cf65-4d4f-bae8-fa0591ade440.png",
-   "https://d2ol7oe51mr4n9.cloudfront.net/user_3FWzvcvRGVAXn9M6g4SysHxgxs3/8d247344-9c80-4cfe-b44e-5eea4e87fe0b.png",
-   "https://d2ol7oe51mr4n9.cloudfront.net/user_3FWzvcvRGVAXn9M6g4SysHxgxs3/96d11b23-79de-450f-8a48-94340a803a11.png"
-  ]
+   "https://d2ol7oe51mr4n9.cloudfront.net/user_3FWzvcvRGVAXn9M6g4SysHxgxs3/11219340-8627-4474-8899-bf1aa21271eb.png",
+   "https://d2ol7oe51mr4n9.cloudfront.net/user_3FWzvcvRGVAXn9M6g4SysHxgxs3/967f3f21-0c6c-4a3d-b52f-1e0a1e1a308b.png",
+   "https://d2ol7oe51mr4n9.cloudfront.net/user_3FWzvcvRGVAXn9M6g4SysHxgxs3/42f02ac6-8ccc-4ee9-a543-22ef0ff5cf0f.png",
+   "https://d2ol7oe51mr4n9.cloudfront.net/user_3FWzvcvRGVAXn9M6g4SysHxgxs3/067259ea-73b0-4f61-9438-596635a611ce.png"
+  ],
+  "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=7342252&openWithPostUuid=1830452496336177977"
  },
  {
   "id": "pt",
@@ -109,8 +113,9 @@
    "https://d2ol7oe51mr4n9.cloudfront.net/user_3FWzvcvRGVAXn9M6g4SysHxgxs3/25bc90fe-e0b2-40b8-9a8b-bbcf12ec1567.png",
    "https://d2ol7oe51mr4n9.cloudfront.net/user_3FWzvcvRGVAXn9M6g4SysHxgxs3/eacdffd7-b1cb-4c21-a252-cb2a0064599b.png",
    "https://d2ol7oe51mr4n9.cloudfront.net/user_3FWzvcvRGVAXn9M6g4SysHxgxs3/79a3eced-ac75-4197-a923-faa8aa6e24e7.png",
-   "https://d2ol7oe51mr4n9.cloudfront.net/user_3FWzvcvRGVAXn9M6g4SysHxgxs3/b25d6113-562b-4d15-9b7f-03132cf5bc4c.png"
-  ]
+   "https://d2ol7oe51mr4n9.cloudfront.net/user_3FWzvcvRGVAXn9M6g4SysHxgxs3/29ba5937-6c0e-4e3d-aa74-1ca49f42217c.png"
+  ],
+  "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=7342252&openWithPostUuid=-7839278940552937411"
  },
  {
   "id": "sob",
@@ -124,22 +129,24 @@
    "Opinia na ciemnym tle: minus 30 procent mówi klientowi jedno, wcześniej było za drogo. Pod spodem: firma usługowa nie musi grać w Black Friday."
   ],
   "media": [
-   "https://d2ol7oe51mr4n9.cloudfront.net/user_3FWzvcvRGVAXn9M6g4SysHxgxs3/ea843495-5370-449c-aaf1-82d0636aad53.png"
-  ]
+   "https://d2ol7oe51mr4n9.cloudfront.net/user_3FWzvcvRGVAXn9M6g4SysHxgxs3/0a09d3e4-ba0b-4b1a-a4e2-2bd27c125fd0.png"
+  ],
+  "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=7342252&openWithPostUuid=7563901860945544464"
  },
  {
   "id": "nd",
   "date": "2026-11-29T10:00:00",
   "topic": "Pytanie: ile czekasz, zanim odpiszesz na zapytanie?",
-  "format": "post (pytanie, portret p_mysli)",
+  "format": "post (pytanie, portret p_kawa)",
   "hook": "Klient, który pisze wieczorem, często pisze nie tylko do Ciebie.",
   "text": "Klient, który pisze wieczorem, często pisze nie tylko do Ciebie.\n\nWysyła to samo zapytanie do kilku firm i czeka. Kto odpisze pierwszy, ten ma przewagę, zanim ktokolwiek porówna ceny.\n\nNie chodzi o to, żeby siedzieć w telefonie do północy. Wystarczy automatyczna odpowiedź z formularza: „Dostałem, oddzwonię jutro do 10:00”. I dotrzymanie słowa.\n\nIle czekasz, zanim odpiszesz? Napisz: MINUTY, GODZINY czy DNI.",
   "tags": "#pytanie #obsługaklienta #zapytania #formularz #małafirma #przedsiębiorca #biznes #stronywww #krzyzustudio #warszawa",
   "alt": [
-   "Pytanie: ile czekasz, zanim odpiszesz? Zapytanie przyszło o 21:00. Krzyżu zamyślony, odpowiedzi do wyboru: minuty, godziny, dni."
+   "Pytanie: ile czekasz, zanim odpiszesz? Zapytanie przyszło o 21:00. Krzyżu z kubkiem kawy, odpowiedzi do wyboru: minuty, godziny, dni."
   ],
   "media": [
-   "https://d2ol7oe51mr4n9.cloudfront.net/user_3FWzvcvRGVAXn9M6g4SysHxgxs3/6ed7f658-d341-4305-a254-90145d676172.png"
-  ]
+   "https://d2ol7oe51mr4n9.cloudfront.net/user_3FWzvcvRGVAXn9M6g4SysHxgxs3/d471f409-250e-4c5e-8633-32a404518015.png"
+  ],
+  "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=7342252&openWithPostUuid=3363287648127566162"
  }
 ]

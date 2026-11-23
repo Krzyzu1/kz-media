@@ -6,6 +6,7 @@ Rytm: 7 postów w tygodniu. Plan na cały tydzień przychodzi w poniedziałek ok
 - CENNIK WSTRZYMANY (Krzyżu, 16.11.2026): ceny są w trakcie zmiany, nie publikujemy żadnych cen na grafikach, w podpisach ani na zrzutach (np. chip „Strony od 3000 zł” na krzyzu.studio trzeba wyciąć). Zamiast cen: „wycena indywidualna po krótkiej rozmowie”. Obowiązuje do odwołania.
 - Tydzień 2026-10-26 (pon 26.10 do nd 1.11) jest JUŻ PRZYGOTOWANY w sesji z 24.10 (content/2026-10-26.*: spec, posts.json z podpisami, png.txt z URL-ami). Nie rób nowych postów: sprawdź w Metricool, czy są zaplanowane. Jeśli nie są, wyślij Krzyżu przypomnienie o akceptacji tego planu.
 - Od tygodnia 2026-11-02 planuj według content/strategia.md (filary, rytm i układy v2 poniżej).
+- RÓŻNORODNOŚĆ GRAFIK (Krzyżu, 23.11.2026): grafiki nie mogą wyglądać tak samo. Korzystaj z partii 2 biblioteki (assets/template/portrety.md: 23 portrety, 54 ikony, 13 obiektów 3D), w każdej karuzeli mieszaj co najmniej 2 rodzaje akcentów (portret, duży obiekt 3D, ikona, zrzut), używaj nowych opcji gen.py (portret w punkcie, obiekt w CTA i opinii).
 
 ## Filary na każdy dzień (od 2026-10-26, szczegóły: content/strategia.md)
 | Dzień | Filar | Układ grafiki (gen.py) |
@@ -43,14 +44,15 @@ Zasada: hook ma zatrzymać kciuk w pierwszej sekundzie, językiem właściciela 
 - [x] Opinie klientów: gdzie je wstawić, żeby działały (tydz. 2026-11-16, jako przed i po)
 - [x] Jak przygotować zdjęcia na stronę telefonem (tydz. 2026-11-09)
 - [ ] Lokalny biznes w Warszawie: 3 rzeczy, które robią różnicę w Google
+- [x] 5 testów strony w 5 minut (tydz. 2026-11-23)
 ### Błędy i mity
 - [x] Formularz z 10 polami? Właśnie zgubiłeś klienta (tydz. 2026-10-12)
 - [x] Mit: „AI w Google zastąpi moją stronę” (tryb AI w Google) (tydz. 2026-10-19)
 - [x] Przycisk „Kontakt” to za mało (tydz. 2026-11-09)
 - [x] Mit: spadek w Google to kara (core update 10.11.2026) (tydz. 2026-11-16)
-- [ ] Zdjęcia ze stocka zabijają zaufanie
+- [x] Zdjęcia ze stocka zabijają zaufanie (tydz. 2026-11-23)
 - [x] Strona za 500 zł. Co dokładnie kupujesz? (tydz. 2026-11-02)
-- [ ] Masz stronę z 2015 roku? 4 znaki, że czas na nową
+- [x] Masz stronę z 2015 roku? 4 znaki, że czas na nową (tydz. 2026-11-23, przed i po, wymyślona stolarnia)
 - [ ] Hosting za grosze: różnica, której nie widać od razu
 - [ ] Wolna strona: każda sekunda czekania to klient, który wraca do Google
 ### Przed i po / audyt
@@ -61,6 +63,7 @@ Zasada: hook ma zatrzymać kciuk w pierwszej sekundzie, językiem właściciela 
 - [x] Jak AI zmienia robienie stron (i czego nie zastąpi) (tydz. 2026-10-12)
 - [x] Mój stack: narzędzia, na których robię strony (tydz. 2026-11-02)
 - [ ] Dzień z życia jednoosobowego studia
+- [x] Zanim narysuję piksel: 5 pytań na pierwszej rozmowie (tydz. 2026-11-23)
 - [x] Strona od zera: jak wygląda proces krok po kroku (tydz. 2026-10-19)
 - [x] Dlaczego biorę 50% z góry (tydz. 2026-11-09)
 ### Dowód i oferta
@@ -73,6 +76,7 @@ Zasada: hook ma zatrzymać kciuk w pierwszej sekundzie, językiem właściciela 
 - [ ] Strona dla architekta: portfolio, które sprzedaje
 - [ ] Opieka nad stroną: za co płacisz co miesiąc
 - [x] Statyczna czy WordPress: co wybrać (tydz. 2026-11-16, kulisy)
+- [x] Realizacje: telefon to nie mały laptop (KADA, Murii, krzyzu.studio na telefonie) (tydz. 2026-11-23)
 ### Meta Ads (nowa usługa, dane: content/meta-ads/kada-kampania.md)
 Zgoda KADA na liczby i kreacje: TAK (24.10). Nie pokazujemy spraw wewnętrznych (piksel, ograniczenie konta, faktury). Liczby zawsze z datą („w pierwszych 4 dniach”), kontakty to nie sprzedaż.
 - [x] „Zostały 2 z 8” vs „Co dostajesz”: konkret w cenie wygrał z presją (opinia/edukacja)
@@ -86,12 +90,14 @@ Zgoda KADA na liczby i kreacje: TAK (24.10). Nie pokazujemy spraw wewnętrznych 
 - [x] Branding to nie logo (tydz. 2026-10-19)
 - [x] Strona to nie wizytówka. To handlowiec, który pracuje 24/7 (tydz. 2026-11-09)
 - [x] Nie potrzebujesz nowej strony. Potrzebujesz telefonów (tydz. 2026-11-16)
+- [x] „-30%” mówi klientowi, że wcześniej było za drogo (Black Friday) (tydz. 2026-11-23)
 - [x] Najdroższa strona to ta, która nie dzwoni (tydz. 2026-10-12)
 ### Pytania
 - [x] Co Cię najbardziej wkurza na stronach firm? (tydz. 2026-10-19)
 - [x] Strona czy Instagram: co daje Ci więcej klientów? (tydz. 2026-10-12)
 - [x] Jaką stronę ostatnio zapamiętałeś i dlaczego? (tydz. 2026-11-09)
 - [x] Skąd przyszedł Twój ostatni klient? (tydz. 2026-11-16)
+- [x] Ile czekasz, zanim odpiszesz na zapytanie? (tydz. 2026-11-23)
 - [x] Gdybyś miał jutro nową stronę, co byś na niej zmienił? (tydz. 2026-11-02)
 
 ## Opublikowane
@@ -139,3 +145,10 @@ Zgoda KADA na liczby i kreacje: TAK (24.10). Nie pokazujemy spraw wewnętrznych 
 | 2026-11-20 10:00 | Realizacje: Murii, KADA, krzyzu.studio (bez cen) | karuzela 5 (realizacja + CTA) |
 | 2026-11-21 10:00 | Opinia: nie potrzebujesz nowej strony, potrzebujesz telefonów | post (opinia) |
 | 2026-11-22 10:00 | Pytanie: skąd przyszedł Twój ostatni klient? | post (pytanie, portret) |
+| 2026-11-23 20:45 | Poradnik: 5 testów strony w 5 minut | karuzela 7 (poradnik, okładka p_lupa) |
+| 2026-11-24 10:00 | Mit: zdjęcia ze stocka wyglądają profesjonalnie | karuzela 4 (problem, p_facepalm) |
+| 2026-11-25 10:00 | Przed i po: strona z 2015 (przykład, wymyślona stolarnia) | karuzela 4 (versus + laptop) |
+| 2026-11-26 10:00 | Kulisy: 5 pytań na pierwszej rozmowie | karuzela 4 (kulisy, p_notes) |
+| 2026-11-27 10:00 | Realizacje: telefon to nie mały laptop (bez cen) | karuzela 5 (realizacja + telefony) |
+| 2026-11-28 10:00 | Opinia: -30% mówi, że wcześniej było za drogo (Black Friday) | post (opinia + %) |
+| 2026-11-29 10:00 | Pytanie: ile czekasz, zanim odpiszesz? | post (pytanie, p_kawa) |
