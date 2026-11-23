@@ -34,3 +34,45 @@ Strony do zrzutów: https://murii.pl , https://kada-a-z.pl , https://krzyzu.stud
 |---|---|---|
 | barber_hero | barber przy pracy, wnętrze z zielonymi kafelkami, za oknem Warszawa z PKiN o zmierzchu (3:2) | https://d8j0ntlcm91z4.cloudfront.net/user_3FWzvcvRGVAXn9M6g4SysHxgxs3/hf_20261102_081342_a5168c40-4edb-4cda-af81-297a0cc21a36.png |
 | barber_narzedzia | fotel barberski, brzytwa, nożyczki, maszynki na blacie z orzecha (1:1) | https://d8j0ntlcm91z4.cloudfront.net/user_3FWzvcvRGVAXn9M6g4SysHxgxs3/hf_20261102_081345_d98e83f4-25d2-4772-8efd-3def79ffaf6d.png |
+
+## Partia 2 (wygenerowana 2026-11-23 na prośbę Krzyżu: więcej różnorodności)
+Wszystko z przezroczystym tłem (gpt_image_2_5, high, 2k). Portrety z referencjami selfie + p_rece jako wzór światła.
+
+### Portrety Krzyżu (partia 2)
+| plik | poza / kiedy używać | URL |
+|---|---|---|
+| p_smiech | śmieje się szczerze, luz, posty z humorem i opinie | https://d8j0ntlcm91z4.cloudfront.net/user_3FWzvcvRGVAXn9M6g4SysHxgxs3/hf_20261123_190012_44586b5c-957a-437b-a9ea-8501a88e2779.png |
+| p_wow | zaskoczenie, dłonie przy policzkach, hooki „nie uwierzysz”, testy | https://d8j0ntlcm91z4.cloudfront.net/user_3FWzvcvRGVAXn9M6g4SysHxgxs3/hf_20261123_190012_7300c278-899b-42e5-a9ae-a38c32d7743e.png |
+| p_tablet | trzyma tablet z pustym niebieskim ekranem i wskazuje go (ekran do wstawienia zrzutu, maska wymaga ręcznego dopasowania) | https://d8j0ntlcm91z4.cloudfront.net/user_3FWzvcvRGVAXn9M6g4SysHxgxs3/hf_20261123_190013_d3e8e8f5-c363-4c5f-8282-bbee9ad8f101.png |
+| p_lupa | lupa przy oku, inspektor: audyty, testy, sprawdzanie | https://d8j0ntlcm91z4.cloudfront.net/user_3FWzvcvRGVAXn9M6g4SysHxgxs3/hf_20261123_190012_0fe389e2-c3b0-4af4-940c-6bdc35dab573.png |
+| p_facepalm | dłoń na czole, błędy, mity, „serio?” | https://d8j0ntlcm91z4.cloudfront.net/user_3FWzvcvRGVAXn9M6g4SysHxgxs3/hf_20261123_190107_0978ef36-6833-493a-9139-71751cef75c5.png |
+| p_kawa | kubek kawy, jeansowa koszula, niedzielne pytania, kulisy na luzie | https://d8j0ntlcm91z4.cloudfront.net/user_3FWzvcvRGVAXn9M6g4SysHxgxs3/hf_20261123_190105_828f64d6-ec0f-4eeb-8a23-0de08f41ba4c.png |
+| p_zaprasza | otwarte dłonie, czarna koszula i biały t-shirt, CTA „zapraszam”, oferta | https://d8j0ntlcm91z4.cloudfront.net/user_3FWzvcvRGVAXn9M6g4SysHxgxs3/hf_20261123_190105_a926f846-bd63-4b94-9850-0fc9cc3e20d2.png |
+| p_gora | oba palce w górę na tekst nad głową, okładki z nagłówkiem u góry | https://d8j0ntlcm91z4.cloudfront.net/user_3FWzvcvRGVAXn9M6g4SysHxgxs3/hf_20261123_190105_0ca610e6-552c-49ed-8923-e077f8318d55.png |
+| p_notes | pisze w notesie, jeansowa koszula, kulisy, pytania, proces | https://d8j0ntlcm91z4.cloudfront.net/user_3FWzvcvRGVAXn9M6g4SysHxgxs3/hf_20261123_190155_4126cb67-1372-46f8-8731-6b7ce9a9733b.png |
+| p_dwa2 | DWA palce (naprawdę dwa), listy „2 rzeczy” | https://d8j0ntlcm91z4.cloudfront.net/user_3FWzvcvRGVAXn9M6g4SysHxgxs3/hf_20261123_190155_4b8fe022-5d89-4617-b7f1-a10e165759cd.png |
+| p_pisze | z boku, pisze na laptopie, kulisy pracy, AI, kod | https://d8j0ntlcm91z4.cloudfront.net/user_3FWzvcvRGVAXn9M6g4SysHxgxs3/hf_20261123_190156_9b4278e9-ac24-4248-bd88-fe0e2ee01248.png |
+| p_biodra | ręce na biodrach, lekko z dołu, pewność siebie, mocne opinie, oferta | https://d8j0ntlcm91z4.cloudfront.net/user_3FWzvcvRGVAXn9M6g4SysHxgxs3/hf_20261123_190157_b86b2069-8ffe-4bbc-a8ba-e86b8b6784fe.png |
+
+### Duże obiekty 3D (partia 2)
+Wstawiaj przez katalog ikony/ (np. cp o_formularz.png ikony/), wtedy działają w polach icon (point, cta, opinia, list, story).
+| plik | opis | URL |
+|---|---|---|
+| o_kalendarz | kalendarz 3D z dużym ptaszkiem (terminy, umówione spotkanie) | https://d8j0ntlcm91z4.cloudfront.net/user_3FWzvcvRGVAXn9M6g4SysHxgxs3/hf_20261123_190418_f183e7c2-1f8c-4d7f-ae17-8d36014ac311.png |
+| o_opinie | szklana karta opinii: awatar, 5 gwiazdek, linie tekstu | https://d8j0ntlcm91z4.cloudfront.net/user_3FWzvcvRGVAXn9M6g4SysHxgxs3/hf_20261123_190612_bf25c767-9aa1-4df3-8c51-8968dafc0ba3.png |
+| o_formularz | szklany formularz: 3 pola i przycisk | https://d8j0ntlcm91z4.cloudfront.net/user_3FWzvcvRGVAXn9M6g4SysHxgxs3/hf_20261123_190610_46310064-0cd3-4b86-95a1-0a83b70ab715.png |
+| o_dymki | trzy dymki czatu z czerwonym powiadomieniem (DM, wiadomości) | https://d8j0ntlcm91z4.cloudfront.net/user_3FWzvcvRGVAXn9M6g4SysHxgxs3/hf_20261123_190517_ab64d63c-9fe9-4c2f-afc6-248f994acbb2.png |
+| o_telefon_prosto | telefon na wprost, pusty niebieski ekran. Zrzut 390x844@2: resize 858x1898^, gravity north extent, maska roundrectangle r=100, nałóż w punkcie +440+207 (obraz 1744x2336) | https://d8j0ntlcm91z4.cloudfront.net/user_3FWzvcvRGVAXn9M6g4SysHxgxs3/hf_20261123_190517_c9867109-0eac-4a43-a115-c5f2925b2d59.png |
+| o_strzalka | duża zakrzywiona strzałka w górę (wzrost, efekt) | https://d8j0ntlcm91z4.cloudfront.net/user_3FWzvcvRGVAXn9M6g4SysHxgxs3/hf_20261123_190654_55d974b5-cd7e-4973-82c7-b651833f7aa5.png |
+| o_ksztalty | szklane kształty: torus, kule, pigułka (dekoracja, CTA) | https://d8j0ntlcm91z4.cloudfront.net/user_3FWzvcvRGVAXn9M6g4SysHxgxs3/hf_20261123_190656_ed6b2330-cb54-409b-9f9c-7d6008f5d65f.png |
+| o_megafon | duży megafon 3D z falami (ogłoszenia, oferta) | https://d8j0ntlcm91z4.cloudfront.net/user_3FWzvcvRGVAXn9M6g4SysHxgxs3/hf_20261123_190655_02f6b7eb-5971-43a2-9c49-45b9d2180fc7.png |
+
+### Ikony 3D (partia 2, 27 sztuk, ikony.sh arkusze D, E, F)
+dom klucz mlotek megafon dzwonek kursor serce ogien mikrofon kubek kalkulator mapa budynek globus chmura stoper notes kamera formularz opinie uscisk prezent procent wtyczka rozdzka chip-ai strzalka
+Uwaga: megafon (arkusz D) ma przy prawej krawędzi ucięty kawałek fal, do dużych slajdów lepszy o_megafon.
+
+### Nowe opcje gen.py (2026-11-23)
+- point: `portrait` (+ pleft, ptop, ph) zamiast ikony; zwęź tekst `bodyw` do około 470.
+- cta: `icon` (+ iconcss) wstawia duży obiekt 3D zamiast belek i gwiazdki.
+- opinia: `icon` (+ iconcss) dodaje akcent 3D.
+Zasada różnorodności: w karuzeli mieszaj co najmniej 2 rodzaje akcentów (portret, duży obiekt, ikona, zrzut), a ten sam portret najwyżej raz w tygodniu.
