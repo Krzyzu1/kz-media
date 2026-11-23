@@ -81,7 +81,8 @@
     "size": 92,
     "body": "Wyślij link do swojej strony. Odpiszę, który test oblała i co poprawić najpierw.",
     "btn": "Napisz „TEST” w DM",
-    "icon": "o_dymki"
+    "icon": "o_dymki",
+    "iconcss": "right:-30px;top:20px;width:420px;transform:rotate(6deg)"
    }
   ]
  },
@@ -92,14 +93,14 @@
     "type": "problem",
     "label": "Mit",
     "h": "„Zdjęcia<br>ze stocka<br>wyglądają<br><g>profesjonalnie”</g>",
-    "size": 88,
+    "size": 82,
     "top": 290,
     "sub": "Wyglądają. Tylko nie jak Twoja firma.",
     "subw": 420,
     "portrait": "p_facepalm.png",
-    "pleft": 560,
-    "ptop": 470,
-    "ph": 880
+    "pleft": 470,
+    "ptop": 560,
+    "ph": 800
    },
    {
     "type": "story",
@@ -374,7 +375,8 @@
     "top": 250,
     "sub": "Firma usługowa nie musi grać w Black Friday. Lepiej pokazać, za co klient płaci, niż raz w roku ciąć cenę.",
     "subw": 840,
-    "icon": "procent"
+    "icon": "procent",
+    "iconcss": "right:50px;top:40px;width:240px;transform:rotate(10deg)"
    }
   ]
  },

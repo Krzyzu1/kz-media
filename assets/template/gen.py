@@ -126,7 +126,8 @@ def slide(s, n, N):
         pill = f'<div class=pill style="margin-top:50px"><div class=ic><img src="ikony/dymek.png" style="width:40px"></div>{s["pill"]}<span class=ar>→</span></div>' if s.get('pill') else ''
         o.append(f'<div class=pad style="top:250px"><h1 style="font-size:{s.get("size",104)}px">{g(s["h"])}</h1>{parts}{pill}</div>')
     elif t == 'cta':
-        o.append('<div class="star" style="right:300px;top:330px"></div>')
+        if not s.get('icon'):
+            o.append('<div class="star" style="right:300px;top:330px"></div>')
         o.append(f'<div class=pad style="top:{s.get("top",360)}px"><div class=eb>{s["eyebrow"]}</div>'
                  f'<h1 style="font-size:{s.get("size",108)}px;margin-top:40px">{g(s["h"])}</h1>'
                  f'<p class=b style="margin-top:36px;width:780px">{g(s["body"])}</p>'
