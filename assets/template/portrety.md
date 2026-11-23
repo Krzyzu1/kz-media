@@ -69,7 +69,7 @@ Wstawiaj przez katalog ikony/ (np. cp o_formularz.png ikony/), wtedy działają 
 
 ### Ikony 3D (partia 2, 27 sztuk, ikony.sh arkusze D, E, F)
 dom klucz mlotek megafon dzwonek kursor serce ogien mikrofon kubek kalkulator mapa budynek globus chmura stoper notes kamera formularz opinie uscisk prezent procent wtyczka rozdzka chip-ai strzalka
-Uwaga: megafon (arkusz D) ma przy prawej krawędzi ucięty kawałek fal, do dużych slajdów lepszy o_megafon.
+Uwaga: megafon i dzwonek (arkusz D) mają przy krawędzi ucięty kawałek fal megafonu, w małych chipach używaj innych ikon, do dużych slajdów o_megafon.
 
 ### Nowe opcje gen.py (2026-11-23)
 - point: `portrait` (+ pleft, ptop, ph) zamiast ikony; zwęź tekst `bodyw` do około 470.
