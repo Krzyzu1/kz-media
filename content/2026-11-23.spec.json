@@ -10,7 +10,7 @@
     "top": 250,
     "sub": "Telefon w ręku i 5 minut. Bez wiedzy technicznej.",
     "subw": 430,
-    "portrait": "p_palec_gora.png"
+    "portrait": "p_lupa.png"
    },
    {
     "type": "point",
@@ -19,9 +19,13 @@
     "h": "Test<br><g>5 sekund</g>",
     "size": 100,
     "body": "Pokaż pierwszy ekran komuś spoza firmy na 5 sekund. Schowaj telefon i zapytaj: co robimy i gdzie? Jeśli się zawaha, nagłówek nie działa.",
-    "icon": "klepsydra",
     "pill": "Co robisz i gdzie",
-    "pillIcon": "lupa"
+    "pillIcon": "lupa",
+    "portrait": "p_wow.png",
+    "bodyw": 470,
+    "pleft": 560,
+    "ptop": 380,
+    "ph": 960
    },
    {
     "type": "point",
@@ -30,9 +34,11 @@
     "h": "Test<br><g>kciuka</g>",
     "size": 100,
     "body": "Stuknij w numer telefonu na swojej stronie. Jeśli nie wybiera połączenia od razu, klient musi go przepisywać. Nie każdy będzie miał na to cierpliwość.",
-    "icon": "telefon",
+    "icon": "o_tel_kada",
     "pill": "Numer, który dzwoni",
-    "pillIcon": "dymek"
+    "pillIcon": "dymek",
+    "iconcss": "right:60px;top:150px;width:330px;transform:rotate(8deg)",
+    "bodyw": 560
    },
    {
     "type": "point",
@@ -41,9 +47,9 @@
     "h": "Test<br><g>zasięgu</g>",
     "size": 100,
     "body": "Wyłącz Wi-Fi i wejdź na stronę z samej sieci komórkowej. Policz, ile czekasz na pierwszy obraz. Tak wchodzi Twój klient: w aucie, w kolejce, na budowie.",
-    "icon": "predkosciomierz",
+    "icon": "stoper",
     "pill": "Licz sekundy bez Wi-Fi",
-    "pillIcon": "wykres"
+    "pillIcon": "chmura"
    },
    {
     "type": "point",
@@ -52,9 +58,10 @@
     "h": "Test<br><g>formularza</g>",
     "size": 100,
     "body": "Wyślij sobie zapytanie przez własny formularz. Doszło? Do kogo? Ile minęło, zanim ktoś odpisał? Czasem formularz od miesięcy wysyła wiadomości donikąd.",
-    "icon": "koperta",
+    "icon": "o_formularz",
     "pill": "Wyślij i sprawdź skrzynkę",
-    "pillIcon": "tarcza-ok"
+    "pillIcon": "tarcza-ok",
+    "iconcss": "right:30px;top:170px;width:400px;transform:rotate(-6deg)"
    },
    {
     "type": "point",
@@ -63,7 +70,7 @@
     "h": "Test<br><g>Google</g>",
     "size": 100,
     "body": "Otwórz okno incognito i wpisz usługę z dzielnicą, np. „kuchnie na wymiar Bielany”. Nie nazwę firmy. Tak szuka ktoś, kto Cię jeszcze nie zna.",
-    "icon": "lupa",
+    "icon": "mapa",
     "pill": "Usługa + dzielnica",
     "pillIcon": "pinezka"
    },
@@ -73,7 +80,8 @@
     "h": "Zrobię te testy<br><g>za Ciebie</g>",
     "size": 92,
     "body": "Wyślij link do swojej strony. Odpiszę, który test oblała i co poprawić najpierw.",
-    "btn": "Napisz „TEST” w DM"
+    "btn": "Napisz „TEST” w DM",
+    "icon": "o_dymki"
    }
   ]
  },
@@ -88,7 +96,7 @@
     "top": 290,
     "sub": "Wyglądają. Tylko nie jak Twoja firma.",
     "subw": 420,
-    "portrait": "p_stop.png",
+    "portrait": "p_facepalm.png",
     "pleft": 560,
     "ptop": 470,
     "ph": 880
@@ -121,7 +129,7 @@
     "eyebrow": "Co zamiast",
     "h": "Telefon<br><g>wystarczy</g>",
     "size": 100,
-    "icon": "aparat",
+    "icon": "kamera",
     "items": [
      [
       "zebatka",
@@ -147,7 +155,8 @@
     "h": "Pokażę, które<br><g>podmienić</g>",
     "size": 92,
     "body": "Wyślij link. Wskażę zdjęcia, które warto wymienić najpierw, i co zrobić zamiast nich telefonem.",
-    "btn": "Napisz „ZDJĘCIA” w DM"
+    "btn": "Napisz „ZDJĘCIA” w DM",
+    "icon": "o_ksztalty"
    }
   ]
  },
@@ -184,7 +193,7 @@
     "eyebrow": "4 znaki, że strona pamięta 2015",
     "h": "Sprawdź<br><g>u siebie</g>",
     "size": 100,
-    "icon": "klepsydra",
+    "icon": "notes",
     "items": [
      [
       "ostrzezenie",
@@ -221,7 +230,8 @@
     "h": "Zacznijmy od<br><g>pierwszego ekranu</g>",
     "size": 88,
     "body": "Wyślij link. Odpiszę, które z 4 znaków widzę u Ciebie i od czego zacząć, zanim pomyślisz o nowej stronie.",
-    "btn": "Napisz „2015” w DM"
+    "btn": "Napisz „2015” w DM",
+    "icon": "o_strzalka"
    }
   ]
  },
@@ -233,7 +243,7 @@
     "h": "Zanim narysuję<br><g>piksel</g>",
     "size": 92,
     "sub": "5 pytań, które zadaję na pierwszej rozmowie. Od odpowiedzi zależy cała strona.",
-    "portrait": "p_kciuk_bok.png",
+    "portrait": "p_notes.png",
     "lines": [
      "kto kupuje?",
      "co go przekonuje?",
@@ -266,7 +276,7 @@
       "Czym wygrywasz z firmą obok"
      ]
     ],
-    "icon": "dymek"
+    "icon": "kubek"
    },
    {
     "type": "story",
@@ -289,7 +299,7 @@
       "Domena i hosting"
      ]
     ],
-    "icon": "zebatka"
+    "icon": "klucz"
    },
    {
     "type": "cta",
@@ -297,7 +307,8 @@
     "h": "Odpowiedz<br><g>na pytanie 1</g>",
     "size": 92,
     "body": "Napisz, kto najczęściej u Ciebie kupuje. Od tego zaczniemy. Wycenę robię indywidualnie, po krótkiej rozmowie.",
-    "btn": "Napisz „STRONA” w DM"
+    "btn": "Napisz „STRONA” w DM",
+    "icon": "o_kalendarz"
    }
   ]
  },
@@ -346,7 +357,9 @@
     "h": "Działa<br><g>pod kciukiem?</g>",
     "size": 96,
     "body": "Napisz, czym zajmuje się Twoja firma. Wycenę robię indywidualnie, po krótkiej rozmowie o tym, czego potrzebujesz.",
-    "btn": "Napisz „STRONA” w DM"
+    "btn": "Napisz „STRONA” w DM",
+    "icon": "uscisk",
+    "iconcss": "right:40px;top:110px;width:400px;transform:rotate(-8deg)"
    }
   ]
  },
@@ -360,7 +373,8 @@
     "size": 104,
     "top": 250,
     "sub": "Firma usługowa nie musi grać w Black Friday. Lepiej pokazać, za co klient płaci, niż raz w roku ciąć cenę.",
-    "subw": 840
+    "subw": 840,
+    "icon": "procent"
    }
   ]
  },
@@ -375,13 +389,13 @@
     "top": 150,
     "sub": "Zapytanie ze strony przyszło o 21:00. Kiedy klient dostaje odpowiedź?",
     "subw": 470,
-    "portrait": "p_mysli.png",
+    "portrait": "p_kawa.png",
     "pleft": 500,
     "ptop": 300,
     "ph": 1040,
     "chips": [
      [
-      "klepsydra",
+      "stoper",
       "Minuty"
      ],
      [
@@ -389,7 +403,7 @@
       "Godziny"
      ],
      [
-      "ostrzezenie",
+      "dzwonek",
       "Dni"
      ]
     ]

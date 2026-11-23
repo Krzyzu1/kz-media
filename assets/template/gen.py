@@ -61,8 +61,16 @@ def slide(s, n, N):
         o = ['<div class="s light">']
     else:
         o = ['<div class=s><div class="glow g1"></div><div class="glow g2"></div>']
-    if t in ('cta', 'single') and not s.get('portrait'):
+    if t in ('cta', 'single') and not s.get('portrait') and not (t == 'cta' and s.get('icon')):
         o.append('<div class="bar b1"></div><div class="bar b2"></div>')
+    if t == 'cta' and s.get('icon'):
+        # od 2026-11-23: duzy obiekt 3D zamiast belek w rogu
+        o.append(icon(s['icon'], s.get('iconcss', 'right:-40px;top:40px;width:460px;transform:rotate(8deg)')))
+    if t == 'opinia' and s.get('icon'):
+        o.append(icon(s['icon'], s.get('iconcss', 'right:40px;top:60px;width:300px;transform:rotate(10deg)')))
+    if t == 'point' and s.get('portrait'):
+        # od 2026-11-23: punkt z portretem zamiast ikony (prawy dol)
+        o.append(portrait(s['portrait'], s.get('pleft', 560), s.get('ptop', 420), s.get('ph', 930)))
     if t == 'cover':
         if s.get('portrait'):
             o.append(portrait(s['portrait']))
