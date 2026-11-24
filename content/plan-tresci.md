@@ -5,6 +5,7 @@ Rytm: 7 postów w tygodniu. Plan na cały tydzień przychodzi w poniedziałek ok
 ## Uwagi dla zadania poniedziałkowego
 - CENNIK WSTRZYMANY (Krzyżu, 16.11.2026): ceny są w trakcie zmiany, nie publikujemy żadnych cen na grafikach, w podpisach ani na zrzutach (np. chip „Strony od 3000 zł” na krzyzu.studio trzeba wyciąć). Zamiast cen: „wycena indywidualna po krótkiej rozmowie”. Obowiązuje do odwołania.
 - Tydzień 2026-10-26 (pon 26.10 do nd 1.11) jest JUŻ PRZYGOTOWANY w sesji z 24.10 (content/2026-10-26.*: spec, posts.json z podpisami, png.txt z URL-ami). Nie rób nowych postów: sprawdź w Metricool, czy są zaplanowane. Jeśli nie są, wyślij Krzyżu przypomnienie o akceptacji tego planu.
+- LIMIT METRICOOL (24.11.2026): darmowy plan publikuje maksymalnie 20 postów w miesiącu kalendarzowym (reset 1. dnia miesiąca). Po przekroczeniu posty kończą się błędem „You have reached your Metricool account limit”. Przed planowaniem policz posty opublikowane przez Metricool w danym miesiącu; nadwyżkę zapisuj jako szkic (draft) i przygotuj Krzyżu paczkę do ręcznej publikacji. Tydzień 2026-11-23 publikowany ręcznie.
 - Od tygodnia 2026-11-02 planuj według content/strategia.md (filary, rytm i układy v2 poniżej).
 - RÓŻNORODNOŚĆ GRAFIK (Krzyżu, 23.11.2026): grafiki nie mogą wyglądać tak samo. Korzystaj z partii 2 biblioteki (assets/template/portrety.md: 23 portrety, 54 ikony, 13 obiektów 3D), w każdej karuzeli mieszaj co najmniej 2 rodzaje akcentów (portret, duży obiekt 3D, ikona, zrzut), używaj nowych opcji gen.py (portret w punkcie, obiekt w CTA i opinii).
 
